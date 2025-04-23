@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-04-16"
+version: "2025-04-18"
 sort: by_weight
 ...
 # +_+
@@ -335,7 +335,6 @@ sort: by_weight
 阿联酋长国	a lian qiu zhang guo	100
 阿莲乡	a lian xiang	100
 阿亮学长	a liang xue zhang	100
-阿列夫	a lie fu	100
 阿列夫零	a lie fu ling	100
 阿列夫数	a lie fu shu	100
 阿列克西斯	a lie ke xi si	100
@@ -36578,6 +36577,7 @@ sort: by_weight
 冲积堤	chong ji di	100
 冲击地压	chong ji di ya	100
 冲击地压防治	chong ji di ya fang zhi	100
+重积分	chong ji fen	100
 充饥画饼	chong ji hua bing	100
 冲击铠甲	chong ji kai jia	100
 冲击力度	chong ji li du	100
@@ -53072,7 +53072,6 @@ sort: by_weight
 到三季度	dao san ji du	100
 倒三角传中	dao san jiao chuan zhong	100
 倒三角回传	dao san jiao hui chuan	100
-倒三角算符	dao san jiao suan fu	100
 倒嗓子	dao sang zi	100
 刀山剑林	dao shan jian lin	100
 刀山剑岭	dao shan jian ling	100
@@ -80103,7 +80102,6 @@ sort: by_weight
 副镇长陈	fu zhen zhang chen	100
 副镇长王	fu zhen zhang wang	100
 扶正黜邪	fu zheng chu xie	100
-负正号	fu zheng hao	100
 扶正压邪	fu zheng ya xie	100
 父执辈	fu zhi bei	100
 付之丙丁	fu zhi bing ding	100
@@ -156276,7 +156274,6 @@ sort: by_weight
 洛基第二季	luo ji di er ji	100
 洛基第一季	luo ji di yi ji	100
 逻辑对得上	luo ji dui de shang	100
-逻辑非	luo ji fei	100
 逻辑鬼才	luo ji gui cai	100
 逻辑核心	luo ji he xin	100
 逻辑核心数	luo ji he xin shu	100
@@ -183256,8 +183253,6 @@ sort: by_weight
 劈心里	pi xin li	100
 披心沥胆	pi xin li dan	100
 披星戴月地想你	pi xing dai yue de xiang ni	100
-劈形算符	pi xing suan fu	100
-劈形算子	pi xing suan zi	100
 披绣闼	pi xiu ta	100
 脾虚湿盛	pi xu shi sheng	100
 皮靴子	pi xue zi	100
@@ -325170,7 +325165,6 @@ sort: by_weight
 重疾发生率	zhong ji fa sheng lv	100
 中级反弹	zhong ji fan tan	100
 中级反弹行情	zhong ji fan tan hang qing	100
-重积分	zhong ji fen	100
 重疾分组	zhong ji fen zu	100
 中级工	zhong ji gong	100
 中级工程师	zhong ji gong cheng shi	100

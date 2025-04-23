@@ -2370,7 +2370,7 @@
 #///
 ---
 name: base
-version: "2025-04-16"
+version: "2025-04-18"
 sort: by_weight
 ...
 # +_+
@@ -2906,6 +2906,7 @@ sort: by_weight
 阿联酋	a lian qiu	30830
 阿联酋队	a lian qiu dui	450
 阿亮	a liang	4995
+阿列夫	a lie fu	123
 阿列克斯宝螺	a lie ke si bao luo	1
 阿列克谢	a lie ke xie	197
 阿林	a lin	1
@@ -8344,6 +8345,7 @@ sort: by_weight
 把此	ba ci	16105
 把词	ba ci	1150
 八次方	ba ci fang	3333
+八次幂	ba ci mi	123
 拔丛出类	ba cong chu lei	1
 拔萃出群	ba cui chu qun	1
 八寸	ba cun	3805
@@ -16645,6 +16647,7 @@ sort: by_weight
 保函效力	bao han xiao li	20
 包含性析取	bao han xing xi qu	1
 包含映射	bao han ying she	2
+包含于	bao han yu	123
 包含在	bao han zai	29555
 包含在内	bao han zai nei	1840
 包含着	bao han zhe	43900
@@ -26029,6 +26032,7 @@ sort: by_weight
 变化幅度	bian hua fu du	3565
 变化规律	bian hua gui lv	12995
 变化检测	bian hua jian ce	93
+变化量	bian hua liang	123
 变化率	bian hua lv	7815
 变化莫测	bian hua mo ce	4880
 变化器	bian hua qi	13
@@ -27495,6 +27499,7 @@ sort: by_weight
 标绘	biao hui	1340
 标记	biao ji	295535
 表记	biao ji	2010
+标积	biao ji	111
 标记变量	biao ji bian liang	737
 标记部分	biao ji bu fen	68
 标记重捕	biao ji chong bu	147
@@ -27565,6 +27570,7 @@ sort: by_weight
 表连接	biao lian jie	3109
 标量	biao liang	6839
 标量处理器	biao liang chu li qi	19
+标量积	biao liang ji	111
 标量聚合	biao liang ju he	1
 表列式	biao lie shi	5
 表六	biao liu	1395
@@ -31945,6 +31951,7 @@ sort: by_weight
 不包分配	bu bao fen pei	1530
 不包含	bu bao han	29945
 不包含性析取	bu bao han xing xi qu	1
+不包含于	bu bao han yu	123
 不饱和	bu bao he	12145
 不饱和溶液	bu bao he rong ye	780
 不饱和树脂	bu bao he shu zhi	1585
@@ -77816,6 +77823,7 @@ sort: by_weight
 荡尽	dang jin	1280
 党禁	dang jin	720
 当紧	dang jin	615
+当仅当	dang jin dang	121
 当今廊庙具	dang jin lang miao ju	1
 当今社会	dang jin she hui	22435
 当今时代	dang jin shi dai	10685
@@ -79382,6 +79390,7 @@ sort: by_weight
 导入注册表	dao ru zhu ce biao	4385
 倒三颠四	dao san dian si	1
 倒三角	dao san jiao	3400
+倒三角算符	dao san jiao suan fu	123
 倒三七	dao san qi	1210
 倒嗓	dao sang	9999
 盗嫂门	dao sao men	1
@@ -83517,8 +83526,9 @@ sort: by_weight
 # 迪卡	di ka	0
 笛卡尔	di ka er	7035
 蒂卡尔	di ka er	1
+笛卡尔乘积	di ka er cheng ji	111
 笛卡尔方程	di ka er fang cheng	10
-笛卡尔积	di ka er ji	330
+笛卡尔积	di ka er ji	336
 笛卡尔平面	di ka er ping mian	40
 笛卡尔叶形线	di ka er ye xing xian	15
 笛卡尔坐标	di ka er zuo biao	40
@@ -103051,6 +103061,7 @@ sort: by_weight
 二次接线	er ci jie xian	325
 二次开发	er ci kai fa	22045
 而此刻	er ci ke	6125
+二次幂	er ci mi	123
 二次灭绝	er ci mie jue	200
 二次能源	er ci neng yuan	1520
 二次排序	er ci pai xu	364
@@ -123094,8 +123105,10 @@ sort: by_weight
 辅政	fu zheng	4415
 斧正	fu zheng	2520
 副证	fu zheng	2490
+负正	fu zheng	123
 辅正除邪	fu zheng chu xie	111
 扶正固本	fu zheng gu ben	171
+负正号	fu zheng hao	123
 傅政华	fu zheng hua	185
 扶正化瘀	fu zheng hua yu	7
 扶正化瘀胶囊	fu zheng hua yu jiao nang	6
@@ -158112,7 +158125,7 @@ sort: by_weight
 合区	he qu	8888
 何去	he qu	3810
 河渠	he qu	3710
-合取	he qu	5
+合取	he qu	9
 # 河区	he qu	0
 # 河曲	he qu	0
 合取范式	he qu fan shi	70
@@ -180864,6 +180877,7 @@ sort: by_weight
 寄辞	ji ci	105
 济慈	ji ci	2
 即此爱汝一念	ji ci ai ru yi nian	16
+几次幂	ji ci mi	134
 棘刺母猴	ji ci mu hou	1
 嵴刺腔吻鳕	ji ci qiang wen xue	1
 几次三番	ji ci san fan	2660
@@ -210391,6 +210405,7 @@ sort: by_weight
 就此搁笔	jiu ci ge bi	37
 就此结束	jiu ci jie shu	4900
 就此了结	jiu ci liao jie	670
+九次幂	jiu ci mi	123
 酒次青衣	jiu ci qing yi	1
 就此事	jiu ci shi	76
 就从	jiu cong	96770
@@ -245666,6 +245681,7 @@ sort: by_weight
 零次	ling ci	1230
 令慈	ling ci	80
 零次方	ling ci fang	3333
+零次幂	ling ci mi	123
 另存	ling cun	11415
 铃村爱里	ling cun ai li	6666
 铃村健一	ling cun jian yi	315
@@ -247473,6 +247489,7 @@ sort: by_weight
 留此	liu ci	4175
 六次方	liu ci fang	3333
 六次会议	liu ci hui yi	3235
+六次幂	liu ci mi	123
 流刺网	liu ci wang	260
 # 刘琮	liu cong	0
 # 刘聪	liu cong	0
@@ -254907,6 +254924,7 @@ sort: by_weight
 逻辑电平	luo ji dian ping	1190
 裸棘杜父鱼	luo ji du fu yu	1
 逻辑方法	luo ji fang fa	1870
+逻辑非	luo ji fei	123
 逻辑分区	luo ji fen qu	5255
 逻辑分析	luo ji fen xi	5340
 逻辑分页	luo ji fen ye	41
@@ -254919,6 +254937,7 @@ sort: by_weight
 逻辑和	luo ji he	11010
 逻辑划分	luo ji hua fen	500
 逻辑环	luo ji huan	17
+逻辑或	luo ji huo	123
 逻辑记录	luo ji ji lu	285
 逻辑记忆	luo ji ji yi	8
 罗技键盘	luo ji jian pan	249
@@ -268560,6 +268579,7 @@ sort: by_weight
 密云十里堡	mi yun shi li pu	25
 密云收费站	mi yun shou fei zhan	22
 密云水库	mi yun shui ku	4085
+幂运算	mi yun suan	123
 密云太阳家园	mi yun tai yang jia yuan	193
 密云图书馆	mi yun tu shu guan	65
 密云西大桥	mi yun xi da qiao	3
@@ -294574,6 +294594,8 @@ sort: by_weight
 僻性	pi xing	90
 皮姓	pi xing	20
 披星戴月	pi xing dai yue	4690
+劈形算符	pi xing suan fu	123
+劈形算子	pi xing suan zi	123
 劈胸	pi xiong	330
 貔貅	pi xiu	9060
 貔貅百万	pi xiu bai wan	1
@@ -300077,6 +300099,7 @@ sort: by_weight
 其次关木索	qi ci guan mu suo	2
 其次毁肌肤	qi ci hui ji fu	2
 七次量衣一次裁	qi ci liang yi yi ci cai	1
+七次幂	qi ci mi	123
 其次诎体受辱	qi ci qu ti shou ru	2
 其次是	qi ci shi	114735
 其次剔毛发	qi ci ti mao fa	2
@@ -329088,6 +329111,7 @@ sort: by_weight
 三重唱	san chong chang	850
 三重底	san chong di	355
 三重积	san chong ji	30
+三重积分	san chong ji fen	156
 三重门	san chong men	1720
 三重矢	san chong shi	326
 三重市	san chong shi	44
@@ -329120,7 +329144,7 @@ sort: by_weight
 三次会议	san ci hui yi	16050
 三次结婚	san ci jie hun	50
 三次课	san ci ke	150
-三次幂	san ci mi	35
+三次幂	san ci mi	134
 三次握手	san ci wo shou	9343
 三次谐波	san ci xie bo	775
 三次元	san ci yuan	2035
@@ -347720,6 +347744,7 @@ sort: by_weight
 拾此充饥肠	shi ci chong ji chang	2
 十次方	shi ci fang	195
 诗词歌赋	shi ci ge fu	6210
+十次幂	shi ci mi	113
 诗词曲赋	shi ci qu fu	1745
 时此时彼	shi ci shi bi	15
 是从	shi cong	500322
@@ -349494,6 +349519,7 @@ sort: by_weight
 湿季	shi ji	1255
 失机	shi ji	960
 侍姬	shi ji	180
+矢积	shi ji	32
 时济	shi ji	11
 失记	shi ji	1
 食既	shi ji	1
@@ -351081,7 +351107,7 @@ sort: by_weight
 矢量函数	shi liang han shu	20
 矢量和	shi liang he	855
 矢量化	shi liang hua	2980
-矢量积	shi liang ji	40
+矢量积	shi liang ji	141
 矢量控制	shi liang kong zhi	3475
 市粮库	shi liang ku	5
 矢量蒙版	shi liang meng ban	29
@@ -366816,6 +366842,7 @@ sort: by_weight
 丝朿蛤属	si ci ge shu	1
 四刺和糠虾四刺原新糠虾	si ci he kang xia si ci yuan xin kang xia	1
 四次会议	si ci hui yi	22275
+四次幂	si ci mi	123
 四次握手	si ci wo shou	2684
 四刺窄腹剑水蚤	si ci zhai fu jian shui zao	1
 思忖	si cun	10425
@@ -398574,6 +398601,7 @@ sort: by_weight
 外祸	wai huo	110
 外活儿	wai huo er	9999
 外籍	wai ji	64850
+外积	wai ji	111
 外籍华人	wai ji hua ren	2850
 外籍居民	wai ji ju min	165
 外籍球员	wai ji qiu yuan	860
@@ -415175,6 +415203,7 @@ sort: by_weight
 乌茨科维奇	wu ci ke wei qi	187
 芜词俚曲	wu ci li qu	1
 梧慈路	wu ci lu	6
+五次幂	wu ci mi	123
 五次全会	wu ci quan hui	4300
 无辞让之心	wu ci rang zhi xin	7
 无此人	wu ci ren	320
@@ -432510,6 +432539,7 @@ sort: by_weight
 向量和	xiang liang he	690
 向量化	xiang liang hua	1209
 向量机	xiang liang ji	121
+向量积	xiang liang ji	111
 向量空间	xiang liang kong jian	1694
 向量空间模型	xiang liang kong jian mo xing	656
 向量量化	xiang liang liang hua	83
@@ -433156,6 +433186,7 @@ sort: by_weight
 向上跑	xiang shang pao	235
 向上倾斜	xiang shang qing xie	575
 想上去	xiang shang qu	1395
+向上取整	xiang shang qu zheng	123
 向上扔	xiang shang reng	40
 向上伸延	xiang shang shen yan	45
 向上调整	xiang shang tiao zheng	900
@@ -433717,6 +433748,7 @@ sort: by_weight
 乡下青年	xiang xia qing nian	150
 向下倾斜	xiang xia qing xie	1385
 想下去	xiang xia qu	2080
+向下取整	xiang xia qu zheng	123
 乡下人	xiang xia ren	10850
 向下调整	xiang xia tiao zheng	2240
 向下移动	xiang xia yi dong	134
@@ -467551,6 +467583,7 @@ sort: by_weight
 一赐乐业教	yi ci le ye jiao	5
 以此类推	yi ci lei tui	19440
 依此类推	yi ci lei tui	1111
+一次幂	yi ci mi	123
 一辞莫赞	yi ci mo zan	1
 一次能源	yi ci neng yuan	5545
 一次努力	yi ci nu li	295
@@ -501353,7 +501386,7 @@ sort: by_weight
 晕海宁	yun hai ning	6
 蕴含	yun han	32910
 云汉	yun han	3710
-蕴涵	yun han	1
+蕴涵	yun han	2
 蕴涵式	yun han shi	40
 蕴含式	yun han shi	2
 蕴含着	yun han zhe	24565
