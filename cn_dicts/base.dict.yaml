@@ -2423,10 +2423,12 @@
 # 「回调」在编程领域读huí diào，在金融领域读huí tiáo
 # 「滹沱」「泘沱」音义皆同，《通规字表》和《现汉》无「泘」，地名中「滹」「泘」混用，保留两种写法
 # 「篠田」→「筱田」，《现汉》将「篠」作为「筱」的异体字，《世界人名翻译大辞典》用「筱田」
+# 「簸萁」→「簸箕」
+# 「二零一二年」→「二〇一二年」，据《现代汉语词典》和GB/T 15835-2011《出版物上数字用法》，连续数字中的零推荐用「〇」，万千百等后面用「零」
 #///
 ---
 name: base
-version: "2025-04-23"
+version: "2025-04-26"
 sort: by_weight
 ...
 # +_+
@@ -9205,12 +9207,14 @@ sort: by_weight
 八零	ba ling	5111
 巴陵	ba ling	1
 八零后	ba ling hou	9999
+八〇后	ba ling hou	333
 巴陵街	ba ling jie	133
 坝陵街道	ba ling jie dao	4
 八零九零	ba ling jiu ling	195
+八〇九〇	ba ling jiu ling	123
 灞陵墓园	ba ling mu yuan	3
 坝陵桥	ba ling qiao	58
-霸陵桥	ba ling qiao	1
+霸陵桥	ba ling qiao	3
 坝陵桥街道	ba ling qiao jie dao	9
 霸陵伤别	ba ling shang bie	2
 霸凌事件	ba ling shi jian	180
@@ -9874,7 +9878,7 @@ sort: by_weight
 把吴钩看了	ba wu gou kan le	8
 八五规划	ba wu gui hua	55
 八五计划	ba wu ji hua	185
-八五零农场	ba wu ling nong chang	2
+八五〇农场	ba wu ling nong chang	2
 八五期间	ba wu qi jian	290
 八五时期	ba wu shi qi	35
 八五折	ba wu zhe	2485
@@ -31551,7 +31555,6 @@ sort: by_weight
 博铺街道	bo pu jie dao	3
 波普艺术	bo pu yi shu	1490
 勃起	bo qi	82460
-簸萁	bo qi	3
 博奇海螺	bo qi hai luo	1
 啵奇塔	bo qi ta	182
 波奇塔	bo qi ta	153
@@ -103860,7 +103863,7 @@ sort: by_weight
 而就	er jiu	17415
 二九	er jiu	6540
 二舅	er jiu	2005
-二九零农场	er jiu ling nong chang	1
+二九〇农场	er jiu ling nong chang	1
 而就在	er jiu zai	12865
 二居	er ju	22222
 二句	er ju	12785
@@ -103991,37 +103994,28 @@ sort: by_weight
 而霖雨十日	er lin yu shi ri	1
 而令	er ling	3333
 二零	er ling	2020
-二零二二	er ling er er	172
-二零二零	er ling er ling	135
-二零二一	er ling er yi	149
-二零二一年	er ling er yi nian	197
-二零零八	er ling ling ba	99
-二零零二	er ling ling er	99
-二〇〇二	er ling ling er	96
-二零零九	er ling ling jiu	99
-二零零零	er ling ling ling	9999
-二〇〇〇	er ling ling ling	58
-二零零六	er ling ling liu	9999
-二〇〇六	er ling ling liu	2440
-二零零七	er ling ling qi	9999
-二〇〇七	er ling ling qi	267
-二零零三	er ling ling san	9999
-二〇〇三	er ling ling san	165
-二零零四	er ling ling si	9999
-二〇〇四	er ling ling si	387
-二零零五	er ling ling wu	9999
-二〇〇五	er ling ling wu	698
-二零零一	er ling ling yi	9999
-二〇〇一	er ling ling yi	82
-二零三	er ling san	165
-二零三五	er ling san wu	168
+二〇二二	er ling er er	172
+二〇二〇	er ling er ling	135
+二〇二一	er ling er yi	149
+二〇二一年	er ling er yi nian	197
+二〇〇八	er ling ling ba	99
+二〇〇二	er ling ling er	99
+二〇〇九	er ling ling jiu	99
+二〇〇〇	er ling ling ling	9999
+二〇〇六	er ling ling liu	9999
+二〇〇七	er ling ling qi	9999
+二〇〇三	er ling ling san	9999
+二〇〇四	er ling ling si	9999
+二〇〇五	er ling ling wu	9999
+二〇〇一	er ling ling yi	9999
+二〇三	er ling san	165
+二〇三五	er ling san wu	168
 二〇三五远景规划目标	er ling san wu yuan jing gui hua mu biao	87
 二〇三五远景目标	er ling san wu yuan jing mu biao	87
 二〇五所	er ling wu suo	4
 而另一	er ling yi	32590
 而另一个	er ling yi ge	11575
-二零一零	er ling yi ling	333
-二〇一〇	er ling yi ling	29
+二〇一〇	er ling yi ling	129
 二〇一〇年	er ling yi ling nian	543
 而另一种	er ling yi zhong	3910
 二六	er liu	87600
@@ -104082,7 +104076,6 @@ sort: by_weight
 二氯二氟甲烷	er lv er fu jia wan	2
 二氯化锰	er lv hua meng	10
 二氯甲烷	er lv jia wan	3910
-二氯年前	er lv nian qian	1
 二氯异氰尿酸钠	er lv yi qing niao suan na	13
 二氯乙烷	er lv yi wan	1730
 二氯乙烷中毒	er lv yi wan zhong du	98
@@ -211722,9 +211715,9 @@ sort: by_weight
 # 九岭	jiu ling	0
 久凌大厦	jiu ling da sha	12
 九零后	jiu ling hou	9999
+九〇后	jiu ling hou	333
 旧零件	jiu ling jian	170
-九零年	jiu ling nian	65
-九〇年	jiu ling nian	8
+九〇年	jiu ling nian	65
 酒令如军令	jiu ling ru jun ling	1
 九龄书大字	jiu ling shu da zi	1
 九灵元圣	jiu ling yuan sheng	200
@@ -215961,7 +215954,7 @@ sort: by_weight
 绝密件	jue mi jian	60
 绝密文件	jue mi wen jian	1265
 绝密押运	jue mi ya yun	110
-绝密一九五零	jue mi yi jiu wu ling	1
+绝密一九五〇	jue mi yi jiu wu ling	1
 绝妙	jue miao	33715
 绝灭	jue mie	4150
 觉民	jue min	2100
@@ -246086,7 +246079,8 @@ sort: by_weight
 灵安	ling an	2
 另案处理	ling an chu li	3595
 零八	ling ba	6365
-零八年	ling ba nian	122
+零八年	ling ba nian	123
+〇八年	ling ba nian	122
 凌白羽	ling bai yu	385
 领班	ling ban	24170
 领办	ling ban	6620
@@ -246328,6 +246322,8 @@ sort: by_weight
 玲儿	ling er	5170
 翎儿	ling er	815
 零儿	ling er	515
+零二年	ling er nian	123
+〇二年	ling er nian	121
 铃儿响叮当	ling er xiang ding dang	1575
 领罚	ling fa	1111
 灵泛	ling fan	230
@@ -246563,7 +246559,8 @@ sort: by_weight
 凌久安全增强电子邮件系统	ling jiu an quan zeng qiang dian zi you jian xi tong	87
 灵鹫峰	ling jiu feng	265
 凌久高科	ling jiu gao ke	87
-零九年	ling jiu nian	999
+〇九年	ling jiu nian	124
+零九年	ling jiu nian	123
 灵鹫镇	ling jiu zhen	1
 另据	ling ju	35515
 另具	ling ju	1300
@@ -246641,12 +246638,16 @@ sort: by_weight
 零零狗	ling ling gou	1163
 灵灵狗	ling ling gou	697
 零零后	ling ling hou	9999
+〇〇后	ling ling hou	333
 零陵郡	ling ling jun	14
 零陵路	ling ling lu	3545
 凌凌乱乱	ling ling luan luan	235
 零零落落	ling ling luo luo	1405
+零零年	ling ling nian	123
+〇〇年	ling ling nian	121
 零零七	ling ling qi	777
-凌凌七	ling ling qi	77
+〇〇七	ling ling qi	77
+凌凌七	ling ling qi	7
 凌凌漆	ling ling qi	7
 泠泠七弦上	ling ling qi xian shang	4
 零陵区	ling ling qu	1130
@@ -246654,6 +246655,8 @@ sort: by_weight
 零零碎碎	ling ling sui sui	3540
 零陵县	ling ling xian	22
 零零星星	ling ling xing xing	2320
+零六年	ling liu nian	123
+〇六年	ling liu nian	121
 玲珑	ling long	59530
 昤昽	ling long	1
 玲珑公园	ling long gong yuan	24
@@ -246798,6 +246801,8 @@ sort: by_weight
 零七股份	ling qi gu fen	23
 另起楼台	ling qi lou tai	1
 另起炉灶	ling qi lu zao	5750
+零七年	ling qi nian	123
+〇七年	ling qi nian	121
 令企业	ling qi ye	2355
 零钱	ling qian	22175
 灵前	ling qian	3655
@@ -246959,6 +246964,8 @@ sort: by_weight
 羚锐股份	ling rui gu fen	12500
 陵弱暴寡	ling ruo bao gua	111
 零散	ling san	32240
+零三年	ling san nian	123
+〇三年	ling san nian	121
 令色巧言	ling se qiao yan	1
 菱纱	ling sha	1
 灵山	ling shan	33225
@@ -247080,6 +247087,8 @@ sort: by_weight
 陵水酸粉	ling shui suan fen	116
 陵水县	ling shui xian	1525
 另说	ling shuo	9999
+零四年	ling si nian	123
+〇四年	ling si nian	121
 凌素珍	ling su zhen	6
 零碎	ling sui	11500
 零碎不全	ling sui bu quan	5
@@ -247169,6 +247178,8 @@ sort: by_weight
 领悟到	ling wu dao	14255
 领悟了	ling wu le	6920
 领悟力	ling wu li	3680
+零五年	ling wu nian	123
+〇五年	ling wu nian	121
 灵武市	ling wu shi	2505
 灵武县	ling wu xian	335
 领物资	ling wu zi	107
@@ -247380,6 +247391,8 @@ sort: by_weight
 令仪令色	ling yi ling se	4
 另一面	ling yi mian	29555
 另一名	ling yi ming	24590
+零一年	ling yi nian	123
+〇一年	ling yi nian	121
 另一匹	ling yi pi	690
 另一批	ling yi pi	89
 另一篇	ling yi pian	5430
@@ -249054,7 +249067,7 @@ sort: by_weight
 柳林芝麻饼	liu lin zhi ma bing	14
 六零	liu ling	3350
 刘令飞	liu ling fei	179
-六零六	liu ling liu	210
+六〇六	liu ling liu	210
 六龄童	liu ling tong	275
 遛遛	liu liu	28450
 六六	liu liu	1045
@@ -302015,10 +302028,11 @@ sort: by_weight
 # 绮玲	qi ling	0
 七零八落	qi ling ba luo	6375
 七零八散	qi ling ba san	28
-七零八三	qi ling ba san	1
+七〇八三	qi ling ba san	12
 七零八碎	qi ling ba sui	475
 齐灵公	qi ling gong	4
-七零后	qi ling hou	190
+七零后	qi ling hou	346
+七〇后	qi ling hou	333
 齐陵街道	qi ling jie dao	142
 欺凌事件	qi ling shi jian	193
 七龄思即壮	qi ling si ji zhuang	1
@@ -330839,9 +330853,8 @@ sort: by_weight
 三菱电机	san ling dian ji	4530
 三菱汽车	san ling qi che	4920
 三零盛安	san ling sheng an	87
-三零盛安信息系统	san ling sheng an xin xi xi tong	87
 三令五申	san ling wu shen	5415
-三零一	san ling yi	161
+三〇一	san ling yi	161
 三〇一医院	san ling yi yi yuan	1
 三菱银行	san ling yin hang	2
 三菱重工	san ling zhong gong	5100
@@ -368766,7 +368779,7 @@ sort: by_weight
 司令部	si ling bu	47445
 驷岭村	si ling cun	1
 司令官	si ling guan	13415
-四零四	si ling si	195
+四〇四	si ling si	195
 司令台	si ling tai	270
 思灵乡	si ling xiang	2
 死灵象棋	si ling xiang qi	1
@@ -471869,8 +471882,7 @@ sort: by_weight
 一九八八	yi jiu ba ba	475
 一九八二	yi jiu ba er	445
 一九八九	yi jiu ba jiu	625
-一九八〇	yi jiu ba ling	6
-一九八零	yi jiu ba ling	1
+一九八〇	yi jiu ba ling	126
 一九八六	yi jiu ba liu	5690
 一九八七	yi jiu ba qi	4760
 一九八三	yi jiu ba san	3515
@@ -471885,8 +471897,7 @@ sort: by_weight
 一九九八	yi jiu jiu ba	1045
 一九九二	yi jiu jiu er	875
 一九九九	yi jiu jiu jiu	1610
-一九九〇	yi jiu jiu ling	1
-一九九零	yi jiu jiu ling	1
+一九九〇	yi jiu jiu ling	123
 一九九六	yi jiu jiu liu	780
 一九九七	yi jiu jiu qi	1405
 一九九三	yi jiu jiu san	670
