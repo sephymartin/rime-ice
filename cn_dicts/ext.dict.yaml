@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-05-25"
+version: "2025-05-30"
 sort: by_weight
 ...
 # +_+
@@ -1656,6 +1656,7 @@ sort: by_weight
 按地区找	an di qu zhao	100
 按地图	an di tu	100
 安迪·威廉姆斯	an di wei lian mu si	100
+安迪·沃霍尔	an di wo huo er	100
 暗底下	an di xia	100
 按地域	an di yu	100
 暗地主	an di zhu	100
@@ -4232,6 +4233,7 @@ sort: by_weight
 叭啦狗	ba la gou	100
 巴拉圭河	ba la gui he	100
 巴拉基列夫	ba la ji lie fu	100
+巴拉克·奥巴马	ba la ke ao ba ma	100
 巴啦啦	ba la la	100
 巴啦啦小魔仙	ba la la xiao mo xian	100
 巴拉马	ba la ma	100
@@ -12900,14 +12902,11 @@ sort: by_weight
 比没有强	bi mei you qiang	100
 闭门不纳	bi men bu na	100
 闭门杜客	bi men du ke	100
-筚门圭窦	bi men gui dou	100
 筚门闺窦	bi men gui dou	100
-荜门圭窦	bi men gui dou	100
 筚门陋巷	bi men lou xiang	100
 闭门觅句	bi men mi ju	100
-筚门蓬户	bi men peng hu	100
 闭门却扫	bi men que sao	100
-闭门塞窦	bi men sai dou	100
+闭门塞窦	bi men se dou	100
 比蜜还甜	bi mi hai tian	100
 滗米汤	bi mi tang	100
 避免长时间	bi mian chang shi jian	100
@@ -16815,7 +16814,7 @@ sort: by_weight
 伯叔祖父	bo shu zu fu	100
 伯叔祖母	bo shu zu mu	100
 波斯宝藏	bo si bao zang	100
-柏斯波利斯	bo si bo li si	100
+波斯波利斯	bo si bo li si	100
 博思得	bo si de	100
 波斯地毯	bo si di tan	100
 波斯虎	bo si hu	100
@@ -19528,6 +19527,7 @@ sort: by_weight
 不可置信	bu ke zhi xin	100
 不可执行	bu ke zhi xing	100
 不刻字	bu ke zi	100
+不可赀计	bu ke zi ji	100
 不克自制	bu ke zi zhi	100
 不可阻挡的了	bu ke zu dang de le	100
 不肯放	bu ken fang	100
@@ -40564,6 +40564,7 @@ sort: by_weight
 传承百年	chuan cheng bai nian	100
 传承班	chuan cheng ban	100
 传承保护	chuan cheng bao hu	100
+传承不守旧	chuan cheng bu shou jiu	100
 传承传播	chuan cheng chuan bo	100
 传承传统	chuan cheng chuan tong	100
 传承传统文化	chuan cheng chuan tong wen hua	100
@@ -42966,6 +42967,7 @@ sort: by_weight
 创下了历史新高	chuang xia le li shi xin gao	100
 床下有人	chuang xia you ren	100
 创先争优	chuang xian zheng you	100
+创新不忘本	chuang xin bu wang ben	100
 创新策源地	chuang xin ce yuan di	100
 创新程度	chuang xin cheng du	100
 创新成长	chuang xin cheng zhang	100
@@ -44885,6 +44887,7 @@ sort: by_weight
 卒中中心	cu zhong zhong xin	100
 卒中中心建设	cu zhong zhong xin jian she	100
 粗壮的韭菜	cu zhuang de jiu cai	100
+汆白肉	cuan bai rou	100
 蹿出地面	cuan chu di mian	100
 蹿出来	cuan chu lai	100
 蹿得快	cuan dei kuai	100
@@ -50618,6 +50621,7 @@ sort: by_weight
 诞生石	dan sheng shi	100
 诞生之地	dan sheng zhi di	100
 单式编制	dan shi bian zhi	100
+儋石不储	dan shi bu chu	100
 但是不用	dan shi bu yong	100
 但是不知道	dan shi bu zhi dao	100
 但是代价是什么	dan shi dai jia shi shen me	100
@@ -60550,6 +60554,7 @@ sort: by_weight
 东宫的储君	dong gong de chu jun	100
 东宫易主	dong gong yi zhu	100
 东沟镇	dong gou zhen	100
+冬菇扒茄子	dong gu pa qie zi	100
 东顾西盼	dong gu xi pan	100
 冬瓜茶	dong gua cha	100
 东莞啊	dong guan a	100
@@ -67989,6 +67994,7 @@ sort: by_weight
 恶意阻挠	e yi zu nao	100
 恶意做空	e yi zuo kong	100
 恶有善报	e you shan bao	100
+阿谀巴结	e yu ba jie	100
 阿谀谄媚	e yu chan mei	100
 鳄鱼的眼泪	e yu de yan lei	100
 阿谀奉承者	e yu feng cheng zhe	100
@@ -70972,6 +70978,7 @@ sort: by_weight
 二者之一	er zhe zhi yi	100
 而这种力量	er zhe zhong li liang	100
 二正丙醚	er zheng bing mi	100
+二之日栗烈	er zhi ri li lie	100
 二趾树懒	er zhi shu lan	100
 而至于	er zhi yu	100
 而至于率兽食人	er zhi yu shuai shou shi ren	100
@@ -72841,8 +72848,6 @@ sort: by_weight
 番茄切块	fan qie qie kuai	100
 番茄去皮	fan qie qu pi	100
 番茄色	fan qie se	100
-番茄社区	fan qie she qu	100
-番茄社区下载	fan qie she qu xia zai	100
 番茄时间	fan qie shi jian	100
 番茄视频	fan qie shi pin	100
 番茄时钟	fan qie shi zhong	100
@@ -72850,7 +72855,6 @@ sort: by_weight
 番茄台	fan qie tai	100
 番茄汤	fan qie tang	100
 番茄田	fan qie tian	100
-番茄田艺术	fan qie tian yi shu	100
 番茄土豆	fan qie tu dou	100
 番茄味	fan qie wei	100
 番茄洗净	fan qie xi jing	100
@@ -76919,7 +76923,7 @@ sort: by_weight
 分流配置	fen liu pei zhi	100
 分馏器	fen liu qi	100
 分流绕行	fen liu rao xing	100
-分流下岗人员争取再就业	fen liu xia gang ren yuan zheng qu zai jiu ye	100
+分流下岗人员	fen liu xia gang ren yuan	100
 分路扬镳	fen lu yang biao	100
 纷乱不宁	fen luan bu ning	100
 分茅赐土	fen mao ci tu	100
@@ -89608,7 +89612,9 @@ sort: by_weight
 勾勒未来	gou le wei lai	100
 勾勒线条	gou le xian tiao	100
 狗里狗气	gou li gou qi	100
+苟利国家	gou li guo jia	100
 苟利国家生死以	gou li guo jia sheng si yi	100
+苟利社稷	gou li she ji	100
 狗脸识别	gou lian shi bie	100
 苟留残喘	gou liu can chuan	100
 佝偻着背	gou lou zhe bei	100
@@ -101865,6 +101871,7 @@ sort: by_weight
 和富大埔	he fu da bu	100
 合服奖励	he fu jiang li	100
 赫弗里希	he fu li xi	100
+赫夫曼树	he fu man shu	100
 何夫人	he fu ren	100
 合府上	he fu shang	100
 核辐射外泄	he fu she wai xie	100
@@ -101948,6 +101955,7 @@ sort: by_weight
 荷花出水	he hua chu shui	100
 荷花基地	he hua ji di	100
 荷花开了	he hua kai le	100
+禾花雀	he hua que	100
 荷花盛开	he hua sheng kai	100
 荷花盛开的季节	he hua sheng kai de ji jie	100
 合欢夫人	he huan fu ren	100
@@ -102947,6 +102955,7 @@ sort: by_weight
 合意之下	he yi zhi xia	100
 喝一盅	he yi zhong	100
 何以自处	he yi zi chu	100
+何以卒岁	he yi zu sui	100
 喝饮料吗	he yin liao ma	100
 和英词典	he ying ci dian	100
 何由见得	he you jian de	100
@@ -109890,6 +109899,7 @@ sort: by_weight
 黄心懋	huang xin mao	100
 黄馨仪	huang xin yi	100
 黄星魁	huang xing kui	100
+黄胸鹀	huang xiong wu	100
 黄锈病	huang xiu bing	100
 黄馘槁项	huang xu gao xiang	100
 黄旭升	huang xu sheng	100
@@ -115149,6 +115159,7 @@ sort: by_weight
 积起来	ji qi lai	100
 及其来了	ji qi lai le	100
 激起了	ji qi le	100
+集齐了	ji qi le	100
 集齐了么	ji qi le me	100
 激起了千层浪	ji qi le qian ceng lang	100
 极其便宜	ji qi pian yi	100
@@ -117495,6 +117506,7 @@ sort: by_weight
 加拿大银行	jia na da yin hang	100
 加拿大院校	jia na da yuan xiao	100
 加纳塞地	jia na sai di	100
+甲萘胺	jia nai an	100
 贾南德拉	jia nan de la	100
 迦南地	jia nan di	100
 迦南美地	jia nan mei di	100
@@ -117824,7 +117836,7 @@ sort: by_weight
 家四壁立	jia si bi li	100
 贾斯克	jia si ke	100
 加斯帕德	jia si pa de	100
-贾斯汀比伯	jia si ting bi bo	100
+贾斯廷·比伯	jia si ting bi bo	100
 加速吧	jia su ba	100
 加速包	jia su bao	100
 加速泵	jia su beng	100
@@ -118556,7 +118568,7 @@ sort: by_weight
 加兹尼省	jia zi ni sheng	100
 甲子时	jia zi shi	100
 夹子太硬啦	jia zi tai ying la	100
-家赀万贯	jia zi wan guan	100
+家资万贯	jia zi wan guan	100
 夹子音	jia zi yin	100
 家族辨识度	jia zu bian shi du	100
 家族财富传承	jia zu cai fu chuan cheng	100
@@ -121195,6 +121207,7 @@ sort: by_weight
 降尿酸药物	jiang niao suan yao wu	100
 江宁府	jiang ning fu	100
 江宁婆婆	jiang ning po po	100
+酱扒茄子	jiang pa qie zi	100
 江畔都会上城	jiang pan du hui shang cheng	100
 降频版	jiang pin ban	100
 降频门	jiang pin men	100
@@ -132040,6 +132053,7 @@ sort: by_weight
 九月十一	jiu yue shi yi	100
 九月十一号	jiu yue shi yi hao	100
 九月十一日	jiu yue shi yi ri	100
+九月授衣	jiu yue shou yi	100
 九月四	jiu yue si	100
 九月四日	jiu yue si ri	100
 九月五	jiu yue wu	100
@@ -140213,6 +140227,7 @@ sort: by_weight
 空调大巴	kong tiao da ba	100
 空调打开	kong tiao da kai	100
 空调挡风罩	kong tiao dang feng zhao	100
+空调挡位	kong tiao dang wei	100
 空调的安装	kong tiao de an zhuang	100
 空调的出风口	kong tiao de chu feng kou	100
 空调的功率	kong tiao de gong lv	100
@@ -181459,6 +181474,7 @@ sort: by_weight
 扒窃案件	pa qie an jian	100
 扒窃犯罪	pa qie fan zui	100
 扒窃团伙	pa qie tuan huo	100
+扒茄子	pa qie zi	100
 爬取数据	pa qu shu ju	100
 怕塞车	pa sai che	100
 怕三怕四	pa san pa si	100
@@ -182704,12 +182720,10 @@ sort: by_weight
 陪考家长	pei kao jia zhang	100
 赔了不少钱	pei le bu shao qian	100
 赔了夫人	pei le fu ren	100
-陪了夫人又折兵	pei le fu ren you zhe bing	100
 赔了钱	pei le qian	100
 培勒兹	pei le zi	100
 赔了罪	pei le zui	100
-培里克利斯	pei li ke li si	100
-培里克里斯	pei li ke li si	100
+佩力克里斯	pei li ke li si	100
 陪聊店	pei liao dian	100
 陪聊软件	pei liao ruan jian	100
 配料系统	pei liao xi tong	100
@@ -183996,7 +184010,7 @@ sort: by_weight
 嫖个娼	piao ge chang	100
 朴根滢	piao gen ying	100
 朴光贤	piao guang xian	100
-朴珪瑛	piao gui ying	100
+朴圭瑛	piao gui ying	100
 嫖过娼	piao guo chang	100
 漂过来	piao guo lai	100
 漂过去	piao guo qu	100
@@ -192656,6 +192670,7 @@ sort: by_weight
 切点儿水果	qie dian er shui guo	100
 切点水果	qie dian shui guo	100
 窃电行为	qie dian xing wei	100
+茄萣区	qie ding qu	100
 茄萣乡	qie ding xiang	100
 切断病毒传播途径	qie duan bing du chuan bo tu jing	100
 切断传播	qie duan chuan bo	100
@@ -192840,7 +192855,6 @@ sort: by_weight
 茄子片	qie zi pian	100
 茄子肉	qie zi rou	100
 茄子条	qie zi tiao	100
-茄子网	qie zi wang	100
 茄子洗净	qie zi xi jing	100
 茄子直播	qie zi zhi bo	100
 茄子中	qie zi zhong	100
@@ -199375,7 +199389,6 @@ sort: by_weight
 忍垢偷生	ren gou tou sheng	100
 人孤势单	ren gu shi dan	100
 人鬼不分	ren gui bu fen	100
-人鬼交易所	ren gui jiao yi suo	100
 人鬼殊途	ren gui shu tu	100
 忍过来	ren guo lai	100
 认过来	ren guo lai	100
@@ -201769,7 +201782,7 @@ sort: by_weight
 肉类行业	rou lei hang ye	100
 肉里钱	rou li qian	100
 肉林酒池	rou lin jiu chi	100
-肉末茄子	rou mo qie zi	100
+肉末扒茄子	rou mo pa qie zi	100
 揉奶子	rou nai zi	100
 柔能制刚	rou neng zhi gang	100
 肉牛养殖基地	rou niu yang zhi ji di	100
@@ -206885,8 +206898,9 @@ sort: by_weight
 色调一致	se diao yi zhi	100
 色调映射	se diao ying she	100
 色度仪	se du yi	100
+涩谷果步	se gu guo bu	100
 涩谷辣妹	se gu la mei	100
-涩会人	se hui ren	100
+涩谷系	se gu xi	100
 色觉异常	se jue yi chang	100
 色拉酱	se la jiang	100
 瑟拉赞恩	se la zan en	100
@@ -210644,7 +210658,6 @@ sort: by_weight
 社工库	she gong ku	100
 社工人	she gong ren	100
 社工系	she gong xi	100
-涉谷果步	she gu guo bu	100
 蛇菰科	she gu ke	100
 摄官承乏	she guan cheng fa	100
 赦过宥罪	she guo you zui	100
@@ -211645,7 +211658,6 @@ sort: by_weight
 深调研	shen diao yan	100
 神雕异闻	shen diao yi wen	100
 神雕英雄传	shen diao ying xiong zhuan	100
-审订表	shen ding biao	100
 审定委员会	shen ding wei yuan hui	100
 审订委员会	shen ding wei yuan hui	100
 沈东军	shen dong jun	100
@@ -216382,6 +216394,7 @@ sort: by_weight
 生死相隔两茫茫	sheng si xiang ge liang mang mang	100
 生死相随	sheng si xiang sui	100
 生死一线	sheng si yi xian	100
+生死以之	sheng si yi zhi	100
 生死有命富贵在天	sheng si you ming fu gui zai tian	100
 生死与时间	sheng si yu shi jian	100
 生死在一起	sheng si zai yi qi	100
@@ -232935,6 +232948,7 @@ sort: by_weight
 算不算数呀	suan bu suan shu ya	100
 算不算引狼入室	suan bu suan yin lang ru shi	100
 酸菜厂	suan cai chang	100
+酸菜汆白肉	suan cai cuan bai rou	100
 酸菜脆笋鸡肉粥	suan cai cui sun ji rou zhou	100
 酸菜脆笋鸡肉粥套餐	suan cai cui sun ji rou zhou tao can	100
 酸菜脆笋鸡肉粥组合	suan cai cui sun ji rou zhou zu he	100
@@ -246067,6 +246081,7 @@ sort: by_weight
 拖男带女	tuo nan dai nv	100
 脱内衣	tuo nei yi	100
 托你吉言	tuo ni ji yan	100
+托尼·贾	tuo ni jia	100
 托尼·克罗斯	tuo ni ke luo si	100
 托尼老师	tuo ni lao shi	100
 托尼·帕克	tuo ni pa ke	100
@@ -262984,9 +262999,8 @@ sort: by_weight
 西广场	xi guang chang	100
 吸光性	xi guang xing	100
 喜光植物	xi guang zhi wu	100
-析圭儋爵	xi gui dan jue	100
-析珪判野	xi gui pan ye	100
-系国家	xi guo jia	100
+析圭担爵	xi gui dan jue	100
+析圭判野	xi gui pan ye	100
 洗过来	xi guo lai	100
 洗过去	xi guo qu	100
 嘻哈高校	xi ha gao xiao	100
@@ -268725,6 +268739,7 @@ sort: by_weight
 向公众传递	xiang gong zhong chuan di	100
 香菇基地	xiang gu ji di	100
 香骨鸡腿	xiang gu ji tui	100
+香菇扒茄子	xiang gu pa qie zi	100
 像古天乐	xiang gu tian le	100
 响鼓重锤	xiang gu zhong chui	100
 香菇种植基地	xiang gu zhong zhi ji di	100
@@ -270908,6 +270923,7 @@ sort: by_weight
 小寒节气	xiao han jie qi	100
 小行情	xiao hang qing	100
 小行业	xiao hang ye	100
+销号重开	xiao hao chong kai	100
 消耗过大	xiao hao guo da	100
 消耗过度	xiao hao guo du	100
 消耗了	xiao hao le	100
@@ -270953,6 +270969,7 @@ sort: by_weight
 小红钻	xiao hong zuan	100
 小后生	xiao hou sheng	100
 小虎币	xiao hu bi	100
+销户重开	xiao hu chong kai	100
 小虎墩	xiao hu dun	100
 小虎糕	xiao hu gao	100
 小虎哥	xiao hu ge	100
@@ -296210,6 +296227,7 @@ sort: by_weight
 一直前行	yi zhi qian xing	100
 一直强调	yi zhi qiang diao	100
 一直屈居于	yi zhi qu ju yu	100
+一之日觱发	yi zhi ri bi bo	100
 一直上到	yi zhi shang dao	100
 以致社稷变为丘墟	yi zhi she ji bian wei qiu xu	100
 一指神功	yi zhi shen gong	100
@@ -311924,7 +311942,6 @@ sort: by_weight
 炸鸡腿	zha ji tui	100
 扎吉托娃	zha ji tuo wa	100
 轧机轴承	zha ji zhou cheng	100
-炸茄盒	zha jia he	100
 诈奸不及	zha jian bu ji	100
 轧臼壁	zha jiu bi	100
 榨酒池	zha jiu chi	100
@@ -311976,6 +311993,7 @@ sort: by_weight
 诈骗王	zha pian wang	100
 乍浦镇	zha pu zhen	100
 诈欺罪	zha qi zui	100
+炸茄盒	zha qie he	100
 炸茄子	zha qie zi	100
 扎球王	zha qiu wang	100
 乍热乍冷	zha re zha leng	100
@@ -314400,6 +314418,7 @@ sort: by_weight
 朝加真由美	zhao jia zhen you mei	100
 照价征税	zhao jia zheng shui	100
 招架之功	zhao jia zhi gong	100
+招谏匦	zhao jian gui	100
 照见五蕴皆空	zhao jian wu yun jie kong	100
 赵江月	zhao jiang yue	100
 找角度	zhao jiao du	100
@@ -330105,7 +330124,6 @@ sort: by_weight
 煮元宵	zhu yuan xiao	100
 珠圆玉洁	zhu yuan yu jie	100
 朱院长	zhu yuan zhang	100
-朱元璋建立明朝	zhu yuan zhang jian li ming chao	100
 朱元璋传	zhu yuan zhang zhuan	100
 祝愿祖国繁荣昌盛	zhu yuan zu guo fan rong chang sheng	100
 朱悦萌	zhu yue meng	100
