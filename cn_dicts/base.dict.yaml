@@ -62720,7 +62720,6 @@ sort: by_weight
 创造发明	chuang zao fa ming	4630
 创造方法	chuang zao fang fa	490
 创造工程	chuang zao gong cheng	235
-创造怪物魔杖	chuang zao guai wu mo zhang	1
 创造环境	chuang zao huan jing	3495
 创造活动	chuang zao huo dong	5445
 创造机会	chuang zao ji hui	12635
@@ -123628,6 +123627,7 @@ sort: by_weight
 复杂系统	fu za xi tong	6830
 复杂性	fu za xing	78210
 复杂指令集	fu za zhi ling ji	283
+复杂指令集计算机	fu za zhi ling ji ji suan ji	10
 负载	fu zai	111350
 伏在	fu zai	34800
 附在	fu zai	24355
@@ -194819,6 +194819,7 @@ sort: by_weight
 # 蒋博	jiang bo	0
 将剥离	jiang bo li	230
 将不	jiang bu	221820
+奖补	jiang bu	11
 讲不出	jiang bu chu	3430
 讲不出的	jiang bu chu de	230
 讲不出话	jiang bu chu hua	215
@@ -208565,6 +208566,8 @@ sort: by_weight
 经建乡	jing jian xiang	19
 精简整编	jing jian zheng bian	335
 精简指令	jing jian zhi ling	470
+精简指令集	jing jian zhi ling ji	10
+精简指令集计算机	jing jian zhi ling ji ji suan ji	10
 精简指令计算机	jing jian zhi ling ji suan ji	1
 竟将	jing jiang	9920
 精讲	jing jiang	3269
@@ -356992,6 +356995,7 @@ sort: by_weight
 诗曰	shi yue	15060
 失约	shi yue	6040
 誓约	shi yue	4015
+试阅	shi yue	3333
 谥曰	shi yue	2910
 十月八日	shi yue ba ri	137
 十月半	shi yue ban	174
@@ -359192,6 +359196,7 @@ sort: by_weight
 兽皮腰带	shou pi yao dai	2
 首批用户	shou pi yong hu	107
 受骗	shou pian	30360
+首篇	shou pian	666
 受骗了	shou pian le	3945
 受骗人	shou pian ren	640
 受骗上当	shou pian shang dang	10330
@@ -361677,6 +361682,7 @@ sort: by_weight
 熟料	shu liao	122
 数列	shu lie	22480
 竖列	shu lie	450
+树列	shu lie	22
 数列的极限	shu lie de ji xian	230
 数列排序	shu lie pai xu	692
 数列特征	shu lie te zheng	59
@@ -389167,6 +389173,8 @@ sort: by_weight
 条件从句	tiao jian cong ju	430
 条件断点	tiao jian duan dian	1524
 条件反射	tiao jian fan she	19355
+条件分支	tiao jian fen zhi	333
+条件分支指令	tiao jian fen zhi zhi ling	333
 条件覆盖	tiao jian fu gai	427
 条件概率	tiao jian gai lv	3059
 条件改善	tiao jian gai shan	1750
@@ -435033,6 +435041,7 @@ sort: by_weight
 相似点	xiang si dian	2305
 相思豆	xiang si dou	1910
 相似度	xiang si du	5135
+相似度度量	xiang si du du liang	333
 相似度计算	xiang si du ji suan	207
 相思断肠红	xiang si duan chang hong	143
 相思枫叶丹	xiang si feng ye dan	1
@@ -450334,6 +450343,7 @@ sort: by_weight
 星战前传	xing zhan qian zhuan	350
 姓张	xing zhang	10650
 姓章	xing zhang	260
+星章	xing zhang	66
 性障碍	xing zhang ai	2500
 姓长孙	xing zhang sun	35
 姓赵	xing zhao	4665
