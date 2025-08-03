@@ -2775,7 +2775,7 @@
 #///
 ---
 name: base
-version: "2025-07-10"
+version: "2025-08-01"
 sort: by_weight
 ...
 # +_+
@@ -66297,10 +66297,12 @@ sort: by_weight
 粗长	cu chang	2250
 粗长腹剑水蚤	cu chang fu jian shui zao	1
 促成	cu cheng	89455
+粗乘号	cu cheng hao	5
 促成交易	cu cheng jiao yi	2740
 粗齿	cu chi	350
 粗齿鹑螺	cu chi chun luo	1
 簇虫亚纲	cu chong ya gang	1
+粗除号	cu chu hao	5
 粗唇腹瓢鰕虎鱼	cu chun fu piao xia hu yu	1
 粗唇𬶏	cu chun wei	6
 粗刺刺萤	cu ci ci ying	1
@@ -66330,7 +66332,7 @@ sort: by_weight
 粗的	cu de	20955
 醋的	cu de	7105
 粗得像	cu de xiang	60
-粗等号	cu deng hao	3333
+粗等号	cu deng hao	5
 粗灯丝	cu deng si	1
 醋碘苯酸钠	cu dian ben suan na	2
 粗点锯天牛	cu dian ju tian niu	1
@@ -66404,6 +66406,7 @@ sort: by_weight
 粗脊天牛	cu ji tian niu	1
 卒极之事	cu ji zhi shi	1
 粗加工	cu jia gong	8875
+粗加号	cu jia hao	5
 粗甲裂额蟹	cu jia lie e xie	1
 促甲状腺激素	cu jia zhuang xian ji su	48
 促甲状腺素	cu jia zhuang xian su	520
@@ -66411,6 +66414,7 @@ sort: by_weight
 促甲状腺素调节素	cu jia zhuang xian su tiao jie su	1
 醋甲唑胺	cu jia zuo an	2
 醋甲唑胺片	cu jia zuo an pian	1
+粗减号	cu jian hao	5
 粗健指环虫	cu jian zhi huan chong	1
 酢浆草	cu jiang cao	1180
 粗角步行虫	cu jiao bu xing chong	1
@@ -66652,6 +66656,11 @@ sort: by_weight
 粗糖	cu tang	290
 粗体	cu ti	21915
 粗体澳洲躄鱼	cu ti ao zhou bi yu	1
+粗体乘号	cu ti cheng hao	5
+粗体除号	cu ti chu hao	5
+粗体等号	cu ti deng hao	5
+粗体加号	cu ti jia hao	5
+粗体减号	cu ti jian hao	5
 粗体字	cu ti zi	6630
 粗调	cu tiao	1340
 粗通	cu tong	5265
