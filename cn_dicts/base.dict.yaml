@@ -2837,8 +2837,10 @@
 # 「涛涛不绝」→「滔滔不绝」
 # 「霄鱼垂化」→「宵鱼垂化」
 # 「归正守丘」→「归正首丘」
+# 「一已之力」→「一己之力」
 # 「震聋发聩」→「振聋发聩」
 # 「掩口葫芦」→「掩口胡卢」
+# 「滑泥扬波」→「淈泥扬波」，「滑」通「淈」
 # 「心拙口夯」→「心拙口笨」，「夯」通「笨」
 # 「顿口拙腮」→「钝口拙腮」
 # 「将勤补绌」→「将勤补拙」
@@ -2859,6 +2861,7 @@
 # 「准格尔盆地」「准葛尔」→「准噶尔盆地」「准噶尔」
 # 「洋泾滨英语」「洋泾滨」→「洋泾浜英语」「洋泾浜」
 # 「𩾌鱼良白鱼」「𩾌浪白鱼」→「𩾌鿶白鱼」
+# 「杜赛尔多夫」→「杜塞尔多夫」
 # 「寒梅著花未」→「著zhuó」
 # 「短须鱼芒」→「短须𱇮」
 #///
@@ -30969,13 +30972,13 @@ sort: by_weight
 并以	bing yi	204955
 并已	bing yi	84005
 兵役	bing yi	13125
-病疫	bing yi	2305
 兵蚁	bing yi	1170
-秉义	bing yi	990
-秉毅	bing yi	330
+禀议	bing yi	9
+病疫	bing yi	2
+# 秉义	bing yi	0
+# 秉毅	bing yi	0
 冰一冰	bing yi bing	123
 并一度	bing yi du	2750
-兵蚁队长	bing yi dui zhang	1
 兵役法	bing yi fa	2993
 并怡然自乐	bing yi ran zi le	31
 病一天	bing yi tian	195
@@ -30985,6 +30988,7 @@ sort: by_weight
 兵役制度	bing yi zhi du	995
 病因	bing yin	100200
 丙寅	bing yin	12065
+饼印	bing yin	101
 病因辨证	bing yin bian zheng	23
 兵因敌而制胜	bing yin di er zhi sheng	1180
 冰饮料	bing yin liao	187
@@ -70559,7 +70563,7 @@ sort: by_weight
 打假队	da jia dui	50
 大家分享	da jia fen xiang	39930
 大家风范	da jia feng fan	5090
-打价格	da jia ge	295
+打价格战	da jia ge zhan	295
 大家公认	da jia gong ren	1065
 大家共同	da jia gong tong	26915
 达家沟	da jia gou	184
@@ -72867,7 +72871,6 @@ sort: by_weight
 大数据可视化	da shu ju ke shi hua	120
 大数据框架	da shu ju kuang jia	147
 大数据量	da shu ju liang	8744
-大数据培训	da shu ju pei xun	13
 大数据平台	da shu ju ping tai	1055
 大数据时代	da shu ju shi dai	2637
 大数据算法	da shu ju suan fa	87
@@ -87940,6 +87943,7 @@ sort: by_weight
 低音鼓	di yin gu	123
 低音喇叭	di yin la ba	1625
 低音炮	di yin pao	11625
+低音谱号	di yin pu hao	123
 低吟浅唱	di yin qian chang	1615
 低音提琴	di yin ti qin	2195
 低音弦	di yin xian	610
@@ -97979,7 +97983,6 @@ sort: by_weight
 赌赛	du sai	860
 杜塞多夫	du sai duo fu	199
 杜塞尔多夫	du sai er duo fu	9985
-杜赛尔多夫	du sai er duo fu	7
 读三年	du san nian	101
 堵塞	du se	92030
 堵塞交通	du se jiao tong	1280
@@ -122531,6 +122534,7 @@ sort: by_weight
 伏神	fu shen	276
 茯神	fu shen	43
 复审程序	fu shen cheng xu	1420
+副审计长	fu shen ji zhang	5
 副神经	fu shen jing	7
 副神经节瘤	fu shen jing jie liu	5
 复审决定	fu shen jue ding	3075
@@ -130518,6 +130522,7 @@ sort: by_weight
 高音量	gao yin liang	3333
 高音量的扬声器	gao yin liang de yang sheng qi	3333
 搞阴谋	gao yin mou	1010
+高音谱号	gao yin pu hao	123
 高音质	gao yin zhi	3575
 # 高英	gao ying	0
 # 高营	gao ying	0
@@ -140351,7 +140356,6 @@ sort: by_weight
 骨气乃有老松格	gu qi nai you lao song ge	1
 淈其泥而扬其波	gu qi ni er yang qi bo	1
 淈其泥扬其波	gu qi ni yang qi bo	1
-顾七七	gu qi qi	116
 鼓旗相当	gu qi xiang dang	1
 鼓起勇气	gu qi yong qi	20185
 顾起元	gu qi yuan	23
@@ -150220,7 +150224,6 @@ sort: by_weight
 国务院批准	guo wu yuan pi zhun	39440
 国务院企业管理委员会	guo wu yuan qi ye guan li wei yuan hui	5
 国务院侨务办公室	guo wu yuan qiao wu ban gong shi	1135
-国务院审计长	guo wu yuan shen ji zhang	4
 国务院台湾事务办公室	guo wu yuan tai wan shi wu ban gong shi	5902
 国务院特区办公室	guo wu yuan te qu ban gong shi	90
 国务院体制改革办公室	guo wu yuan ti zhi gai ge ban gong shi	36
@@ -163409,7 +163412,6 @@ sort: by_weight
 轰动一时	hong dong yi shi	4682
 红豆	hong dou	55350
 哄逗	hong dou	110
-鸿都	hong dou	42
 红豆百合糖水	hong dou bai he tang shui	4
 红豆冰	hong dou bing	660
 红豆饼	hong dou bing	145
@@ -163417,12 +163419,10 @@ sort: by_weight
 红豆蛋挞	hong dou dan ta	17
 红豆核桃糙米粥	hong dou he tao cao mi zhou	1
 红豆酱	hong dou jiang	20
-鸿都酒店	hong dou jiu dian	1
 红豆蔻	hong dou kou	105
 红豆鲤鱼汤	hong dou li yu tang	11
 红豆莲枣粽	hong dou lian zao zong	1
 红豆林	hong dou lin	6
-鸿都买第	hong dou mai di	1
 红斗篷	hong dou peng	196
 红豆杉	hong dou shan	13260
 红豆膳粥	hong dou shan zhou	7
@@ -163439,11 +163439,13 @@ sort: by_weight
 红豆粥	hong dou zhou	906
 红豆粽	hong dou zong	145
 洪都	hong du	111
+鸿都	hong du	42
 红都	hong du	37
 红肚兜	hong du dou	830
 洪都航空	hong du hang kong	49
 洪都鸡	hong du ji	20
 洪都街道	hong du jie dao	3
+鸿都酒店	hong du jiu dian	1
 洪都拉斯	hong du la si	2814
 洪都拉斯白蝙蝠	hong du la si bai bian fu	1
 洪都拉斯共和国	hong du la si gong he guo	9999
@@ -170449,7 +170451,6 @@ sort: by_weight
 花呢	hua ni	559
 滑腻感	hua ni gan	370
 花泥画	hua ni hua	5
-滑泥扬波	hua ni yang bo	1
 华年	hua nian	3310
 花年	hua nian	175
 画年画	hua nian hua	194
@@ -184610,16 +184611,15 @@ sort: by_weight
 肌膜炎	ji mo yan	17
 寂寞烟丝	ji mo yan si	15
 寂寞壮心惊	ji mo zhuang xin jing	2
-即墨子	ji mo zi	3
 既莫足与为美政兮	ji mo zu yu wei mei zheng xi	2
 计谋	ji mou	21210
 机谋	ji mou	1230
 积木	ji mu	22335
 继母	ji mu	16605
-极目	ji mu	7680
 几亩	ji mu	5085
 吉姆	ji mu	3385
-檵木	ji mu	2
+极目	ji mu	768
+檵木	ji mu	3
 # 寄母	ji mu	0
 极目楚天舒	ji mu chu tian shu	65
 极目迥望	ji mu jiong wang	1
@@ -184862,7 +184862,6 @@ sort: by_weight
 疾跑	ji pao	9999
 机炮	ji pao	4985
 继配	ji pei	999
-及培训	ji pei xun	339
 鸡棚	ji peng	615
 姬鹏飞	ji peng fei	565
 鸡皮	ji pi	4940
@@ -229307,6 +229306,7 @@ sort: by_weight
 宽衫大袖	kuan shan da xiu	1
 宽赦	kuan she	350
 款式	kuan shi	238980
+宽式	kuan shi	5
 宽视角	kuan shi jiao	1385
 宽适空间	kuan shi kong jian	146
 款式新颖	kuan shi xin ying	18675
@@ -237379,6 +237379,7 @@ sort: by_weight
 利店镇	li dian zhen	1
 立定	li ding	7260
 厘定	li ding	6840
+隶定	li ding	345
 李鼎峰	li ding feng	3
 李定国	li ding guo	78
 立定脚跟	li ding jiao gen	305
@@ -254564,7 +254565,6 @@ sort: by_weight
 鹭鸶	lu si	284
 卢斯	lu si	1
 撸死	lu si	1
-鹿斯巴达	lu si ba da	106
 鲁斯伯小雷氏鲶	lu si bo xiao lei shi nian	1
 鹿死不择音	lu si bu ze yin	111
 陆思诚	lu si cheng	102
@@ -262772,7 +262772,7 @@ sort: by_weight
 忙碌地	mang lu de	100
 忙碌着	mang lu zhe	13555
 忙乱	mang luan	11550
-铓锣	mang luo	1
+铓锣	mang luo	2
 芒绿凤蝶	mang lv feng die	1
 忙吗	mang ma	7390
 盲鳗目	mang man mu	5
@@ -276171,8 +276171,8 @@ sort: by_weight
 摸准	mo zhun	3560
 墨子	mo zi	25025
 沫子	mo zi	1830
+墨渍	mo zi	953
 末子	mo zi	680
-墨渍	mo zi	530
 磨子	mo zi	182
 抹子	mo zi	84
 # 默字	mo zi	0
@@ -292815,7 +292815,6 @@ sort: by_weight
 潘帕斯之舞	pan pa si zhi wu	1
 盼盼	pan pan	13180
 盘盘	pan pan	2
-盘盘好	pan pan hao	2205
 蹒蹒跚跚	pan pan shan shan	70
 潘佩璆	pan pei qiu	26
 盘片	pan pian	48710
@@ -294420,8 +294419,8 @@ sort: by_weight
 赔笑	pei xiao	3235
 赔笑脸	pei xiao lian	450
 赔小心	pei xiao xin	190
-培新	pei xin	2040
-培信	pei xin	365
+培新	pei xin	1
+# 培信	pei xin	0
 培新街	pei xin jie	33
 培兴	pei xing	885
 裴姓	pei xing	80
@@ -294430,11 +294429,9 @@ sort: by_weight
 裴绪	pei xu	5
 培训	pei xun	501465
 培训班	pei xun ban	247365
-培训班学	pei xun ban xue	48
 培训部	pei xun bu	31300
 培训材料	pei xun cai liao	141
 培训餐厅	pei xun can ting	3
-培训成人	pei xun cheng ren	40
 培训大纲	pei xun da gang	4165
 培训单位	pei xun dan wei	9360
 培训地点	pei xun di dian	13395
@@ -307565,7 +307562,6 @@ sort: by_weight
 嵌入式开发	qian ru shi kai fa	2881
 嵌入式开发板	qian ru shi kai fa ban	230
 嵌入式控制器	qian ru shi kong zhi qi	38
-嵌入式培训	qian ru shi pei xun	120
 嵌入式驱动	qian ru shi qu dong	45
 嵌入式软件	qian ru shi ruan jian	825
 嵌入式设计	qian ru shi she ji	247
@@ -332565,6 +332561,7 @@ sort: by_weight
 三十儿	san shi er	1
 三十二层	san shi er ceng	55
 三十二分	san shi er fen	365
+三十二分休止符	san shi er fen xiu zhi fu	123
 三十二分音符	san shi er fen yin fu	136
 三十二分钟	san shi er fen zhong	20
 三十二个	san shi er ge	1200
@@ -334916,7 +334913,7 @@ sort: by_weight
 莎朗·斯通	sha lang si tong	173
 傻佬	sha lao	2
 沙捞越	sha lao yue	1005
-沙劳越海豚	sha lao yue hai tun	1
+沙捞越海豚	sha lao yue hai tun	1
 杀了	sha le	9350
 傻了	sha le	2688
 傻乐	sha le	1335
@@ -417728,12 +417725,12 @@ sort: by_weight
 勿丢垃圾	wu diu la ji	3333
 舞动	wu dong	35510
 五栋	wu dong	2145
-武东	wu dong	1585
 勿动	wu dong	1525
-五洞	wu dong	695
-乌鸫	wu dong	6
-吾东	wu dong	2
-乌冬	wu dong	1
+乌鸫	wu dong	168
+乌冬	wu dong	2
+五洞	wu dong	2
+# 吾东	wu dong	0
+# 武东	wu dong	0
 雾洞茶	wu dong cha	2
 舞动的心	wu dong de xin	3333
 乌洞洞	wu dong dong	2
@@ -432776,13 +432773,15 @@ sort: by_weight
 现眼	xian yan	2290
 闲言	xian yan	2045
 献演	xian yan	1880
-咸盐	xian yan	790
+献言	xian yan	567
 先严	xian yan	360
+咸盐	xian yan	1
 腺炎	xian yan	1
 线延迟	xian yan chi	23
 闲言淡语	xian yan dan yu	1
 鲜艳的	xian yan de	42805
 先验的	xian yan de	2590
+显眼的	xian yan de	321
 鲜艳夺目	xian yan duo mu	4520
 鲜艳服装	xian yan fu zhuang	205
 先验概率	xian yan gai lv	1979
@@ -460914,6 +460913,7 @@ sort: by_weight
 艳诗	yan shi	360
 盐市	yan shi	350
 艳史	yan shi	296
+严式	yan shi	5
 偃师	yan shi	2
 延世	yan shi	1
 # 彦士	yan shi	0
@@ -533236,7 +533236,6 @@ sort: by_weight
 中小学校会计制度	zhong xiao xue xiao kuai ji zhi du	128
 中小学校长培训规定	zhong xiao xue xiao zhang pei xun gui ding	57
 中小学学生素质教育家长读本	zhong xiao xue xue sheng su zhi jiao yu jia zhang du ben	1
-中小学幼儿园安全管理办法实用问答	zhong xiao xue you er yuan an quan guan li ban fa shi yong wen da	1
 中小药店	zhong xiao yao dian	87
 中校长	zhong xiao zhang	106
 中邪	zhong xie	5055
@@ -533977,6 +533976,7 @@ sort: by_weight
 重音节	zhong yin jie	30
 中银酒店	zhong yin jiu dian	4
 中银卡	zhong yin ka	2
+中音谱号	zhong yin pu hao	123
 中银绒业	zhong yin rong ye	19
 中阴身	zhong yin shen	2085
 中银收益	zhong yin shou yi	163
@@ -536406,7 +536406,6 @@ sort: by_weight
 珠海科技学院	zhu hai ke ji xue yuan	116
 珠海龙	zhu hai long	139
 珠海路	zhu hai lu	226
-珠海汽车网	zhu hai qi che wang	2
 珠海市	zhu hai shi	75835
 珠海市大型群众性活动安全管理条例	zhu hai shi da xing qun zhong xing huo dong an quan guan li tiao li	4
 珠海市斗门区人民法院	zhu hai shi dou men qu ren min fa yuan	10
@@ -537581,8 +537580,8 @@ sort: by_weight
 竹梢微动觉风生	zhu shao wei dong jue feng sheng	1
 祝绍周	zhu shao zhou	4
 注射	zhu she	189910
-猪舍	zhu she	7685
 主摄	zhu she	1111
+猪舍	zhu she	768
 猪舌	zhu she	11
 主设备	zhu she bei	4405
 注射成型	zhu she cheng xing	4120
