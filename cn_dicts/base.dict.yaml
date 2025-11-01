@@ -96,6 +96,7 @@
 # 「以此类推/依此类推/依次类推」🤷‍♂️
 # 「以色侍人/以色事人」，应该是都对
 # 「不瘟不火/不温不火」，《现汉》竟然都收录了
+# 「深受/身受 深受其害/身受其害」
 #
 #
 ##### 以 #* 开头的可能有争议：
@@ -138,6 +139,8 @@
 # 「想像」→「想象」「想像力」→「想象力」
 # 「执著」→「执着」
 # 「档dàng」→「挡dǎng」，表「汽车换挡」「自动挡汽车」「手动挡汽车」时
+# 「倒档」→「倒挡」
+# 「前进档」→「前进挡」
 # 「换档键、上档键」→「挡」
 # 一些「meng long」，日光不明用「曚昽」，月光不明用「朦胧」，目光和其余的都是「蒙眬」😡
 # 「喝叱、喝斥、呵叱」→「呵斥」
@@ -1231,6 +1234,7 @@
 # 「心里落差」→「心理落差」
 # 「心里价位」→「心理价位」
 # 「心理不平衡」「心里不平衡」😢 妈妈汉语太难了
+# 「心理想法」→「心里想法」
 # 「继木」「红花继木」→「檵木」「红花檵木」
 # 「滑手机」→「划手机」
 # 「科创版」→「科创板」
@@ -1474,6 +1478,7 @@
 # 「得一忘十」→「得一望十」
 # 「脱模mo」→「mu」
 # 大部分「火暴」→「火爆」，只保留「脾气火暴、火暴脾气、性子火暴、火暴性子」
+# 「爆脾气」→「暴脾气」
 # 「蓝博基尼」→「兰博基尼」
 # 「X枝笔」→「X支笔」
 # 「检查院、鉴察院、鉴查院」→「检察院」
@@ -3018,10 +3023,11 @@
 # 「少纵即逝」→「稍纵即逝」
 # 「轰堂大笑、烘堂大笑」→「哄堂大笑」
 # 「火化塞」→「火花塞」
+# 「消遥」→「逍遥」
 #///
 ---
 name: base
-version: "2025-10-23"
+version: "2025-10-31"
 sort: by_weight
 ...
 # +_+
@@ -5647,12 +5653,8 @@ sort: by_weight
 暗点头	an dian tou	95
 安定	an ding	116400
 按钉	an ding	140
-安鼎安全增强电子邮件系统	an ding an quan zeng qiang dian zi you jian xi tong	87
 安定堡	an ding bao	15
-安鼎打印刻录安全监控与审计系统	an ding da yin ke lu an quan jian kong yu shen ji xi tong	87
 按订单	an ding dan	2825
-安鼎电子文档安全管理系统	an ding dian zi wen dang an quan guan li xi tong	87
-安鼎电子文件密级标志管理系统	an ding dian zi wen jian mi ji biao zhi guan li xi tong	87
 安定度	an ding du	41
 氨丁苷菌素	an ding gan jun su	1
 安定广场	an ding guang chang	27
@@ -5670,7 +5672,6 @@ sort: by_weight
 安定社区	an ding she qu	7
 安定市场	an ding shi chang	115
 安定团结	an ding tuan jie	16610
-安鼎文档发文信息隐写溯源系统	an ding wen dang fa wen xin xi yin xie su yuan xi tong	87
 安定下来	an ding xia lai	6020
 安定小学	an ding xiao xue	8
 安定性	an ding xing	5250
@@ -5923,10 +5924,6 @@ sort: by_weight
 安化松针	an hua song zhen	87
 安华西里	an hua xi li	31
 安化县	an hua xian	1850
-安华易科技发展	an hua yi ke ji fa zhan	87
-安华易主机监控	an hua yi zhu ji jian kong	87
-安华易主机监控与	an hua yi zhu ji jian kong yu	87
-安华易主机监控与审计系统	an hua yi zhu ji jian kong yu shen ji xi tong	87
 安怀村	an huai cun	122
 安怀新村	an huai xin cun	13
 暗黄	an huang	5590
@@ -6577,7 +6574,6 @@ sort: by_weight
 安平小区	an ping xiao qu	2
 安铺鸡饭	an pu ji fan	14
 安普锐	an pu rui	87
-安普锐打印刻录安全监控与审计系统	an pu rui da yin ke lu an quan jian kong yu shen ji xi tong	87
 安普长老	an pu zhang lao	1
 按其	an qi	65625
 按期	an qi	61630
@@ -12504,8 +12500,8 @@ sort: by_weight
 白庙新村	bai miao xin cun	9
 白庙子	bai miao zi	50
 白敏	bai min	1
-百名	bai ming	39375
 摆明	bai ming	11920
+百名	bai ming	3937
 白名单	bai ming dan	4770
 白沫	bai mo	4050
 白蘑	bai mo	1628
@@ -17003,6 +16999,7 @@ sort: by_weight
 爆肚王	bao du wang	12
 报读者	bao du zhe	130
 报端	bao duan	3915
+爆多	bao duo	1111
 报多了	bao duo le	12
 保额	bao e	22730
 报恩	bao en	15905
@@ -33229,8 +33226,8 @@ sort: by_weight
 不穿安全靴	bu chuan an quan xue	1
 不传播	bu chuan bo	144
 不传给	bu chuan gei	12
-不喘了	bu chuan le	2222
 不穿了	bu chuan le	1111
+不喘了	bu chuan le	111
 不串门	bu chuan men	127
 不穿秋裤	bu chuan qiu ku	116
 不传输	bu chuan shu	3100
@@ -40948,12 +40945,15 @@ sort: by_weight
 财东	cai dong	1300
 踩动	cai dong	1080
 蔡东村	cai dong cun	1
-菜豆	cai dou	4270
+才都	cai dou	4270
+菜豆	cai dou	427
 菜豆腐	cai dou fu	5668
 菜豆腐节节	cai dou fu jie jie	4
 菜豆腐稀饭	cai dou fu xi fan	6
 菜豆花	cai dou hua	155
 菜豆角	cai dou jiao	7
+才都能	cai dou neng	4270
+才都是	cai dou shi	4270
 才读	cai du	1860
 裁断	cai duan	4815
 才短思涩	cai duan si se	1
@@ -44509,6 +44509,10 @@ sort: by_weight
 侧光	ce guang	4615
 测光表	ce guang biao	5665
 测光方式	ce guang fang shi	4665
+侧跪	ce gui	333
+侧柜	ce gui	222
+测轨	ce gui	2
+侧跪着	ce gui zhe	111
 侧过	ce guo	10225
 测过	ce guo	1480
 测核酸	ce he suan	144
@@ -51437,6 +51441,7 @@ sort: by_weight
 车品	che pin	1111
 扯平	che ping	3355
 扯破	che po	2170
+车仆	che pu	2
 车企	che qi	9999
 扯起	che qi	4415
 车漆	che qi	1111
@@ -63823,7 +63828,8 @@ sort: by_weight
 春初早被相思染	chun chu zao bei xiang si ran	1
 春川	chun chuan	1385
 春川宙	chun chuan zhou	128
-蠢蠢	chun chun	9999
+纯纯	chun chun	3333
+蠢蠢	chun chun	1111
 纯纯粹粹	chun chun cui cui	305
 纯纯的爱	chun chun de ai	1000
 蠢蠢思动	chun chun si dong	1
@@ -64994,7 +65000,8 @@ sort: by_weight
 次甲霉素	ci jia mei su	1
 磁家务	ci jia wu	16
 此间	ci jian	38380
-此键	ci jian	4045
+此剑	ci jian	4045
+此键	ci jian	404
 此间法	ci jian fa	9
 辞简理博	ci jian li bo	1
 此间人士	ci jian ren shi	320
@@ -72033,11 +72040,9 @@ sort: by_weight
 大门庄	da men zhuang	1
 大梦	da meng	7635
 达梦安全	da meng an quan	87
-达梦安全数据库管理系统	da meng an quan shu ju ku guan li xi tong	87
 大梦初醒	da meng chu xing	1350
 大孟村镇	da meng cun zhen	3
 大猛男	da meng nan	191
-达梦数据库管理系统	da meng shu ju ku guan li xi tong	87
 大梦想	da meng xiang	405
 大梦主	da meng zhu	108
 大米	da mi	140110
@@ -85232,12 +85237,6 @@ sort: by_weight
 地铺	di pu	9420
 # 迪普	di pu	0
 # 递铺	di pu	0
-迪普防火墙	di pu fang huo qiang	87
-迪普入侵防御系统	di pu ru qin fang yu xi tong	87
-迪普网络安全	di pu wang luo an quan	87
-迪普网络安全审计系统	di pu wang luo an quan shen ji xi tong	87
-迪普应用	di pu ying yong	87
-迪普应用防火墙	di pu ying yong fang huo qiang	87
 递铺中路	di pu zhong lu	2
 底气	di qi	18460
 第七	di qi	7777
@@ -90736,7 +90735,6 @@ sort: by_weight
 电子商情	dian zi shang qing	1520
 电子商务	dian zi shang wu	500326
 电子商务法	dian zi shang wu fa	1510
-电子商务解决方案	dian zi shang wu jie jue fang an	5220
 电子商务平台	dian zi shang wu ping tai	26615
 电子商务签名法	dian zi shang wu qian ming fa	3
 电子商务套件	dian zi shang wu tao jian	615
@@ -91972,7 +91970,6 @@ sort: by_weight
 顶端墙	ding duan qiang	1
 定段赛	ding duan sai	105
 顶端优势	ding duan you shi	745
-鼎盾打印刻录安全监控与审计系统	ding dun da yin ke lu an quan jian kong yu shen ji xi tong	87
 鼎盾信息	ding dun xin xi	87
 顶多	ding duo	29745
 定夺	ding duo	3560
@@ -92385,17 +92382,6 @@ sort: by_weight
 订票系统	ding piao xi tong	430
 定评	ding ping	9999
 顶平小食心虫	ding ping xiao shi xin chong	1
-鼎普打印刻录安全监控与审计系统	ding pu da yin ke lu an quan jian kong yu shen ji xi tong	87
-鼎普电子文档安全管理系统	ding pu dian zi wen dang an quan guan li xi tong	87
-鼎普电子文件密级标志管理系统	ding pu dian zi wen jian mi ji biao zhi guan li xi tong	87
-鼎普服务器	ding pu fu wu qi	87
-鼎普服务器审计系统	ding pu fu wu qi shen ji xi tong	87
-鼎普科技	ding pu ke ji	87
-鼎普涉密专用移动硬盘	ding pu she mi zhuan yong yi dong ying pan	87
-鼎普文档发文信息隐写溯源系统	ding pu wen dang fa wen xin xi yin xie su yuan xi tong	87
-鼎普终端安全登录系统	ding pu zhong duan an quan deng lu xi tong	87
-鼎普主机监控	ding pu zhu ji jian kong	87
-鼎普主机监控与审计系统	ding pu zhu ji jian kong yu shen ji xi tong	87
 定期	ding qi	500317
 顶起	ding qi	20260
 定期拜访	ding qi bai fang	675
@@ -104573,6 +104559,7 @@ sort: by_weight
 二工区	er gong qu	119
 二公子	er gong zi	6710
 耳垢	er gou	1530
+二狗	er gou	153
 耳鼓	er gu	2725
 二姑	er gu	1625
 二股	er gu	1510
@@ -105981,9 +105968,9 @@ sort: by_weight
 耳下	er xia	11
 而下降	er xia jiang	4065
 二线	er xian	53370
-而显	er xian	16130
 二弦	er xian	1615
 饵线	er xian	170
+# 而显	er xian	0
 二仙传道	er xian chuan dao	5
 二线队员	er xian dui yuan	270
 二仙居碗坨	er xian ju wan tuo	3
@@ -106003,7 +105990,8 @@ sort: by_weight
 二项分布	er xiang fen bu	937
 二项级数	er xiang ji shu	15
 而相如廷叱之	er xiang ru ting chi zhi	1
-二项式	er xiang shi	985
+而像是	er xiang shi	985
+二项式	er xiang shi	98
 二项式定理	er xiang shi ding li	1120
 而笑	er xiao	11255
 二硝基	er xiao ji	2850
@@ -120224,6 +120212,7 @@ sort: by_weight
 浮厝	fu cuo	9999
 福大	fu da	8105
 辅大	fu da	650
+富达	fu da	2
 附答案	fu da an	280
 福大北门	fu da bei men	5
 福大东门	fu da dong men	15
@@ -122293,8 +122282,8 @@ sort: by_weight
 伏牛花	fu niu hua	6
 伏牛山	fu niu shan	4930
 福牛守护者	fu niu shou hu zhe	169
-富农	fu nong	13045
 抚弄	fu nong	6820
+富农	fu nong	1304
 富农家	fu nong jia	185
 抚弄着	fu nong zhe	1775
 负驽前驱	fu nu qian qu	1
@@ -127836,8 +127825,8 @@ sort: by_weight
 刚成立	gang cheng li	6770
 钢城区	gang cheng qu	965
 堽城镇	gang cheng zhen	11
-钢尺	gang chi	2070
-刚吃	gang chi	1180
+刚吃	gang chi	3180
+钢尺	gang chi	207
 刚吃过	gang chi guo	1305
 刚吃了	gang chi le	1230
 刚吃完	gang chi wan	1915
@@ -130045,6 +130034,7 @@ sort: by_weight
 高秋福	gao qiu fu	13
 高丘怀宋玉	gao qiu huai song yu	1
 高秋爽气相鲜新	gao qiu shuang qi xiang xian xin	3
+高秋梓	gao qiu zi	2
 搞去	gao qu	275
 搞权	gao quan	111
 # 高铨	gao quan	0
@@ -130893,8 +130883,8 @@ sort: by_weight
 高院推广	gao yuan tui guang	68
 高原性心脏病	gao yuan xing xin zang bing	33
 高圆圆	gao yuan yuan	8835
-高约	gao yue	26455
 稿约	gao yue	1665
+高越	gao yue	2
 高月和花	gao yue he hua	6666
 搞晕	gao yun	9999
 高云	gao yun	5700
@@ -131238,8 +131228,9 @@ sort: by_weight
 各厂	ge chang	13560
 个唱	ge chang	8020
 各场	ge chang	2950
-各唱	ge chang	1040
+# 各唱	ge chang	0
 歌唱比赛	ge chang bi sai	4805
+各唱各的	ge chang ge de	75
 各唱各的调	ge chang ge de diao	75
 歌唱家	ge chang jia	16290
 各厂家	ge chang jia	67
@@ -141839,8 +141830,8 @@ sort: by_weight
 挂带	gua dai	2270
 瓜代	gua dai	80
 瓜代之期	gua dai zhi qi	1
-挂单	gua dan	5865
 寡淡	gua dan	1770
+挂单	gua dan	586
 挂挡	gua dang	1675
 挂挡杆	gua dang gan	15
 挂挡机构	gua dang ji gou	29
@@ -153784,7 +153775,8 @@ sort: by_weight
 罕艾日克乡	han ai ri ke xiang	1
 # 汉安	han an	0
 汉安帝	han an di	7
-旱魃	han ba	1005
+喊吧	han ba	1005
+旱魃	han ba	100
 旱魃拜夜叉	han ba bai ye cha	1
 旱魃为祟	han ba wei sui	1
 旱魃为灾	han ba wei zai	1
@@ -153798,22 +153790,7 @@ sort: by_weight
 憨班乡	han ban xiang	13
 韩班长	han ban zhang	171
 汉邦	han bang	1510
-汉邦安全运维管理系统	han bang an quan yun wei guan li xi tong	87
-汉邦打印刻录安全监控与审计系统	han bang da yin ke lu an quan jian kong yu shen ji xi tong	87
-汉邦电子文档安全管理系统	han bang dian zi wen dang an quan guan li xi tong	87
-汉邦电子文件密级标志管理系统	han bang dian zi wen jian mi ji biao zhi guan li xi tong	87
-汉邦服务器	han bang fu wu qi	87
-汉邦服务器审计系统	han bang fu wu qi shen ji xi tong	87
-汉邦京秦数码	han bang jing qin shu ma	87
-汉邦京泰数据	han bang jing tai shu ju	87
-汉邦京泰数码	han bang jing tai shu ma	87
 韩邦庆	han bang qing	3
-汉邦涉密专用移动硬盘	han bang she mi zhuan yong yi dong ying pan	87
-汉邦涉密专用运维管理系统	han bang she mi zhuan yong yun wei guan li xi tong	87
-汉邦信息安全综合审计监控系统	han bang xin xi an quan zong he shen ji jian kong xi tong	87
-汉邦终端安全登录系统	han bang zhong duan an quan deng lu xi tong	87
-汉邦主机监控	han bang zhu ji jian kong	87
-汉邦主机监控与审计系统	han bang zhu ji jian kong yu shen ji xi tong	87
 汉堡	han bao	49995
 含苞	han bao	3780
 憨包	han bao	19
@@ -155382,7 +155359,6 @@ sort: by_weight
 航渡	hang du	3050
 航段	hang duan	11150
 行端口	hang duan kou	120
-航盾打印刻录安全监控与审计系统	hang dun da yin ke lu an quan jian kong yu shen ji xi tong	87
 航发动力	hang fa dong li	138
 杭纺	hang fang	75
 行风	hang feng	27200
@@ -161174,9 +161150,6 @@ sort: by_weight
 黑短脚鹎	hei duan jiao bei	1
 黑端榕蛾	hei duan rong e	1
 黑盾粗股肖叶甲	hei dun cu gu xiao ye jia	1
-# 黑盾防火墙	hei dun fang huo qiang	0
-# 黑盾数据库安全	hei dun shu ju ku an quan	0
-# 黑盾数据库安全审计系统	hei dun shu ju ku an quan shen ji xi tong	0
 黑恶	hei e	1245
 黑额地霸鹟	hei e di ba weng	1
 黑额盔萤金花虫	hei e kui ying jin hua chong	1
@@ -162033,6 +162006,7 @@ sort: by_weight
 黑缘小绢蝶	hei yuan xiao juan die	1
 黑缘直线脂鲤	hei yuan zhi xian zhi li	1
 黑缘舟蛾	hei yuan zhou e	1
+黑月	hei yue	130
 黑月光	hei yue guang	130
 黑云	hei yun	10665
 黑运	hei yun	75
@@ -171975,7 +171949,8 @@ sort: by_weight
 华宇股票	hua yu gu piao	75
 华裕家园	hua yu jia yuan	112
 华宇家园	hua yu jia yuan	1
-花与剑	hua yu jian	295
+话语间	hua yu jian	395
+花与剑	hua yu jian	95
 华宇金融	hua yu jin rong	68
 华宇精品	hua yu jing pin	68
 华语流行	hua yu liu xing	153
@@ -189215,6 +189190,8 @@ sort: by_weight
 价格学	jia ge xue	550
 价格研究中心	jia ge yan jiu zhong xin	6
 价格因素	jia ge yin su	10640
+加个油	jia ge you	222
+价格优	jia ge you	2
 价格优势	jia ge you shi	23725
 价格优先	jia ge you xian	1090
 价格战	jia ge zhan	56610
@@ -189443,8 +189420,8 @@ sort: by_weight
 甲磺酸培氟沙星	jia huang suan pei fu sha xing	2
 甲磺酸伊马替尼	jia huang suan yi ma ti ni	19
 加回	jia hui	1115
-嘉会	jia hui	1
-嘉惠	jia hui	1
+# 嘉会	jia hui	0
+# 嘉惠	jia hui	0
 加会班	jia hui ban	55
 嘉汇大厦	jia hui da sha	150
 加回来	jia hui lai	190
@@ -192920,7 +192897,6 @@ sort: by_weight
 剑鸻	jian heng	3
 # 建衡	jian heng	0
 建恒信安	jian heng xin an	87
-建恒运维安全管理系统	jian heng yun wei an quan guan li xi tong	87
 见红	jian hong	5050
 # 剑红	jian hong	0
 # 剑虹	jian hong	0
@@ -202065,23 +202041,7 @@ sort: by_weight
 解剖显微镜	jie pou xian wei jing	85
 解剖学	jie pou xue	20355
 解剖学家	jie pou xue jia	580
-捷普打印刻录安全监控与审计系统	jie pu da yin ke lu an quan jian kong yu shen ji xi tong	87
-捷普防火墙	jie pu fang huo qiang	87
-捷普服务器	jie pu fu wu qi	87
-捷普服务器审计系统	jie pu fu wu qi shen ji xi tong	87
 杰普莱尔	jie pu lai er	1
-捷普入侵防御系统	jie pu ru qin fang yu xi tong	87
-捷普入侵检测系统	jie pu ru qin jian ce xi tong	87
-捷普数据库审计系统	jie pu shu ju ku shen ji xi tong	87
-捷普网络脆弱性评估系统	jie pu wang luo cui ruo xing ping gu xi tong	87
-捷普网络综合	jie pu wang luo zong he	87
-捷普网络综合审计系统	jie pu wang luo zong he shen ji xi tong	87
-捷普应用防火墙系统	jie pu ying yong fang huo qiang xi tong	87
-捷普应用系统	jie pu ying yong xi tong	87
-捷普运维安全	jie pu yun wei an quan	87
-捷普运维安全网关系统	jie pu yun wei an quan wang guan xi tong	87
-捷普主机监控	jie pu zhu ji jian kong	87
-捷普主机监控与审计系统	jie pu zhu ji jian kong yu shen ji xi tong	87
 节气	jie qi	19015
 接起	jie qi	7205
 解气	jie qi	6120
@@ -203399,7 +203359,6 @@ sort: by_weight
 进餐者	jin can zhe	240
 进仓	jin cang	3755
 金仓安全	jin cang an quan	87
-金仓安全数据库管理系统	jin cang an quan shu ju ku guan li xi tong	87
 金仓湖	jin cang hu	123
 金藏路	jin cang lu	15
 浸槽	jin cao	60
@@ -204393,8 +204352,6 @@ sort: by_weight
 进化岛	jin hua dao	170
 金华电大	jin hua dian da	2
 金华殿语	jin hua dian yu	1
-晋华电子文档安全管理系统	jin hua dian zi wen dang an quan guan li xi tong	87
-晋华电子文件密级标志管理系统	jin hua dian zi wen jian mi ji biao zhi guan li xi tong	87
 金华豆豉	jin hua dou chi	2
 进化发展	jin hua fa zhan	51
 金花夫人	jin hua fu ren	28
@@ -208645,7 +208602,8 @@ sort: by_weight
 京港之夜	jing gang zhi ye	5
 警告	jing gao	312495
 敬告	jing gao	18825
-镜糕	jing gao	326
+净高	jing gao	1882
+镜糕	jing gao	32
 警告标志	jing gao biao zhi	5455
 警告处分	jing gao chu fen	4360
 警告灯	jing gao deng	2590
@@ -214872,8 +214830,8 @@ sort: by_weight
 局党组	ju dang zu	23095
 举刀	ju dao	5105
 锯刀	ju dao	260
-举得	ju de	1111
-举的	ju de	1
+举的	ju de	1111
+举得	ju de	111
 举得比	ju de bi	25
 举的例子	ju de li zi	1180
 举得起	ju de qi	130
@@ -219237,9 +219195,9 @@ sort: by_weight
 开刀手术	kai dao shou shu	605
 开到荼䕷	kai dao tu mi	3
 开到荼䕷花事了	kai dao tu mi hua shi liao	9
-开的	kai de	166545
-开得	kai de	36590
-# 凯德	kai de	0
+开的	kai de	16654
+开得	kai de	3659
+凯德	kai de	2
 开得比	kai de bi	465
 开得到	kai de dao	15
 开得起	kai de qi	435
@@ -229805,6 +229763,7 @@ sort: by_weight
 狂暴战士	kuang bao zhan shi	820
 狂暴之怒	kuang bao zhi nu	31
 狂暴状态	kuang bao zhuang tai	555
+狂悖	kuang bei	1111
 狂悲狂喜	kuang bei kuang xi	155
 狂悖无道	kuang bei wu dao	1
 狂奔	kuang ben	40525
@@ -231964,7 +231923,7 @@ sort: by_weight
 来的	lai de	50105
 来得	lai de	22222
 赖的	lai de	1773
-莱德	lai de	11
+莱德	lai de	2
 来得好	lai de hao	3245
 来得及	lai de ji	72455
 来得及不	lai de ji bu	74
@@ -236342,8 +236301,8 @@ sort: by_weight
 累诫不戒	lei jie bu jie	1
 类结构	lei jie gou	795
 雷洁琼	lei jie qiong	1085
-累进	lei jin	8640
 勒紧	lei jin	3405
+累进	lei jin	86
 勒紧裤带	lei jin ku dai	1435
 累进税	lei jin shui	610
 累进税率	lei jin shui lv	6095
@@ -240065,16 +240024,6 @@ sort: by_weight
 # 莉丝	li si	0
 李姒宝螺	li si bao luo	1
 里斯本丸	li si ben wan	149
-立思辰安全增强型打印机	li si chen an quan zeng qiang xing da yin ji	87
-立思辰彩色多功能一体机	li si chen cai se duo gong neng yi ti ji	87
-立思辰打印刻录安全监控与审计系统	li si chen da yin ke lu an quan jian kong yu shen ji xi tong	87
-立思辰电子文档安全管理系统	li si chen dian zi wen dang an quan guan li xi tong	87
-立思辰电子文件密级标志管理系统	li si chen dian zi wen jian mi ji biao zhi guan li xi tong	87
-立思辰红黑激光打印机	li si chen hong hei ji guang da yin ji	87
-立思辰激光黑白打印机	li si chen ji guang hei bai da yin ji	87
-立思辰计算机	li si chen ji suan ji	87
-立思辰器白多功能一体机	li si chen qi bai duo gong neng yi ti ji	87
-立思辰扫描仪	li si chen sao miao yi	87
 李四官庄	li si guan zhuang	2
 李四官庄村	li si guan zhuang cun	2
 李四光	li si guang	375
@@ -249703,7 +249652,8 @@ sort: by_weight
 刘复之	liu fu zhi	244
 流感	liu gan	68655
 流干	liu gan	3590
-刘干	liu gan	20
+硫苷	liu gan	2
+# 刘干	liu gan	0
 流感病毒	liu gan bing du	18575
 流感病毒裂解疫苗	liu gan bing du lie jie yi miao	85
 熘肝尖	liu gan jian	242
@@ -249711,8 +249661,9 @@ sort: by_weight
 流感全病毒灭活疫苗	liu gan quan bing du mie huo yi miao	1
 流感丸	liu gan wan	2
 流感疫苗	liu gan yi miao	10095
-刘刚	liu gang	13010
-流港	liu gang	35
+溜岗	liu gang	111
+刘刚	liu gang	2
+# 流港	liu gang	0
 流膏迸液无人知	liu gao beng ye wu ren zhi	1
 六个	liu ge	212330
 留个	liu ge	20280
@@ -249796,8 +249747,8 @@ sort: by_weight
 六罐	liu guan	6666
 留观	liu guan	3333
 流管	liu guan	2222
-柳罐	liu guan	1
-流贯	liu guan	1
+柳罐	liu guan	2
+流贯	liu guan	2
 # 柳贯	liu guan	0
 柳罐胡同	liu guan hu tong	3
 刘冠麟	liu guan lin	119
@@ -249865,7 +249816,7 @@ sort: by_weight
 刘海粟	liu hai su	5665
 刘海涛	liu hai tao	745
 流汗	liu han	14640
-刘汉	liu han	7
+# 刘汉	liu han	0
 # 刘翰	liu han	0
 刘翰东	liu han dong	172
 硫含量	liu han liang	2820
@@ -249888,10 +249839,10 @@ sort: by_weight
 六号线	liu hao xian	605
 刘浩营	liu hao ying	1
 六合	liu he	44535
-柳河	liu he	2
 浏河	liu he	2
 # 六和	liu he	0
 # 刘合	liu he	0
+# 柳河	liu he	0
 # 流河	liu he	0
 六合彩	liu he cai	124665
 刘河村	liu he cun	31
@@ -249931,11 +249882,12 @@ sort: by_weight
 刘黑闼	liu hei ta	4
 留痕	liu hen	7725
 流痕	liu hen	1055
-刘恒	liu heng	6620
-刘衡	liu heng	21
-刘洪	liu hong	11415
-刘宏	liu hong	9345
-刘鸿	liu hong	3730
+刘恒	liu heng	66
+# 刘衡	liu heng	0
+流红	liu hong	373
+# 刘宏	liu hong	0
+# 刘洪	liu hong	0
+# 刘鸿	liu hong	0
 刘鸿博	liu hong bo	151
 刘洪昌	liu hong chang	169
 刘鸿恩	liu hong en	1
@@ -249949,7 +249901,8 @@ sort: by_weight
 留后手	liu hou shou	90
 留侯镇	liu hou zhen	21
 六户	liu hu	1285
-刘祜	liu hu	1
+流户	liu hu	2
+# 刘祜	liu hu	0
 刘胡兰	liu hu lan	7240
 硫化	liu hua	29105
 流花	liu hua	12810
@@ -249990,9 +249943,9 @@ sort: by_weight
 流花医院	liu hua yi yuan	35
 硫化银	liu hua yin	350
 流花玉宇	liu hua yu yu	7
-刘欢	liu huan	7520
 六环	liu huan	3615
-刘环	liu huan	37
+刘欢	liu huan	752
+# 刘环	liu huan	0
 六环路	liu huan lu	1850
 六环外	liu huan wai	148
 瘤患者	liu huan zhe	95
@@ -250014,7 +249967,7 @@ sort: by_weight
 溜回	liu hui	2775
 流回	liu hui	2665
 六回	liu hui	1490
-流会	liu hui	1
+流会	liu hui	2
 # 刘恢	liu hui	0
 # 刘惠	liu hui	0
 溜回家	liu hui jia	1180
@@ -250026,11 +249979,11 @@ sort: by_weight
 榴火	liu huo	95
 柳活	liu huo	1
 六级	liu ji	71095
-刘基	liu ji	7640
 留级	liu ji	7185
 六季	liu ji	2260
 六集	liu ji	2075
-刘季	liu ji	18
+# 刘基	liu ji	0
+# 刘季	liu ji	0
 六级报名	liu ji bao ming	112
 六级成绩	liu ji cheng ji	199
 六级词汇	liu ji ci hui	128
@@ -250139,7 +250092,7 @@ sort: by_weight
 刘健群	liu jian qun	3
 柳尖胸沫蝉	liu jian xiong mo chan	1
 刘建洋	liu jian yang	162
-柳江	liu jiang	548
+柳江	liu jiang	2
 # 六江	liu jiang	0
 # 刘江	liu jiang	0
 # 溜江	liu jiang	0
@@ -250223,7 +250176,7 @@ sort: by_weight
 刘静钰	liu jing yu	3
 六经责我开生面	liu jing ze wo kai sheng mian	24
 六经注我	liu jing zhu wo	465
-刘炯	liu jiong	43
+# 刘炯	liu jiong	0
 六九	liu jiu	4375
 六局	liu ju	3605
 六句	liu ju	3380
@@ -250231,13 +250184,13 @@ sort: by_weight
 留居	liu ju	2825
 六句话	liu ju hua	820
 六卷	liu juan	6330
-刘珏	liu jue	288
-刘爵	liu jue	2
-刘军	liu jun	17025
-六军	liu jun	9615
-刘君	liu jun	5105
-刘骏	liu jun	240
-刘钧	liu jun	72
+# 刘爵	liu jue	0
+# 刘珏	liu jue	0
+六军	liu jun	961
+# 刘军	liu jun	0
+# 刘君	liu jun	0
+# 刘钧	liu jun	0
+# 刘骏	liu jun	0
 六军不发无奈何	liu jun bu fa wu nai he	2
 刘俊豪	liu jun hao	12
 刘俊卿	liu jun qing	13
@@ -250249,12 +250202,12 @@ sort: by_weight
 # 刘锴	liu kai	0
 # 柳开	liu kai	0
 刘凯瑞	liu kai rui	162
-刘衎	liu kan	8
-刘克	liu ke	5630
-刘可	liu ke	3565
+# 刘衎	liu kan	0
 六颗	liu ke	3400
 留客	liu ke	3090
 六科	liu ke	1960
+# 刘克	liu ke	0
+# 刘可	liu ke	0
 刘克清	liu ke qing	138
 刘可欣	liu ke xin	12
 刘克庄	liu ke zhuang	57
@@ -258469,17 +258422,10 @@ sort: by_weight
 铝门窗	lv men chuang	4135
 吕蒙	lv meng	7580
 绿盟安全	lv meng an quan	87
-绿盟安全审计系统	lv meng an quan shen ji xi tong	87
 绿盟防火墙	lv meng fang huo qiang	87
 绿盟科技	lv meng ke ji	126
-绿盟数据库审计系统	lv meng shu ju ku shen ji xi tong	87
 绿盟网络	lv meng wang luo	87
-绿盟网络入侵防护系统	lv meng wang luo ru qin fang hu xi tong	87
-绿盟网络入侵检测系统	lv meng wang luo ru qin jian ce xi tong	87
-绿盟远程安全评估系统	lv meng yuan cheng an quan ping gu xi tong	87
-绿盟运维安全管理系统	lv meng yun wei an quan guan li xi tong	87
 绿盟主机	lv meng zhu ji	87
-绿盟主机审计系统	lv meng zhu ji shen ji xi tong	87
 氯米芬	lv mi fen	28
 氯米帕明	lv mi pa ming	31
 驴鸣犬吠	lv ming quan fei	7
@@ -267664,6 +267610,7 @@ sort: by_weight
 梅贻琦	mei yi qi	1
 美益求美	mei yi qiu mei	1
 美意盛情	mei yi sheng qing	1
+没意识	mei yi shi	2400
 没意识到	mei yi shi dao	2400
 没意思	mei yi si	22205
 每一丝	mei yi si	2475
@@ -274435,9 +274382,7 @@ sort: by_weight
 鸣玉曳履	ming yu ye lv	1
 鸣玉曳组	ming yu ye zu	1
 明御应用	ming yu ying yong	87
-明御应用防火墙	ming yu ying yong fang huo qiang	87
 名余曰正则兮	ming yu yue zheng ze xi	5
-明御运维安全管理系统	ming yu yun wei an quan guan li xi tong	87
 明玉珍	ming yu zhen	31
 明于治乱	ming yu zhi luan	19
 明御主机审计平台	ming yu zhu ji shen ji ping tai	87
@@ -285504,7 +285449,9 @@ sort: by_weight
 尼雷尔	ni lei er	290
 你累啦	ni lei la	5555
 你累了	ni lei le	5555
-尼利	ni li	2425
+你离	ni li	242
+你哩	ni li	24
+# 尼利	ni li	0
 泥里狗子	ni li gou zi	1
 你厉害	ni li hai	2075
 你厉害啊	ni li hai a	190
@@ -300490,6 +300437,7 @@ sort: by_weight
 泼下	po xia	950
 颇显	po xian	2445
 坡县	po xian	1111
+破限	po xian	111
 破相	po xiang	2920
 破晓	po xiao	6755
 朴硝	po xiao	360
@@ -301731,17 +301679,6 @@ sort: by_weight
 启安村	qi an cun	1
 祁安路	qi an lu	193
 弃暗投明	qi an tou ming	1755
-奇安信防病毒系统涉密	qi an xin fang bing du xi tong she mi	87
-奇安信科技集团股份有限公司	qi an xin ke ji ji tuan gu fen you xian gong si	87
-奇安信网神	qi an xin wang shen	87
-奇安信网神神	qi an xin wang shen shen	87
-奇安信网神神防病毒系统涉密	qi an xin wang shen shen fang bing du xi tong she mi	87
-奇安信网神神服务器	qi an xin wang shen shen fu wu qi	87
-奇安信网神神服务器审计系统	qi an xin wang shen shen fu wu qi shen ji xi tong	87
-奇安信网神神运维安全管理系统	qi an xin wang shen shen yun wei an quan guan li xi tong	87
-奇安信网神神终端安全登录系统	qi an xin wang shen shen zhong duan an quan deng lu xi tong	87
-奇安信网神神主机监控	qi an xin wang shen shen zhu ji jian kong	87
-奇安信网神神主机监控与	qi an xin wang shen shen zhu ji jian kong yu	87
 气昂昂	qi ang ang	2555
 奇奥	qi ao	3880
 淇澳	qi ao	109
@@ -307351,7 +307288,8 @@ sort: by_weight
 千金草	qian jin cao	1
 千金村	qian jin cun	1
 前进大街	qian jin da jie	292
-前进档	qian jin dang	1865
+前进挡	qian jin dang	1865
+前进党	qian jin dang	2
 前进到	qian jin dao	2550
 前进道	qian jin dao	21
 千斤顶	qian jin ding	28702
@@ -313061,6 +312999,7 @@ sort: by_weight
 清册	qing ce	9605
 倾侧	qing ce	1575
 轻策庄	qing ce zhuang	142
+轻蹭	qing ceng	1111
 清查	qing cha	50980
 清茶	qing cha	19295
 青茶	qing cha	6818
@@ -323926,7 +323865,6 @@ sort: by_weight
 人和设备	ren he she bei	111
 任何社会	ren he she hui	9999
 人和社会	ren he she hui	111
-仁和涉密专用运维管理系统	ren he she mi zhuan yong yun wei guan li xi tong	87
 任何事	ren he shi	23410
 人和事	ren he shi	222
 任何时候	ren he shi hou	51955
@@ -325965,10 +325903,6 @@ sort: by_weight
 人自为守	ren zi wei shou	3
 人自为战	ren zi wei zhan	335
 人字形	ren zi xing	1440
-任子行网络安全	ren zi xing wang luo an quan	87
-任子行网络安全审计系统	ren zi xing wang luo an quan shen ji xi tong	87
-任子行网络技术	ren zi xing wang luo ji shu	87
-任子行网络技术股份有限公司	ren zi xing wang luo ji shu gu fen you xian gong si	87
 人自醉	ren zi zui	169
 任总	ren zong	2222
 仁宗	ren zong	1002
@@ -328758,6 +328692,7 @@ sort: by_weight
 入鞘	ru qiao	2285
 如切如磋	ru qie ru cuo	830
 入侵	ru qin	181665
+入侵防护系统	ru qin fang hu xi tong	87
 入侵检测	ru qin jian ce	22060
 入侵检测系统	ru qin jian ce xi tong	369
 入侵检测与管理系统	ru qin jian ce yu guan li xi tong	87
@@ -329896,7 +329831,6 @@ sort: by_weight
 瑞江花园	rui jiang hua yuan	122
 锐角	rui jiao	5780
 锐角三角形	rui jiao san jiao xing	690
-锐捷涉密专用运维管理系统	rui jie she mi zhuan yong yun wei guan li xi tong	87
 瑞金	rui jin	25800
 锐进	rui jin	805
 瑞金北村	rui jin bei cun	69
@@ -345900,7 +345834,6 @@ sort: by_weight
 沈统	shen tong	12
 神通广大	shen tong guang da	9065
 申通快递	shen tong kuai di	11700
-神通数据库管理系统	shen tong shu ju ku guan li xi tong	87
 身痛逐瘀汤	shen tong zhu yu tang	2
 渗透	shen tou	181910
 神偷	shen tou	10645
@@ -349371,7 +349304,6 @@ sort: by_weight
 始安	shi an	8
 食案方丈	shi an fang zhang	1
 市按摩医院	shi an mo yi yuan	12
-世安涉密专用运维管理系统	shi an she mi zhuan yong yun wei guan li xi tong	87
 时暗时亮	shi an shi liang	15
 时暗时明	shi an shi ming	115
 是按照	shi an zhao	53830
@@ -350413,12 +350345,6 @@ sort: by_weight
 时代需要	shi dai xu yao	3645
 时代雅居	shi dai ya ju	11
 时代亿信	shi dai yi xin	87
-时代亿信安全增强电子邮件系统	shi dai yi xin an quan zeng qiang dian zi you jian xi tong	87
-时代亿信电子文档安全管理系统	shi dai yi xin dian zi wen dang an quan guan li xi tong	87
-时代亿信电子文件密级标志管理系统	shi dai yi xin dian zi wen jian mi ji biao zhi guan li xi tong	87
-时代亿信科技	shi dai yi xin ke ji	87
-时代亿信文档发文信息隐写溯源系统	shi dai yi xin wen dang fa wen xin xi yin xie su yuan xi tong	87
-时代亿信终端安全登录系统	shi dai yi xin zhong duan an quan deng lu xi tong	87
 时代影视	shi dai ying shi	164
 时代责任	shi dai ze ren	148
 是带着	shi dai zhe	8425
@@ -358516,17 +358442,17 @@ sort: by_weight
 始终	shi zhong	500328
 时钟	shi zhong	135695
 适中	shi zhong	71180
-是种	shi zhong	48695
-式中	shi zhong	36085
 十种	shi zhong	29235
 失重	shi zhong	10855
-试种	shi zhong	9265
 示众	shi zhong	8325
+是种	shi zhong	7695
 市中	shi zhong	5578
 十中	shi zhong	5450
 诗中	shi zhong	4396
-侍中	shi zhong	1151
-湿重	shi zhong	172
+试种	shi zhong	926
+侍中	shi zhong	4
+湿重	shi zhong	3
+# 式中	shi zhong	0
 # 施忠	shi zhong	0
 始终把	shi zhong ba	45090
 始终保持	shi zhong bao chi	72790
@@ -361582,7 +361508,8 @@ sort: by_weight
 舒必利片	shu bi li pian	1
 束比青刍色	shu bi qing chu se	1
 梳篦式	shu bi shi	45
-戍边	shu bian	6160
+数遍	shu bian	6160
+戍边	shu bian	616
 输变电	shu bian dian	26710
 树遍历	shu bian li	474
 梳辫子	shu bian zi	660
@@ -371535,8 +371462,8 @@ sort: by_weight
 四艘	si sou	4
 四速	si su	2480
 似诉平生不得志	si su ping sheng bu de zhi	2
-四岁	si sui	24695
 撕碎	si sui	11320
+四岁	si sui	2469
 四岁时	si sui shi	1405
 思索	si suo	86230
 死锁	si suo	20839
@@ -379731,16 +379658,12 @@ sort: by_weight
 太激烈了	tai ji lie le	1385
 泰姬陵	tai ji ling	4750
 太极龙磐	tai ji long pan	87
-太极龙磐入侵防御系统	tai ji long pan ru qin fang yu xi tong	87
 太极龙翔	tai ji long xiang	87
-太极龙翔上网行为	tai ji long xiang shang wang xing wei	87
-太极龙翔上网行为审计系统	tai ji long xiang shang wang xing wei shen ji xi tong	87
 太极门	tai ji men	151
 太寂寞	tai ji mo	1690
 太寂寞了	tai ji mo le	1420
 太极旗	tai ji qi	1380
 太极拳	tai ji quan	72235
-太极涉密专用运维管理系统	tai ji she mi zhuan yong yun wei guan li xi tong	87
 太极生两仪	tai ji sheng liang yi	895
 太及时了	tai ji shi le	725
 太极双泥	tai ji shuang ni	1
@@ -379751,7 +379674,6 @@ sort: by_weight
 太极芋头	tai ji yu tou	1
 太极张三丰	tai ji zhang san feng	815
 台记者	tai ji zhe	2325
-太极主机监控与审计系统	tai ji zhu ji jian kong yu shen ji xi tong	87
 抬价	tai jia	3795
 台架	tai jia	3705
 太假	tai jia	1580
@@ -382813,8 +382735,10 @@ sort: by_weight
 弹指神功	tan zhi shen gong	580
 弹指一挥间	tan zhi yi hui jian	1184
 弹指之间	tan zhi zhi jian	1390
-潭中	tan zhong	6440
-谈中	tan zhong	4860
+潭中	tan zhong	11
+痰中	tan zhong	11
+# 潭中	tan zhong	0
+# 谈中	tan zhong	0
 碳中和	tan zhong he	190
 谭中军	tan zhong jun	5
 坦洲	tan zhou	3320
@@ -382826,13 +382750,13 @@ sort: by_weight
 谈助	tan zhu	245
 谭竹青	tan zhu qing	840
 痰浊中阻	tan zhuo zhong zu	4
-坛子	tan zi	30730
 毯子	tan zi	16260
 摊子	tan zi	15125
 谈资	tan zi	7915
-探子	tan zi	7435
-潭子	tan zi	865
-瘫子	tan zi	88
+坛子	tan zi	3073
+探子	tan zi	743
+瘫子	tan zi	2
+# 潭子	tan zi	0
 炭子冲	tan zi chong	143
 摊子口	tan zi kou	6
 坛子里	tan zi li	11440
@@ -388306,7 +388230,6 @@ sort: by_weight
 田径比赛	tian jing bi sai	3025
 田径场	tian jing chang	5830
 田径场地	tian jing chang di	265
-天镜脆弱性扫描与管理系统	tian jing cui ruo xing sao miao yu guan li xi tong	87
 恬静的	tian jing de	8585
 天经地义	tian jing di yi	19060
 田径队	tian jing dui	3725
@@ -388985,8 +388908,6 @@ sort: by_weight
 天日	tian ri	5760
 天日不懂	tian ri bu dong	1
 天容	tian rong	19
-天容海色本澄清	tian rong hai se ben cheng qing	5
-天融信运维安全管理系统	tian rong xin yun wei an quan guan li xi tong	87
 填入	tian ru	83935
 添入	tian ru	6160
 甜如蜜	tian ru mi	1415
@@ -389335,7 +389256,6 @@ sort: by_weight
 天天汽车网	tian tian qi che wang	7
 甜甜圈	tian tian quan	6001
 甜甜圈龟	tian tian quan gui	3
-天阗入侵检测与管理系统	tian tian ru qin jian ce yu guan li xi tong	87
 甜甜软软	tian tian ruan ruan	75
 天天商场	tian tian shang chang	7
 天天上网	tian tian shang wang	3315
@@ -389937,6 +389857,7 @@ sort: by_weight
 田园文学	tian yuan wen xue	10
 天元乡	tian yuan xiang	8
 田园杂兴	tian yuan za xing	139
+田渊正浩	tian yuan zheng hao	111
 天渊之别	tian yuan zhi bie	145
 田园之乐	tian yuan zhi le	150
 天岳	tian yue	133
@@ -392034,6 +391955,7 @@ sort: by_weight
 停顿下来	ting dun xia lai	2510
 挺多	ting duo	14035
 停多久	ting duo jiu	76
+挺饿	ting e	1111
 听而不闻	ting er bu wen	2480
 铤而走险	ting er zou xian	11945
 停发	ting fa	9460
@@ -392530,6 +392452,7 @@ sort: by_weight
 亭亭月将圆	ting ting yue jiang yuan	3
 停停走走	ting ting zou zou	1495
 听筒	ting tong	16055
+挺痛	ting tong	1605
 挺痛苦	ting tong ku	18755
 挺痛苦的	ting tong ku de	1850
 停妥	ting tuo	705
@@ -394245,9 +394168,6 @@ sort: by_weight
 通儒硕学	tong ru shuo xue	1
 痛入心脾	tong ru xin pi	6
 痛如针刺	tong ru zhen ci	3
-通软主机监控	tong ruan zhu ji jian kong	87
-通软主机监控与	tong ruan zhu ji jian kong yu	87
-通软主机监控与审计系统	tong ruan zhu ji jian kong yu shen ji xi tong	87
 同三高速公路	tong san gao su gong lu	67
 通三益	tong san yi	18
 通三益秋梨膏	tong san yi qiu li gao	2
@@ -403045,18 +402965,6 @@ sort: by_weight
 万里汉家使	wan li han jia shi	1
 万里横烟浪	wan li heng yan lang	1
 万里衡阳雁	wan li heng yang yan	8
-万里红打印刻录安全监控与审计系统	wan li hong da yin ke lu an quan jian kong yu shen ji xi tong	87
-万里红电子文档安全管理系统	wan li hong dian zi wen dang an quan guan li xi tong	87
-万里红电子文件密级标志管理系统	wan li hong dian zi wen jian mi ji biao zhi guan li xi tong	87
-万里红服务器	wan li hong fu wu qi	87
-万里红服务器审计系统	wan li hong fu wu qi shen ji xi tong	87
-万里红科技	wan li hong ke ji	87
-万里红涉密专用移动硬盘	wan li hong she mi zhuan yong yi dong ying pan	87
-万里红涉密专用运维管理系统	wan li hong she mi zhuan yong yun wei guan li xi tong	87
-万里红文档发文信息隐写溯源系统	wan li hong wen dang fa wen xin xi yin xie su yuan xi tong	87
-万里红终端安全登录系统	wan li hong zhong duan an quan deng lu xi tong	87
-万里红主机监控	wan li hong zhu ji jian kong	87
-万里红主机监控与审计系统	wan li hong zhu ji jian kong yu shen ji xi tong	87
 万里黄河绕黑山	wan li huang he rao hei shan	1
 万里家在岷峨	wan li jia zai min e	1
 万里经年别	wan li jing nian bie	1
@@ -404239,7 +404147,6 @@ sort: by_weight
 王安石	wang an shi	22275
 王安忆	wang an yi	3475
 网安院	wang an yuan	87
-网安院涉密专用运维管理系统	wang an yuan she mi zhuan yong yun wei guan li xi tong	87
 汪昂	wang ang	5
 王鏊	wang ao	15
 网吧	wang ba	453610
@@ -406129,17 +406036,7 @@ sort: by_weight
 网申	wang shen	3333
 # 王沈	wang shen	0
 # 王绅	wang shen	0
-网神安全隔离与信息交换系统	wang shen an quan ge li yu xin xi jiao huan xi tong	87
-网神北京	wang shen bei jing	87
 王燊超	wang shen chao	120
-网神防火墙	wang shen fang huo qiang	87
-网神光单向	wang shen guang dan xiang	87
-网神入侵防御系统	wang shen ru qin fang yu xi tong	87
-网神通	wang shen tong	667
-网神网络安全	wang shen wang luo an quan	87
-网神网络安全审计系统	wang shen wang luo an quan shen ji xi tong	87
-网神信息技术北京股份有限公司	wang shen xin xi ji shu bei jing gu fen you xian gong si	87
-网神邮件威胁感知系统	wang shen you jian wei xie gan zhi xi tong	87
 忘身于外者	wang shen yu wai zhe	1
 王审知	wang shen zhi	106
 旺盛	wang sheng	91250
@@ -406865,11 +406762,9 @@ sort: by_weight
 王与	wang yu	266
 王域	wang yu	68
 汪昱	wang yu	34
-网御安全隔离与信息交换系统	wang yu an quan ge li yu xin xi jiao huan xi tong	87
 王毓曾	wang yu ceng	1
 王玉娥	wang yu e	21
 王育芳	wang yu fang	1
-网御防火墙系统	wang yu fang huo qiang xi tong	87
 王峪沟	wang yu gou	3
 王玉国	wang yu guo	97
 王煜辉	wang yu hui	9
@@ -406879,12 +406774,9 @@ sort: by_weight
 王雨檬	wang yu meng	160
 王禹平	wang yu ping	187
 王玉如	wang yu ru	9
-网御入侵防护系统飞腾平台	wang yu ru qin fang hu xi tong fei teng ping tai	87
 王羽杉	wang yu shan	158
 王嵎生	wang yu sheng	288
 王昱婷	wang yu ting	44
-网御网络	wang yu wang luo	87
-网御网络审计系统	wang yu wang luo shen ji xi tong	87
 望鱼乡	wang yu xiang	2
 王语嫣	wang yu yan	50
 网愈云	wang yu yun	136
@@ -407831,9 +407723,11 @@ sort: by_weight
 苇笛细蟌	wei di xi cong	1
 胃底腺	wei di xian	1
 胃底折叠术	wei di zhe die shu	6
-位点	wei dian	10525
-微点	wei dian	3650
-微电	wei dian	2685
+微店	wei dian	1525
+喂点	wei dian	1052
+位点	wei dian	105
+微点	wei dian	2
+# 微电	wei dian	0
 微点案	wei dian an	4
 围点打援	wei dian da yuan	430
 微电机	wei dian ji	5930
@@ -410385,16 +410279,6 @@ sort: by_weight
 为实施权	wei shi shi quan	37
 尾饰四点双边鱼	wei shi si dian shuang bian yu	1
 卫视体育	wei shi ti yu	3295
-卫士通安全保密电子记事本	wei shi tong an quan bao mi dian zi ji shi ben	87
-卫士通电子签章系统	wei shi tong dian zi qian zhang xi tong	87
-卫士通电子文档安全管理系统	wei shi tong dian zi wen dang an quan guan li xi tong	87
-卫士通电子文件密级标志管理系统	wei shi tong dian zi wen jian mi ji biao zhi guan li xi tong	87
-卫士通墨水屏安全保密电子记事本	wei shi tong mo shui ping an quan bao mi dian zi ji shi ben	87
-卫士通信息安全	wei shi tong xin xi an quan	87
-卫士通信息产业	wei shi tong xin xi chan ye	87
-卫士通终端安全登录系统	wei shi tong zhong duan an quan deng lu xi tong	87
-卫士通主机监控	wei shi tong zhu ji jian kong	87
-卫士通主机监控与审计系统	wei shi tong zhu ji jian kong yu shen ji xi tong	87
 为时晚矣	wei shi wan yi	1790
 维氏𬶏	wei shi wei	1
 为时未晚	wei shi wei wan	1234
@@ -416161,8 +416045,8 @@ sort: by_weight
 我们头	wo men tou	372
 我们问过	wo men wen guo	1
 我们希望	wo men xi wang	85910
-我们先	wo men xian	469
-我们县	wo men xian	344
+我们先	wo men xian	4690
+我们县	wo men xian	2
 我们想	wo men xiang	50470
 我们相信	wo men xiang xin	59050
 我们想要	wo men xiang yao	4555
@@ -419137,8 +419021,6 @@ sort: by_weight
 武汉工程大学	wu han gong cheng da xue	511
 武汉广场	wu han guang chang	1825
 武汉光谷	wu han guang gu	1920
-武汉华工安鼎信息技术有限责任公司	wu han hua gong an ding xin xi ji shu you xian ze ren gong si	87
-武汉华工安鼎有限责任公司	wu han hua gong an ding you xian ze ren gong si	87
 武汉会战	wu han hui zhan	970
 武汉街	wu han jie	9
 武汉解封	wu han jie feng	115
@@ -428088,6 +427970,7 @@ sort: by_weight
 溪蟹科	xi xie ke	1
 西斜六路	xi xie liu lu	5
 西斜七路	xi xie qi lu	76
+溪蟹属	xi xie shu	1
 细谐鱼	xi xie yu	1
 细心	xi xin	111795
 悉心	xi xin	30325
@@ -432227,6 +432110,7 @@ sort: by_weight
 鲜荔枝	xian li zhi	2166
 霰粒肿	xian li zhong	22
 县立中学	xian li zhong xue	735
+先练	xian lian	1111
 鲜莲炒仔鸡	xian lian chao zi ji	2
 先联系	xian lian xi	1180
 先练习	xian lian xi	1080
@@ -463541,6 +463425,7 @@ sort: by_weight
 央行	yang hang	163620
 洋行	yang hang	9165
 养好	yang hao	10060
+养号	yang hao	2006
 羊毫	yang hao	1780
 杨皓然	yang hao ran	192
 洋河	yang he	16433
@@ -484127,7 +484012,6 @@ sort: by_weight
 膺惩	ying cheng	145
 # 应城	ying cheng	0
 # 英城	ying cheng	0
-盈诚打印刻录安全监控与审计系统	ying cheng da yin ke lu an quan jian kong yu shen ji xi tong	87
 应承担	ying cheng dan	38985
 婴城固守	ying cheng gu shou	17
 鹰城广场	ying cheng guang chang	136
@@ -493751,7 +493635,6 @@ sort: by_weight
 右旋布洛芬栓	you xuan bu luo fen shuan	1
 优选法	you xuan fa	1300
 有选举权	you xuan ju quan	3085
-优炫数据库管理系统	you xuan shu ju ku guan li xi tong	87
 右旋糖酐	you xuan tang gan	1
 右旋糖酐铁	you xuan tang gan tie	2
 右旋糖酐铁注射液	you xuan tang gan tie zhu she ye	1
@@ -493777,9 +493660,10 @@ sort: by_weight
 由学校	you xue xiao	47575
 鱿鳕鱼丸菠菜羹	you xue yu wan bo cai geng	1
 有学者	you xue zhe	24425
-又讯	you xun	5620
-由旬	you xun	3310
-友讯	you xun	1485
+有训	you xun	56
+由旬	you xun	2
+# 又讯	you xun	0
+# 友讯	you xun	0
 优雅	you ya	254265
 有呀	you ya	22222
 油压	you ya	17830
@@ -493835,7 +493719,6 @@ sort: by_weight
 又阳了	you yang le	3333
 有羊毛	you yang mao	215
 有样品	you yang pin	75
-优扬涉密专用运维管理系统	you yang she mi zhuan yong yun wei guan li xi tong	87
 有阳台	you yang tai	1475
 有氧舞蹈	you yang wu dao	1165
 酉阳县	you yang xian	1850
@@ -494142,9 +494025,9 @@ sort: by_weight
 又因	you yin	33665
 诱因	you yin	32010
 有瘾	you yin	3333
-油印	you yin	2200
-游吟	you yin	1111
-诱引	you yin	170
+诱引	you yin	2270
+油印	you yin	220
+游吟	you yin	111
 # 尤因	you yin	0
 # 尤荫	you yin	0
 有隐患	you yin huan	68
@@ -500768,7 +500651,6 @@ sort: by_weight
 垣墙	yuan qiang	905
 垣墙皆顿擗	yuan qiang jie dun pi	1
 袁桥	yuan qiao	70
-远桥涉密专用运维管理系统	yuan qiao she mi zhuan yong yun wei guan li xi tong	87
 袁桥镇	yuan qiao zhen	107
 院桥镇	yuan qiao zhen	10
 原切	yuan qie	521
@@ -501444,7 +501326,6 @@ sort: by_weight
 院学生会	yuan xue sheng hui	4680
 元勋	yuan xun	5100
 元讯通	yuan xun tong	87
-元讯通涉密专用运维管理系统	yuan xun tong she mi zhuan yong yun wei guan li xi tong	87
 怨言	yuan yan	22425
 原盐	yuan yan	2600
 圆眼戴氏鱼	yuan yan dai shi yu	1
@@ -524191,7 +524072,6 @@ sort: by_weight
 职称评审	zhi cheng ping shen	10355
 支撑人员	zhi cheng ren yuan	62
 至诚如神	zhi cheng ru shen	190
-智诚涉密专用运维管理系统	zhi cheng she mi zhuan yong yun wei guan li xi tong	87
 枝城市	zhi cheng shi	385
 支撑体系	zhi cheng ti xi	12235
 职称外语	zhi cheng wai yu	14975
@@ -529977,7 +529857,6 @@ sort: by_weight
 # 众创	zhong chuang	0
 中创互联	zhong chuang hu lian	48
 中创建	zhong chuang jian	12900
-中创涉密专用运维管理系统	zhong chuang she mi zhuan yong yun wei guan li xi tong	87
 中创信测	zhong chuang xin ce	690
 重锤	zhong chui	5270
 中垂	zhong chui	435
@@ -530543,20 +530422,13 @@ sort: by_weight
 终伏	zhong fu	15
 种拂	zhong fu	1
 钟复	zhong fu	1
-中孚安全	zhong fu an quan	87
-中孚安全技术有限公司	zhong fu an quan ji shu you xian gong si	87
 中福百货	zhong fu bai huo	63
 中腹部	zhong fu bu	305
 中福城	zhong fu cheng	10
 种福村	zhong fu cun	3
 中福大厦	zhong fu da sha	60
-中孚打印刻录安全监控与审计系统	zhong fu da yin ke lu an quan jian kong yu shen ji xi tong	87
 中复电讯	zhong fu dian xun	765
-中孚电子文档安全管理系统	zhong fu dian zi wen dang an quan guan li xi tong	87
-中孚电子文件密级标志管理系统	zhong fu dian zi wen jian mi ji biao zhi guan li xi tong	87
 中伏尔加湖鱥	zhong fu er jia hu gui	1
-中孚服务器	zhong fu fu wu qi	87
-中孚服务器审计系统	zhong fu fu wu qi shen ji xi tong	87
 中孚卦	zhong fu gua	3
 中福会	zhong fu hui	530
 中富乐	zhong fu le	5
@@ -530564,21 +530436,14 @@ sort: by_weight
 钟阜门	zhong fu men	18
 中腹片	zhong fu pian	1
 中附上	zhong fu shang	62
-中孚涉密专用移动硬盘	zhong fu she mi zhuan yong yi dong ying pan	87
-中孚涉密专用运维管理系统	zhong fu she mi zhuan yong yun wei guan li xi tong	87
 中孚实业	zhong fu shi ye	4
 种福寺	zhong fu si	9
 中伏天	zhong fu tian	134
-中孚文档发文信息隐写溯源系统	zhong fu wen dang fa wen xin xi yin xie su yuan xi tong	87
-中孚信息股份有限公司	zhong fu xin xi gu fen you xian gong si	87
 中辐院	zhong fu yuan	118
 重负载	zhong fu zai	500
 中福在线	zhong fu zai xian	2305
 中富证券	zhong fu zheng quan	91
 众扶众筹	zhong fu zhong chou	87
-中孚终端安全登录系统	zhong fu zhong duan an quan deng lu xi tong	87
-中孚主机监控	zhong fu zhu ji jian kong	87
-中孚主机监控与审计系统	zhong fu zhu ji jian kong yu shen ji xi tong	87
 中腹足目	zhong fu zu mu	23
 中盖	zhong gai	4256
 重钙粉	zhong gai fen	205
@@ -532746,7 +532611,6 @@ sort: by_weight
 中科三环	zhong ke san huan	54
 中科神威	zhong ke shen wei	87
 中科神威防火墙	zhong ke shen wei fang huo qiang	87
-中科神威入侵防护系统	zhong ke shen wei ru qin fang hu xi tong	87
 中科网	zhong ke wang	87
 中科网威	zhong ke wang wei	87
 中科信息	zhong ke xin xi	172
@@ -533355,10 +533219,6 @@ sort: by_weight
 重如泰山	zhong ru tai shan	830
 中软	zhong ruan	9295
 中阮	zhong ruan	1115
-中软服务器	zhong ruan fu wu qi	87
-中软主机监控	zhong ruan zhu ji jian kong	87
-中软主机监控与	zhong ruan zhu ji jian kong yu	87
-中软主机监控与审计系统	zhong ruan zhu ji jian kong yu shen ji xi tong	87
 中瑞思创	zhong rui si chuang	5
 中润	zhong run	2550
 中三	zhong san	10465
@@ -537467,15 +537327,15 @@ sort: by_weight
 朱家院子	zhu jia yuan zi	3
 逐渐	zhu jian	500389
 主键	zhu jian	36266
-铸件	zhu jian	29430
 主见	zhu jian	28030
 竹简	zhu jian	11480
 铸剑	zhu jian	6070
 竹剑	zhu jian	1930
-驻监	zhu jian	175
-烛剪	zhu jian	50
-助检	zhu jian	30
-朱简	zhu jian	1
+铸件	zhu jian	294
+驻监	zhu jian	17
+助检	zhu jian	2
+烛剪	zhu jian	2
+# 朱简	zhu jian	0
 逐渐把	zhu jian ba	4150
 逐渐暴露	zhu jian bao lu	1915
 逐渐变成	zhu jian bian cheng	4570
@@ -537597,9 +537457,9 @@ sort: by_weight
 注解	zhu jie	37705
 竹节	zhu jie	8395
 主街	zhu jie	4210
-祝捷	zhu jie	1310
-驻节	zhu jie	580
-朱杰	zhu jie	325
+祝捷	zhu jie	13
+驻节	zhu jie	2
+# 朱杰	zhu jie	0
 竹节杯	zhu jie bei	146
 竹节虫	zhu jie chong	350
 注解方式	zhu jie fang shi	3830
@@ -537645,9 +537505,9 @@ sort: by_weight
 铸就了	zhu jiu le	8410
 煮酒论英雄	zhu jiu lun ying xiong	2250
 主句	zhu ju	7855
-株距	zhu ju	6685
 逐句	zhu ju	5035
 住居	zhu ju	1485
+株距	zhu ju	66
 朱橘不论钱	zhu ju bu lun qian	1
 猪巨吻棘头虫	zhu ju wen ji tou chong	4
 逐句逐字	zhu ju zhu zi	33
@@ -542831,7 +542691,6 @@ sort: by_weight
 卓尔龙	zhuo er long	2
 卓尔坦·齐瓦	zhuo er tan qi wa	111
 卓尔信科	zhuo er xin ke	87
-卓尔信科涉密专用运维管理系统	zhuo er xin ke she mi zhuan yong yun wei guan li xi tong	87
 捉放曹	zhuo fang cao	197
 捉风捕月	zhuo feng bu yue	1
 拙夫	zhuo fu	545
@@ -543311,6 +543170,7 @@ sort: by_weight
 自闭症	zi bi zheng	12445
 自编	zi bian	32945
 自便	zi bian	4250
+自辩	zi bian	3250
 紫边	zi bian	2495
 自贬	zi bian	2095
 紫边白樱蛤	zi bian bai ying ge	1

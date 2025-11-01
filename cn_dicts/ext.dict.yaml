@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-10-23"
+version: "2025-10-31"
 sort: by_weight
 ...
 # +_+
@@ -15846,6 +15846,7 @@ sort: by_weight
 并践行	bing jian xing	100
 并肩行走	bing jian xing zou	100
 并肩于	bing jian yu	100
+并肩站着	bing jian zhan zhe	100
 并肩子	bing jian zi	100
 并降低	bing jiang di	100
 病娇模拟器	bing jiao mo ni qi	100
@@ -27987,7 +27988,6 @@ sort: by_weight
 长安品牌	chang an pin pai	100
 长按屏幕	chang an ping mu	100
 长安汽车集团	chang an qi che ji tuan	100
-长安汽车品牌	chang an qi che pin pai	100
 长安期货	chang an qi huo	100
 长安轻型车	chang an qing xing che	100
 长安如故	chang an ru gu	100
@@ -31976,6 +31976,7 @@ sort: by_weight
 超英赶美	chao ying gan mei	100
 超硬质钢铁	chao ying zhi gang tie	100
 朝永振一郎	chao yong zhen yi lang	100
+朝右侧	chao you ce	100
 超有感	chao you gan	100
 超有感觉	chao you gan jue	100
 超友谊关系	chao you yi guan xi	100
@@ -32047,6 +32048,7 @@ sort: by_weight
 超自然的	chao zi ran de	100
 超自然的存在	chao zi ran de cun zai	100
 超足球	chao zu qiu	100
+朝左侧	chao zuo ce	100
 炒作股票	chao zuo gu piao	100
 抄作业	chao zuo ye	100
 抄作业了	chao zuo ye le	100
@@ -34782,13 +34784,10 @@ sort: by_weight
 成长论坛	cheng zhang lun tan	100
 成长逻辑	cheng zhang luo ji	100
 成长密码	cheng zhang mi ma	100
-成长免费视频	cheng zhang mian fei shi pin	100
-成长免费视频播放	cheng zhang mian fei shi pin bo fang	100
 成长模式	cheng zhang mo shi	100
 成长目标	cheng zhang mu biao	100
 成长奶粉	cheng zhang nai fen	100
 成长能力	cheng zhang neng li	100
-成长片免费	cheng zhang pian mian fei	100
 成长平台	cheng zhang ping tai	100
 成长企业	cheng zhang qi ye	100
 成长前景	cheng zhang qian jing	100
@@ -54717,8 +54716,6 @@ sort: by_weight
 德州科技	de zhou ke ji	100
 德州乐陵	de zhou lao ling	100
 德州牛仔	de zhou niu zai	100
-德州扑克俱乐部	de zhou pu ke ju le bu	100
-德州扑克胜率	de zhou pu ke sheng lv	100
 德州人	de zhou ren	100
 德州疫情	de zhou yi qing	100
 德州一中	de zhou yi zhong	100
@@ -59830,6 +59827,7 @@ sort: by_weight
 顶尖院校	ding jian yuan xiao	100
 钉进来	ding jin lai	100
 钉进去	ding jin qu	100
+顶进去	ding jin qu	100
 盯紧重点	ding jin zhong dian	100
 订酒店了	ding jiu dian le	100
 订酒店了吗	ding jiu dian le ma	100
@@ -70666,6 +70664,7 @@ sort: by_weight
 耳下腺	er xia xian	100
 耳下腺炎	er xia xian yan	100
 二线城市	er xian cheng shi	100
+而显得	er xian de	100
 二向箔	er xiang bo	100
 二项式系数	er xiang shi xi shu	100
 二向听	er xiang ting	100
@@ -83949,7 +83948,6 @@ sort: by_weight
 高擎着	gao qing zhe	100
 高球杯	gao qiu bei	100
 高球场	gao qiu chang	100
-高秋梓	gao qiu zi	100
 高权重	gao quan zhong	100
 高权重平台	gao quan zhong ping tai	100
 高权重网站	gao quan zhong wang zhan	100
@@ -91655,10 +91653,6 @@ sort: by_weight
 管理体系认证证书	guan li ti xi ren zheng zheng shu	100
 管理体重	guan li ti zhong	100
 管理系列	guan li xi lie	100
-管理系统建设	guan li xi tong jian she	100
-管理系统解决方案	guan li xi tong jie jue fang an	100
-管理系统开发	guan li xi tong kai fa	100
-管理系统软件	guan li xi tong ruan jian	100
 管理效率低	guan li xiao lv di	100
 管理协调	guan li xie tiao	100
 管理心得	guan li xin de	100
@@ -93864,6 +93858,7 @@ sort: by_weight
 贵族娱乐	gui zu yu le	100
 柜组长	gui zu zhang	100
 贵族政治	gui zu zheng zhi	100
+跪坐着	gui zuo zhe	100
 滚鞍落马	gun an luo ma	100
 滚彩蛋	gun cai dan	100
 滚成一团	gun cheng yi tuan	100
@@ -99908,7 +99903,6 @@ sort: by_weight
 行业营销	hang ye ying xiao	100
 行业应用案例	hang ye ying yong an li	100
 行业应用场景	hang ye ying yong chang jing	100
-行业应用解决方案	hang ye ying yong jie jue fang an	100
 行业应用领域	hang ye ying yong ling yu	100
 行业应用软件	hang ye ying yong ruan jian	100
 行业英语	hang ye ying yu	100
@@ -113420,6 +113414,7 @@ sort: by_weight
 几档子事	ji dang zi shi	100
 几档子事儿	ji dang zi shi er	100
 几道菜	ji dao cai	100
+挤到角落	ji dao jiao luo	100
 寄刀片	ji dao pian	100
 寄刀片儿	ji dao pian er	100
 几道题	ji dao ti	100
@@ -141895,7 +141890,6 @@ sort: by_weight
 快乐豆	kuai le dou	100
 快乐斗地主	kuai le dou di zhu	100
 快乐斗牛	kuai le dou niu	100
-快乐斗牛腾讯版	kuai le dou niu teng xun ban	100
 快乐度	kuai le du	100
 快乐读书吧	kuai le du shu ba	100
 快乐多	kuai le duo	100
@@ -145593,6 +145587,7 @@ sort: by_weight
 累得很	lei de hen	100
 勒得慌	lei de huang	100
 累得慌	lei de huang	100
+勒得紧	lei de jin	100
 雷德克里夫	lei de ke li fu	100
 累得满头大汗	lei de man tou da han	100
 累得气喘吁吁	lei de qi chuan xu xu	100
@@ -151947,7 +151942,6 @@ sort: by_weight
 溜达溜达	liu da liu da	100
 刘大美人	liu da mei ren	100
 六大模块	liu da mo kuai	100
-六大片	liu da pian	100
 六打三	liu da san	100
 刘大锁	liu da suo	100
 六大体系	liu da ti xi	100
@@ -156743,6 +156737,7 @@ sort: by_weight
 骆济通	luo ji tong	100
 逻辑行为	luo ji xing wei	100
 裸机重量	luo ji zhong liang	100
+洛基传	luo ji zhuan	100
 逻辑自洽	luo ji zi qia	100
 落架大修	luo jia da xiu	100
 落肩的设计	luo jian de she ji	100
@@ -163337,7 +163332,6 @@ sort: by_weight
 美女技师	mei nv ji shi	100
 美女角色	mei nv jue se	100
 美女来了	mei nv lai le	100
-美女来了免费观看	mei nv lai le mian fei guan kan	100
 美女老师	mei nv lao shi	100
 美女嫩模	mei nv nen mo	100
 美女你好	mei nv ni hao	100
@@ -165077,7 +165071,6 @@ sort: by_weight
 没以前好	mei yi qian hao	100
 没以前好看	mei yi qian hao kan	100
 没以前好了	mei yi qian hao le	100
-没意识	mei yi shi	100
 没意思啦	mei yi si la	100
 没意思了	mei yi si le	100
 每一所学校	mei yi suo xue xiao	100
@@ -191103,7 +191096,6 @@ sort: by_weight
 千劫眉	qian jie mei	100
 千金敝帚	qian jin bi zhou	100
 前进不懈	qian jin bu xie	100
-前进党	qian jin dang	100
 前进的	qian jin de	100
 前进的速度	qian jin de su du	100
 千金方	qian jin fang	100
@@ -194496,6 +194488,8 @@ sort: by_weight
 轻轻爱	qing qing ai	100
 情情爱爱	qing qing ai ai	100
 轻轻被折断	qing qing bei zhe duan	100
+轻轻蹭	qing qing ceng	100
+轻轻蹭着	qing qing ceng zhe	100
 清清澈澈	qing qing che che	100
 清清楚楚地告诉	qing qing chu chu de gao su	100
 轻轻吹过	qing qing chui guo	100
@@ -206953,8 +206947,6 @@ sort: by_weight
 扫地机厂家	sao di ji chang jia	100
 扫地机器	sao di ji qi	100
 扫地机器人	sao di ji qi ren	100
-扫地机器人品牌	sao di ji qi ren pin pai	100
-扫地机器人怎么样	sao di ji qi ren zen me yang	100
 扫地俱尽	sao di ju jin	100
 扫地僧	sao di seng	100
 扫地神僧	sao di shen seng	100
@@ -232954,7 +232946,6 @@ sort: by_weight
 宿舍神器	su she shen qi	100
 宿舍生活	su she sheng huo	100
 宿舍食堂	su she shi tang	100
-宿舍条件怎么样	su she tiao jian zen me yang	100
 宿舍外	su she wai	100
 宿舍网路	su she wang lu	100
 宿舍卫生	su she wei sheng	100
@@ -240812,7 +240803,6 @@ sort: by_weight
 鿬元素	tian yuan su	100
 天渊悬隔	tian yuan xuan ge	100
 天元战	tian yuan zhan	100
-田渊正浩	tian yuan zheng hao	100
 天渊之隔	tian yuan zhi ge	100
 田园之国	tian yuan zhi guo	100
 天缘注定	tian yuan zhu ding	100
@@ -250681,6 +250671,7 @@ sort: by_weight
 魏家祥	wei jia xiang	100
 未嫁新娘	wei jia xin niang	100
 唯见碧流水	wei jian bi liu shui	100
+唯见长江	wei jian chang jiang	100
 违建户	wei jian hu	100
 韦建桦	wei jian hua	100
 卫健局局长	wei jian ju ju zhang	100
@@ -254558,6 +254549,7 @@ sort: by_weight
 我还爱着你	wo hai ai zhe ni	100
 我还不笨	wo hai bu ben	100
 我还不清楚	wo hai bu qing chu	100
+我还不如	wo hai bu ru	100
 我还不想死	wo hai bu xiang si	100
 我还不相信	wo hai bu xiang xin	100
 我还不晓得	wo hai bu xiao de	100
@@ -264394,16 +264386,8 @@ sort: by_weight
 系统会提示	xi tong hui ti shi	100
 系统级别	xi tong ji bie	100
 系统疾病	xi tong ji bing	100
-系统集成服务	xi tong ji cheng fu wu	100
-系统集成工程师	xi tong ji cheng gong cheng shi	100
-系统集成公司	xi tong ji cheng gong si	100
-系统集成及工控	xi tong ji cheng ji gong kong	100
 系统集成技术	xi tong ji cheng ji shu	100
-系统集成解决方案	xi tong ji cheng jie jue fang an	100
 系统集成能力	xi tong ji cheng neng li	100
-系统集成企业	xi tong ji cheng qi ye	100
-系统集成项目	xi tong ji cheng xiang mu	100
-系统集成业务	xi tong ji cheng ye wu	100
 系统基础	xi tong ji chu	100
 系统级封装	xi tong ji feng zhuang	100
 系统计划	xi tong ji hua	100
@@ -272678,7 +272662,6 @@ sort: by_weight
 逍遥逍遥	xiao yao xiao yao	100
 逍遥行	xiao yao xing	100
 逍遥自得	xiao yao zi de	100
-消遥自在	xiao yao zi zai	100
 小夜班	xiao ye ban	100
 小野不由美	xiao ye bu you mei	100
 小夜刀	xiao ye dao	100
@@ -283675,7 +283658,6 @@ sort: by_weight
 岩居谷饮	yan ju gu yin	100
 燕居深念	yan ju shen nian	100
 岩居穴处	yan ju xue chu	100
-厌倦了机器人斗牛	yan juan le ji qi ren dou niu	100
 眼看就要完成	yan kan jiu yao wan cheng	100
 眼看就要完成了	yan kan jiu yao wan cheng le	100
 眼看四方	yan kan si fang	100
@@ -321321,10 +321303,6 @@ sort: by_weight
 指挥系	zhi hui xi	100
 智慧系统	zhi hui xi tong	100
 智慧消防系统	zhi hui xiao fang xi tong	100
-智慧校园建设	zhi hui xiao yuan jian she	100
-智慧校园解决方案	zhi hui xiao yuan jie jue fang an	100
-智慧校园平台	zhi hui xiao yuan ping tai	100
-智慧校园系统	zhi hui xiao yuan xi tong	100
 只会写	zhi hui xie	100
 指挥协调	zhi hui xie tiao	100
 指挥行动	zhi hui xing dong	100
@@ -327489,40 +327467,6 @@ sort: by_weight
 中央净水系统	zhong yang jing shui xi tong	100
 中央九套	zhong yang jiu tao	100
 中央军校	zhong yang jun xiao	100
-中央空调安装	zhong yang kong tiao an zhuang	100
-中央空调安装公司	zhong yang kong tiao an zhuang gong si	100
-中央空调保养	zhong yang kong tiao bao yang	100
-中央空调产品	zhong yang kong tiao chan pin	100
-中央空调出风口	zhong yang kong tiao chu feng kou	100
-中央空调风口	zhong yang kong tiao feng kou	100
-中央空调改造	zhong yang kong tiao gai zao	100
-中央空调工程	zhong yang kong tiao gong cheng	100
-中央空调管道	zhong yang kong tiao guan dao	100
-中央空调行业	zhong yang kong tiao hang ye	100
-中央空调回收	zhong yang kong tiao hui shou	100
-中央空调机组	zhong yang kong tiao ji zu	100
-中央空调价格	zhong yang kong tiao jia ge	100
-中央空调节能	zhong yang kong tiao jie neng	100
-中央空调节能改造	zhong yang kong tiao jie neng gai zao	100
-中央空调冷却塔	zhong yang kong tiao leng que ta	100
-中央空调末端	zhong yang kong tiao mo duan	100
-中央空调木托	zhong yang kong tiao mu tuo	100
-中央空调配件	zhong yang kong tiao pei jian	100
-中央空调品牌	zhong yang kong tiao pin pai	100
-中央空调清洗	zhong yang kong tiao qing xi	100
-中央空调设备	zhong yang kong tiao she bei	100
-中央空调设计	zhong yang kong tiao she ji	100
-中央空调市场	zhong yang kong tiao shi chang	100
-中央空调水系统	zhong yang kong tiao shui xi tong	100
-中央空调通风管道	zhong yang kong tiao tong feng guan dao	100
-中央空调维保	zhong yang kong tiao wei bao	100
-中央空调维修	zhong yang kong tiao wei xiu	100
-中央空调维修保养	zhong yang kong tiao wei xiu bao yang	100
-中央空调系统	zhong yang kong tiao xi tong	100
-中央空调销售	zhong yang kong tiao xiao shou	100
-中央空调制冷	zhong yang kong tiao zhi leng	100
-中央空调主机	zhong yang kong tiao zhu ji	100
-中央控制系统	zhong yang kong zhi xi tong	100
 中央利益	zhong yang li yi	100
 中央六套	zhong yang liu tao	100
 中央陆军	zhong yang lu jun	100
@@ -332529,8 +332473,6 @@ sort: by_weight
 自动系带	zi dong ji dai	100
 自动系鞋带	zi dong ji xie dai	100
 自动驾驶	zi dong jia shi	100
-自动驾驶出行服务	zi dong jia shi chu xing fu wu	100
-自动驾驶地图	zi dong jia shi di tu	100
 自动驾驶辅助系统	zi dong jia shi fu zhu xi tong	100
 自动驾驶模式	zi dong jia shi mo shi	100
 自动驾驶系统	zi dong jia shi xi tong	100
