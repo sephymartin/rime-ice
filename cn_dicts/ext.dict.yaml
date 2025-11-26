@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-11-10"
+version: "2025-11-22"
 sort: by_weight
 ...
 # +_+
@@ -881,6 +881,7 @@ sort: by_weight
 哀毁瘠立	ai hui ji li	100
 爱回家	ai hui jia	100
 爱回收	ai hui shou	100
+瑷珲-腾冲线	ai hui teng chong xian	100
 瑷珲条约	ai hui tiao yue	100
 爱火重燃	ai huo chong ran	100
 埃及地	ai ji di	100
@@ -1528,6 +1529,7 @@ sort: by_weight
 安保行业	an bao hang ye	100
 安保系统	an bao xi tong	100
 安保压力	an bao ya li	100
+氨苯胂酸	an ben shen suan	100
 安比槐	an bi huai	100
 按比例发展	an bi li fa zhan	100
 按表操课	an biao cao ke	100
@@ -3009,6 +3011,7 @@ sort: by_weight
 澳门等地	ao men deng di	100
 澳门地区	ao men di qu	100
 澳门豆捞	ao men dou lao	100
+澳门分行	ao men fen hang	100
 澳门高校	ao men gao xiao	100
 澳门国际机场	ao men guo ji ji chang	100
 澳门皇都酒店	ao men huang du jiu dian	100
@@ -10984,7 +10987,6 @@ sort: by_weight
 北京一地	bei jing yi di	100
 北京艺术学院	bei jing yi shu xue yuan	100
 北京音	bei jing yin	100
-北京银行信用卡	bei jing yin hang xin yong ka	100
 北京音乐	bei jing yin yue	100
 北京音乐厅	bei jing yin yue ting	100
 背景音乐系统	bei jing yin yue xi tong	100
@@ -17410,6 +17412,7 @@ sort: by_weight
 不当家花花	bu dang jia hua hua	100
 不当家花拉	bu dang jia hua la	100
 不当了	bu dang le	100
+不当类比	bu dang lei bi	100
 不挡人财路	bu dang ren cai lu	100
 不当人子	bu dang ren zi	100
 不当事儿	bu dang shi er	100
@@ -45527,6 +45530,7 @@ sort: by_weight
 大波美人鱼人美波大	da bo mei ren yu ren mei bo da	100
 大补啊	da bu a	100
 达不成	da bu cheng	100
+打不成狐狸	da bu cheng hu li	100
 达不成这种结果	da bu cheng zhe zhong jie guo	100
 大不大啊	da bu da a	100
 达不达标啊	da bu da biao a	100
@@ -45562,6 +45566,7 @@ sort: by_weight
 打不打游戏	da bu da you xi	100
 打不到车	da bu dao che	100
 打不到车啊	da bu dao che a	100
+打不到狐狸	da bu dao hu li	100
 打不得骂不得	da bu de ma bu de	100
 打不得仗	da bu de zhang	100
 打补丁的方式	da bu ding de fang shi	100
@@ -45620,6 +45625,8 @@ sort: by_weight
 大埔墟	da bu xu	100
 打不赢	da bu ying	100
 打不着车	da bu zhao che	100
+打不着狐狸	da bu zhao hu li	100
+打不着狐狸反惹一身臊	da bu zhao hu li fan re yi shen sao	100
 打不着火	da bu zhao huo	100
 大埔镇	da bu zhen	100
 大步走	da bu zou	100
@@ -53147,6 +53154,7 @@ sort: by_weight
 导热系数低	dao re xi shu di	100
 导热系数高	dao re xi shu gao	100
 导热系数小	dao re xi shu xiao	100
+倒惹一身臊	dao re yi shen sao	100
 道人之短	dao ren zhi duan	100
 导入词库	dao ru ci ku	100
 导入第三方	dao ru di san fang	100
@@ -61543,6 +61551,7 @@ sort: by_weight
 都安排好了	dou an pai hao le	100
 都安全	dou an quan	100
 都巴不得	dou ba bu de	100
+都八点了	dou ba dian le	100
 斗百草	dou bai cao	100
 窦百玲	dou bai ling	100
 斗百余	dou bai yu	100
@@ -62565,6 +62574,7 @@ sort: by_weight
 都记不清	dou ji bu qing	100
 都记得	dou ji de	100
 都记得吗	dou ji de ma	100
+都几点了	dou ji dian le	100
 都激动	dou ji dong	100
 都极好	dou ji hao	100
 都计划	dou ji hua	100
@@ -62629,6 +62639,7 @@ sort: by_weight
 都惊艳	dou jing yan	100
 斗酒百篇	dou jiu bai pian	100
 斗酒博凉州	dou jiu bo liang zhou	100
+都九点了	dou jiu dian le	100
 斗酒诗百篇	dou jiu shi bai pian	100
 斗酒学士	dou jiu xue shi	100
 斗酒只鸡	dou jiu zhi ji	100
@@ -62833,6 +62844,7 @@ sort: by_weight
 都联网	dou lian wang	100
 都联系	dou lian xi	100
 斗量车载	dou liang che zai	100
+都两点了	dou liang dian le	100
 都亮了	dou liang le	100
 都凉了	dou liang le	100
 都了解了	dou liao jie le	100
@@ -62843,6 +62855,7 @@ sort: by_weight
 都流出来	dou liu chu lai	100
 都流出来了	dou liu chu lai le	100
 逗留得久	dou liu de jiu	100
+都六点了	dou liu dian le	100
 斗六市	dou liu shi	100
 都流行	dou liu xing	100
 都留言	dou liu yan	100
@@ -63203,6 +63216,7 @@ sort: by_weight
 豆粕价格行情	dou po jia ge hang qing	100
 斗破王者	dou po wang zhe	100
 豆剖瓜分	dou pou gua fen	100
+都七点了	dou qi dian le	100
 斗气阁	dou qi ge	100
 斗气化翼	dou qi hua yi	100
 抖起来	dou qi lai	100
@@ -63273,6 +63287,7 @@ sort: by_weight
 都如同	dou ru tong	100
 都如意	dou ru yi	100
 都软了	dou ruan le	100
+都三点了	dou san dian le	100
 都散了吧	dou san le ba	100
 豆沙褐	dou sha he	100
 豆沙褐的	dou sha he de	100
@@ -63328,6 +63343,7 @@ sort: by_weight
 都是大佬	dou shi da lao	100
 都是大腕	dou shi da wan	100
 都十点了	dou shi dian le	100
+都十二点了	dou shi er dian le	100
 都是废物	dou shi fei wu	100
 都十分适合	dou shi fen shi he	100
 都十分喜欢	dou shi fen xi huan	100
@@ -63537,6 +63553,7 @@ sort: by_weight
 都说说看法	dou shuo shuo kan fa	100
 都说养儿防老	dou shuo yang er fang lao	100
 都死不了	dou si bu liao	100
+都四点了	dou si dian le	100
 逗死爹了	dou si die le	100
 都死光	dou si guang	100
 都死啦	dou si la	100
@@ -63634,6 +63651,7 @@ sort: by_weight
 逗我呢	dou wo ne	100
 逗我呢啊	dou wo ne a	100
 逗我玩儿	dou wo wan er	100
+都五点了	dou wu dian le	100
 都无法保证	dou wu fa bao zheng	100
 都无法避免	dou wu fa bi mian	100
 都无法超越	dou wu fa chao yue	100
@@ -63888,6 +63906,7 @@ sort: by_weight
 都已不再是	dou yi bu zai shi	100
 都已尘埃落定	dou yi chen ai luo ding	100
 都一次	dou yi ci	100
+都一点了	dou yi dian le	100
 都一个月	dou yi ge yue	100
 都已经出现	dou yi jing chu xian	100
 都已经结婚	dou yi jing jie hun	100
@@ -65696,6 +65715,7 @@ sort: by_weight
 短租民宿	duan zu min su	100
 断做两截	duan zuo liang jie	100
 对氨基苯丙酮	dui an ji ben bing tong	100
+对氨基苯胂酸	dui an ji ben shen suan	100
 堆案盈几	dui an ying ji	100
 对吧对吧	dui ba dui ba	100
 对白没深度	dui bai mei shen du	100
@@ -68783,6 +68803,7 @@ sort: by_weight
 二甲基色胺	er jia ji se an	100
 二甲基胂酸	er jia ji shen suan	100
 二甲胂酸	er jia shen suan	100
+二甲胂酸钠	er jia shen suan na	100
 而渐渐地	er jian jian de	100
 二见一树	er jian yi shu	100
 二届国代	er jie guo dai	100
@@ -70507,7 +70528,6 @@ sort: by_weight
 二五九五年	er wu jiu wu nian	100
 二五九一	er wu jiu yi	100
 二五九一年	er wu jiu yi nian	100
-二屋里	er wu li	100
 二五〇八	er wu ling ba	100
 二五〇八年	er wu ling ba nian	100
 二五〇二	er wu ling er	100
@@ -72911,6 +72931,7 @@ sort: by_weight
 饭圈女孩	fan quan nv hai	100
 幡然变计	fan ran bian ji	100
 幡然改图	fan ran gai tu	100
+反惹一身臊	fan re yi shen sao	100
 凡人不可貌相	fan ren bu ke mao xiang	100
 反人道罪	fan ren dao zui	100
 反人道罪行	fan ren dao zui xing	100
@@ -85971,8 +85992,16 @@ sort: by_weight
 给出了	gei chu le	100
 给带歪了	gei dai wai le	100
 给党听	gei dang ting	100
+给得不多	gei de bu duo	100
+给得不少	gei de bu shao	100
 给的胆子	gei de dan zi	100
+给得多	gei de duo	100
+给得更多	gei de geng duo	100
+给得更少	gei de geng shao	100
 给的钱	gei de qian	100
+给得少	gei de shao	100
+给得最多	gei de zui duo	100
+给得最少	gei de zui shao	100
 给第二次	gei di er ci	100
 给点参考	gei dian can kao	100
 给点参考吧	gei dian can kao ba	100
@@ -88646,9 +88675,7 @@ sort: by_weight
 工商银行股票	gong shang yin hang gu piao	100
 工商银行卡	gong shang yin hang ka	100
 工商银行旁	gong shang yin hang pang	100
-工商银行网上银行	gong shang yin hang wang shang yin hang	100
 工商银行网银	gong shang yin hang wang yin	100
-工商银行信用卡	gong shang yin hang xin yong ka	100
 工商银行总行	gong shang yin hang zong hang	100
 共赏之人	gong shang zhi ren	100
 工商职业	gong shang zhi ye	100
@@ -92329,7 +92356,6 @@ sort: by_weight
 光大起来	guang da qi lai	100
 广大收藏爱好者	guang da shou cang ai hao zhe	100
 广大校友	guang da xiao you	100
-光大银行信用卡	guang da yin hang xin yong ka	100
 咣当地响	guang dang de xiang	100
 咣当咣当地响	guang dang guang dang de xiang	100
 咣当一声	guang dang yi sheng	100
@@ -92586,7 +92612,6 @@ sort: by_weight
 广发稳健增长	guang fa wen jian zeng zhang	100
 广发信用卡	guang fa xin yong ka	100
 广发行	guang fa xing	100
-广发银行信用卡	guang fa yin hang xin yong ka	100
 广泛的传播	guang fan de chuan bo	100
 广泛的合作关系	guang fan de he zuo guan xi	100
 广泛的联系	guang fan de lian xi	100
@@ -97660,6 +97685,7 @@ sort: by_weight
 还嫌快	hai xian kuai	100
 还嫌慢	hai xian man	100
 海鲜面	hai xian mian	100
+还嫌弃上了	hai xian qi shang le	100
 还献上祝福	hai xian shang zhu fu	100
 还嫌少	hai xian shao	100
 海鲜盛宴	hai xian sheng yan	100
@@ -103366,6 +103392,7 @@ sort: by_weight
 黑汗王朝	hei han wang chao	100
 黑河地区	hei he di qu	100
 黑河湿地	hei he shi di	100
+黑河-腾冲线	hei he teng chong xian	100
 黑黑白白	hei hei bai bai	100
 黑黑的	hei hei de	100
 嘿嘿哈哈	hei hei ha ha	100
@@ -106189,6 +106216,7 @@ sort: by_weight
 虎毒不食儿	hu du bu shi er	100
 弧度大	hu du da	100
 虎都男装	hu du nan zhuang	100
+护犊心切	hu du xin qie	100
 呼读音	hu du yin	100
 弧度制	hu du zhi	100
 户对门当	hu dui men dang	100
@@ -106275,6 +106303,7 @@ sort: by_weight
 互换了身体	hu huan le shen ti	100
 呼唤你	hu huan ni	100
 互换一下	hu huan yi xia	100
+胡焕庸	hu huan yong	100
 胡焕庸线	hu huan yong xian	100
 胡焕庸线以东	hu huan yong xian yi dong	100
 胡焕庸线以西	hu huan yong xian yi xi	100
@@ -106375,9 +106404,9 @@ sort: by_weight
 护老者	hu lao zhe	100
 呼了口气	hu le kou qi	100
 糊了一脸	hu le yi lian	100
-胡里奥伊格莱西亚斯	hu li ao yi ge lai xi ya si	100
+胡里奥·伊格莱西亚斯	hu li ao yi ge lai xi ya si	100
 护理保险制度	hu li bao xian zhi du	100
-狐狸不是妖	hu li bu shi yao	100
+狐狸打不成	hu li da bu cheng	100
 互利关系	hu li guan xi	100
 护理行业	hu li hang ye	100
 虎里虎气	hu li hu qi	100
@@ -106387,8 +106416,7 @@ sort: by_weight
 湖里面	hu li mian	100
 护理模式	hu li mo shi	100
 狐狸皮	hu li pi	100
-虎力全开	hu li quan kai	100
-狐狸骚	hu li sao	100
+狐狸臊	hu li sao	100
 护理天地	hu li tian di	100
 护理系列	hu li xi lie	100
 狐狸心中之术	hu li xin zhong zhi shu	100
@@ -107832,7 +107860,6 @@ sort: by_weight
 花憩节	hua qi jie	100
 花起来	hua qi lai	100
 花期延长	hua qi yan chang	100
-花旗银行信用卡	hua qi yin hang xin yong ka	100
 花钱呗	hua qian bei	100
 花钱的地方	hua qian de di fang	100
 花钱订阅	hua qian ding yue	100
@@ -108066,8 +108093,6 @@ sort: by_weight
 华夏王朝	hua xia wang chao	100
 华夏文明的发祥地	hua xia wen ming de fa xiang di	100
 华夏文明的发源地	hua xia wen ming de fa yuan di	100
-华夏银行信用卡	hua xia yin hang xin yong ka	100
-华夏中证银行	hua xia zhong zheng yin hang	100
 化下妆	hua xia zhuang	100
 划线板	hua xian ban	100
 化纤地毯	hua xian di tan	100
@@ -116825,6 +116850,7 @@ sort: by_weight
 加杯水	jia bei shui	100
 加碑岩	jia bei yan	100
 加倍重视	jia bei zhong shi	100
+甲苯胂酸	jia ben shen suan	100
 驾崩了	jia beng le	100
 加比勒	jia bi le	100
 夹壁墙	jia bi qiang	100
@@ -117296,6 +117322,10 @@ sort: by_weight
 家给民足	jia ji min zu	100
 家骥人璧	jia ji ren bi	100
 加基森	jia ji sen	100
+甲基胂酸	jia ji shen suan	100
+甲基胂酸钙	jia ji shen suan gai	100
+甲基胂酸钠	jia ji shen suan na	100
+甲基胂酸锌	jia ji shen suan xin	100
 驾机投诚	jia ji tou cheng	100
 加鸡腿了	jia ji tui le	100
 家鸡野鹜	jia ji ye wu	100
@@ -117902,6 +117932,7 @@ sort: by_weight
 加深处理	jia shen chu li	100
 加深理解	jia shen li jie	100
 加什么	jia shen me	100
+甲胂酸	jia shen suan	100
 加深友谊	jia shen you yi	100
 甲申政变	jia shen zheng bian	100
 甲申之乱	jia shen zhi luan	100
@@ -119972,8 +120003,6 @@ sort: by_weight
 建设行政主管部门	jian she xing zheng zhu guan bu men	100
 建设学校	jian she xue xiao	100
 建设银行卡	jian she yin hang ka	100
-建设银行网上银行	jian she yin hang wang shang yin hang	100
-建设银行信用卡	jian she yin hang xin yong ka	100
 建设银行总行	jian she yin hang zong hang	100
 建设用地供应	jian she yong di gong ying	100
 建设用地规划许可	jian she yong di gui hua xu ke	100
@@ -122863,7 +122892,6 @@ sort: by_weight
 交通要地	jiao tong yao di	100
 交通意外	jiao tong yi wai	100
 交通银行卡	jiao tong yin hang ka	100
-交通银行信用卡	jiao tong yin hang xin yong ka	100
 交通音乐广播	jiao tong yin yue guang bo	100
 交通拥堵辅助系统	jiao tong yong du fu zhu xi tong	100
 交通运输部	jiao tong yun shu bu	100
@@ -125374,6 +125402,7 @@ sort: by_weight
 紧紧贴着	jin jin tie zhe	100
 紧紧贴着我	jin jin tie zhe wo	100
 仅仅五个	jin jin wu ge	100
+紧紧捂着	jin jin wu zhe	100
 紧紧咬着	jin jin yao zhe	100
 紧紧咬着牙	jin jin yao zhe ya	100
 仅仅一个	jin jin yi ge	100
@@ -133252,7 +133281,6 @@ sort: by_weight
 锯鳐科	ju yao ke	100
 举要删芜	ju yao shan wu	100
 锯鳐属	ju yao shu	100
-聚药雄蕊	ju yao xiong rui	100
 举要治繁	ju yao zhi fan	100
 巨野北	ju ye bei	100
 举一废百	ju yi fei bai	100
@@ -138259,6 +138287,7 @@ sort: by_weight
 客官不要啊	ke guan bu yao a	100
 客观地分析	ke guan de fen xi	100
 客观的了解	ke guan de liao jie	100
+客观地说	ke guan de shuo	100
 可观的增长	ke guan de zeng zhang	100
 客观缓解率	ke guan huan jie lv	100
 可关键	ke guan jian	100
@@ -140336,6 +140365,8 @@ sort: by_weight
 孔雀园	kong que yuan	100
 孔雀雉	kong que zhi	100
 孔雀座	kong que zuo	100
+空惹一身臊	kong re yi shen sao	100
+空惹一身膻	kong re yi shen shan	100
 空如来藏	kong ru lai zang	100
 恐山安娜	kong shan an na	100
 空射弹道导弹	kong she dan dao dao dan	100
@@ -156438,7 +156469,6 @@ sort: by_weight
 落不了地	luo bu liao di	100
 罗布泊地区	luo bu po di qu	100
 罗布泊镇	luo bu po zhen	100
-萝卜缨	luo bu ying	100
 罗卜藏丹津	luo bu zang dan jin	100
 落差大	luo cha da	100
 罗刹洞	luo cha dong	100
@@ -159184,6 +159214,7 @@ sort: by_weight
 卖得更多	mai de geng duo	100
 卖得更贵	mai de geng gui	100
 卖得更好	mai de geng hao	100
+卖得更少	mai de geng shao	100
 买得贵	mai de gui	100
 卖得贵	mai de gui	100
 买得好	mai de hao	100
@@ -168138,9 +168169,7 @@ sort: by_weight
 民生为要	min sheng wei yao	100
 民生温度	min sheng wen du	100
 民生西路	min sheng xi lu	100
-民生银行北京分行	min sheng yin hang bei jing fen hang	100
 民生银行卡	min sheng yin hang ka	100
-民生银行信用卡	min sheng yin hang xin yong ka	100
 民生重点	min sheng zhong dian	100
 悯时病俗	min shi bing su	100
 民事法律行为无效	min shi fa lv xing wei wu xiao	100
@@ -172655,6 +172684,7 @@ sort: by_weight
 拿他们没办法	na ta men mei ban fa	100
 纳塔乃耳	na ta nai er	100
 那他呢	na ta ne	100
+那她呢	na ta ne	100
 娜塔莎·托马斯	na ta sha tuo ma si	100
 拿他是问	na ta shi wen	100
 娜坦莉·莫森特	na tan li mo sen te	100
@@ -179959,8 +179989,6 @@ sort: by_weight
 宁波工程	ning bo gong cheng	100
 宁波人	ning bo ren	100
 宁波尾大蚕蛾	ning bo wei da can e	100
-宁搏疫	ning bo yi	100
-宁波银行信用卡	ning bo yin hang xin yong ka	100
 宁采臣	ning cai chen	100
 佞臣贼子	ning chen zei zi	100
 宁城打弹子	ning cheng da dan zi	100
@@ -180551,7 +180579,6 @@ sort: by_weight
 农行网点	nong hang wang dian	100
 农行网银	nong hang wang yin	100
 农行信用卡	nong hang xin yong ka	100
-农行银行	nong hang yin hang	100
 农行掌上银行	nong hang zhang shang yin hang	100
 农行掌银	nong hang zhang yin	100
 弄好了嘛	nong hao le ma	100
@@ -180722,8 +180749,6 @@ sort: by_weight
 农业行政	nong ye xing zheng	100
 农业畜牧	nong ye xu mu	100
 农业银行卡	nong ye yin hang ka	100
-农业银行网上银行	nong ye yin hang wang shang yin hang	100
-农业银行信用卡	nong ye yin hang xin yong ka	100
 农业园	nong ye yuan	100
 农业政策性银行	nong ye zheng ce xing yin hang	100
 农业职业学校	nong ye zhi ye xue xiao	100
@@ -184836,7 +184861,6 @@ sort: by_weight
 平安宣传	ping an xuan chuan	100
 平安夜快乐	ping an ye kuai le	100
 平安银行	ping an yin hang	100
-平安银行信用卡	ping an yin hang xin yong ka	100
 平安证券	ping an zheng quan	100
 平安着陆	ping an zhuo lu	100
 平白得了	ping bai de le	100
@@ -185867,9 +185891,6 @@ sort: by_weight
 普法宣传	pu fa xuan chuan	100
 普法宣传活动	pu fa xuan chuan huo dong	100
 普法宣传教育	pu fa xuan chuan jiao yu	100
-浦发银行成都分行	pu fa yin hang cheng du fen hang	100
-浦发银行广州分行	pu fa yin hang guang zhou fen hang	100
-浦发银行信用卡	pu fa yin hang xin yong ka	100
 匍匐前行	pu fu qian xing	100
 匍匐运动	pu fu yun dong	100
 匍匐在地	pu fu zai di	100
@@ -189445,7 +189466,6 @@ sort: by_weight
 其他严重情节	qi ta yan zhong qing jie	100
 其他央行	qi ta yang hang	100
 其他益处	qi ta yi chu	100
-其他银行信用卡	qi ta yin hang xin yong ka	100
 其他音乐	qi ta yin yue	100
 其他用地	qi ta yong di	100
 其他娱乐	qi ta yu le	100
@@ -199019,7 +199039,7 @@ sort: by_weight
 热得烫手	re de tang shou	100
 热得心慌	re de xin huang	100
 热得要死	re de yao si	100
-惹得一身骚	re de yi shen sao	100
+惹得一身臊	re de yi shen sao	100
 热地蚂蚁	re di ma yi	100
 热地上蚂蚁	re di shang ma yi	100
 热点行业	re dian hang ye	100
@@ -199125,7 +199145,7 @@ sort: by_weight
 惹了麻烦	re le ma fan	100
 热了起来	re le qi lai	100
 惹了事	re le shi	100
-惹了一身骚	re le yi shen sao	100
+惹了一身臊	re le yi shen sao	100
 惹了这么大	re le zhe me da	100
 惹了这么大麻烦	re le zhe me da ma fan	100
 惹了众怒	re le zhong nu	100
@@ -199285,7 +199305,10 @@ sort: by_weight
 热罨法	re yan fa	100
 惹焰烧身	re yan shao shen	100
 热议度	re yi du	100
+惹一股子臊	re yi gu zi sao	100
 热依娜	re yi na	100
+惹一身臊	re yi shen sao	100
+惹一身膻	re yi shen shan	100
 热议主题	re yi zhu ti	100
 热诱弹	re you dan	100
 热瑜伽	re yu jia	100
@@ -199308,6 +199331,7 @@ sort: by_weight
 热轧无缝管	re zha wu feng guan	100
 热轧型钢	re zha xing gang	100
 热轧圆钢	re zha yuan gang	100
+惹着一身臊	re zhao yi shen sao	100
 热着吃	re zhe chi	100
 热着吃的	re zhe chi de	100
 热知识	re zhi shi	100
@@ -200128,19 +200152,13 @@ sort: by_weight
 人民行动党	ren min xing dong dang	100
 人民需要什么	ren min xu yao shen me	100
 人民意志	ren min yi zhi	100
-人民银行成都分行	ren min yin hang cheng du fen hang	100
 人民银行党委	ren min yin hang dang wei	100
 人民银行等部门	ren min yin hang deng bu men	100
 人民银行法	ren min yin hang fa	100
 人民银行分支机构	ren min yin hang fen zhi ji gou	100
 人民银行副行长	ren min yin hang fu hang zhang	100
-人民银行广州分行	ren min yin hang guang zhou fen hang	100
 人民银行行长	ren min yin hang hang zhang	100
-人民银行济南分行	ren min yin hang ji nan fen hang	100
-人民银行南京分行	ren min yin hang nan jing fen hang	100
-人民银行上海总部	ren min yin hang shang hai zong bu	100
 人民银行网站	ren min yin hang wang zhan	100
-人民银行西安分行	ren min yin hang xi an fen hang	100
 人民银行征信	ren min yin hang zheng xin	100
 人民银行征信系统	ren min yin hang zheng xin xi tong	100
 人民银行征信中心	ren min yin hang zheng xin zhong xin	100
@@ -201128,6 +201146,7 @@ sort: by_weight
 扔手榴弹	reng shou liu dan	100
 扔树苗	reng shu miao	100
 扔鞋子	reng xie zi	100
+扔烟雾弹	reng yan wu dan	100
 扔一堆	reng yi dui	100
 扔一颗	reng yi ke	100
 仍有很长的路要走	reng you hen chang de lu yao zou	100
@@ -207087,6 +207106,7 @@ sort: by_weight
 扫拖一体	sao tuo yi ti	100
 扫拖一体机器人	sao tuo yi ti ji qi ren	100
 扫完雪了	sao wan xue le	100
+臊味重	sao wei zhong	100
 扫我的码	sao wo de ma	100
 扫五福	sao wu fu	100
 扫雪吧	sao xue ba	100
@@ -209125,6 +209145,7 @@ sort: by_weight
 上帝之鞭	shang di zhi bian	100
 上帝之吻	shang di zhi wen	100
 商店版	shang dian ban	100
+上点强度	shang dian qiang du	100
 上电梯	shang dian ti	100
 上电梯了	shang dian ti le	100
 商店系统	shang dian xi tong	100
@@ -209360,7 +209381,6 @@ sort: by_weight
 上海学校	shang hai xue xiao	100
 上海药物所	shang hai yao wu suo	100
 上海也下雪了	shang hai ye xia xue le	100
-上海银行信用卡	shang hai yin hang xin yong ka	100
 上海音乐	shang hai yin yue	100
 上海音乐出版社	shang hai yin yue chu ban she	100
 上海音乐厅	shang hai yin yue ting	100
@@ -214260,6 +214280,7 @@ sort: by_weight
 深松整地	shen song zheng di	100
 申诉率	shen su lv	100
 申诉者	shen su zhe	100
+砷酸钠	shen suan na	100
 砷酸盐	shen suan yan	100
 深邃的	shen sui de	100
 神孙策	shen sun ce	100
@@ -233178,8 +233199,11 @@ sort: by_weight
 宿州萧县	su zhou xiao xian	100
 宿州学院	su zhou xue yuan	100
 苏州银行	su zhou yin hang	100
+诉诸动机	su zhu dong ji	100
 诉诸公论	su zhu gong lun	100
 宿主免疫	su zhu mian yi	100
+诉诸权威	su zhu quan wei	100
+诉诸人身	su zhu ren shen	100
 宿主细胞	su zhu xi bao	100
 宿妆娇羞偏髻鬟	su zhuang jiao xiu pian ji huan	100
 粟子树	su zi shu	100
@@ -259243,6 +259267,7 @@ sort: by_weight
 无尽梦魇	wu jin meng yan	100
 无尽模式	wu jin mo shi	100
 五金模具设计	wu jin mu ju she ji	100
+捂紧钱袋子	wu jin qian dai zi	100
 无尽枪火	wu jin qiang huo	100
 五金商行	wu jin shang hang	100
 五金弹簧	wu jin tan huang	100
@@ -262679,8 +262704,11 @@ sort: by_weight
 捂着鼻子	wu zhe bi zi	100
 无遮大会	wu zhe da hui	100
 焐着肚子	wu zhe du zi	100
+捂着胳膊	wu zhe ge bo	100
 捂着脸	wu zhe lian	100
+捂着钱包	wu zhe qian bao	100
 捂着伤口	wu zhe shang kou	100
+捂着手臂	wu zhe shou bi	100
 吾折天	wu zhe tian	100
 捂着胸口	wu zhe xiong kou	100
 捂着眼睛	wu zhe yan jing	100
@@ -267131,6 +267159,8 @@ sort: by_weight
 线断风筝	xian duan feng zheng	100
 先断后闻	xian duan hou wen	100
 先对不起	xian dui bu qi	100
+限额的	xian e de	100
+险恶的	xian e de	100
 险恶环境	xian e huan jing	100
 嫌恶心	xian e xin	100
 限额以上住宿	xian e yi shang zhu su	100
@@ -276654,10 +276684,12 @@ sort: by_weight
 行动安排	xing dong an pai	100
 行动笨拙	xing dong ben zhuo	100
 行动表现	xing dong biao xian	100
+行动不便的	xing dong bu bian de	100
 行动不便的残疾人	xing dong bu bian de can ji ren	100
 行动不便的乘客	xing dong bu bian de cheng ke	100
 行动不便的老年人	xing dong bu bian de lao nian ren	100
 行动不便的老人	xing dong bu bian de lao ren	100
+行动不便的人	xing dong bu bian de ren	100
 行动不便者	xing dong bu bian zhe	100
 行动不方便	xing dong bu fang bian	100
 行动部署	xing dong bu shu	100
@@ -277880,9 +277912,6 @@ sort: by_weight
 星野南	xing ye nan	100
 行也思君	xing ye si jun	100
 兴业银行卡	xing ye yin hang ka	100
-兴业银行上海分行	xing ye yin hang shang hai fen hang	100
-兴业银行信用卡	xing ye yin hang xin yong ka	100
-兴业银行郑州分行	xing ye yin hang zheng zhou fen hang	100
 星移斗换	xing yi dou huan	100
 星颐广场	xing yi guang chang	100
 行医济世	xing yi ji shi	100
@@ -278309,7 +278338,6 @@ sort: by_weight
 行政职位	xing zheng zhi wei	100
 行政执行	xing zheng zhi xing	100
 行政职业能力测试	xing zheng zhi ye neng li ce shi	100
-行政职业能力测验	xing zheng zhi ye neng li ce yan	100
 行政中心站	xing zheng zhong xin zhan	100
 行政主厨	xing zheng zhu chu	100
 行政主导	xing zheng zhu dao	100
@@ -282905,6 +282933,7 @@ sort: by_weight
 鸭舌头	ya she tou	100
 亚砷酸	ya shen suan	100
 亚砷酸钙	ya shen suan gai	100
+亚砷酸钠	ya shen suan na	100
 亚盛医药	ya sheng yi yao	100
 压胜之术	ya sheng zhi shu	100
 压实度	ya shi du	100
@@ -285303,15 +285332,19 @@ sort: by_weight
 氧炔吹管	yang que chui guan	100
 殃人货	yang ren huo	100
 杨日松	yang ri song	100
+羊肉不曾吃	yang rou bu ceng chi	100
 羊肉串儿	yang rou chuan er	100
 羊肉串烤好	yang rou chuan kao hao	100
 羊肉串烤好了	yang rou chuan kao hao le	100
 羊肉串烤好了没	yang rou chuan kao hao le mei	100
 羊肉炉	yang rou lu	100
 羊肉落在狗嘴里	yang rou luo zai gou zui li	100
+羊肉没吃到	yang rou mei chi dao	100
+羊肉没吃着	yang rou mei chi zhao	100
 羊乳酪	yang ru lao	100
 养锐蓄精	yang rui xu jing	100
 杨若天	yang ruo tian	100
+羊臊味	yang sao wei	100
 羊瘙痒病	yang sao yang bing	100
 羊瘙痒症	yang sao yang zheng	100
 扬善去恶	yang shan qu e	100
@@ -289284,6 +289317,7 @@ sort: by_weight
 一点看不懂	yi dian kan bu dong	100
 一点乐趣	yi dian le qu	100
 伊甸乐园	yi dian le yuan	100
+一点脸都不给	yi dian lian dou bu gei	100
 一点良心	yi dian liang xin	100
 一点邻域	yi dian lin yu	100
 一点灵犀	yi dian ling xi	100
@@ -297908,7 +297942,6 @@ sort: by_weight
 银行信息	yin hang xin xi	100
 银行信用贷款	yin hang xin yong dai kuan	100
 银行信用卡业务	yin hang xin yong ka ye wu	100
-银行信用卡中心	yin hang xin yong ka zhong xin	100
 银行宣布	yin hang xuan bu	100
 银行询证函	yin hang xun zheng han	100
 银行要求	yin hang yao qiu	100
@@ -299203,6 +299236,7 @@ sort: by_weight
 映春华章	ying chun hua zhang	100
 迎春纳福	ying chun na fu	100
 迎春曲	ying chun qu	100
+樱唇玉齿	ying chun yu chi	100
 景从云合	ying cong yun he	100
 景从云集	ying cong yun ji	100
 蝇攒蚁附	ying cuan yi fu	100
@@ -301336,8 +301370,6 @@ sort: by_weight
 又出现了	you chu xian le	100
 有初鲜终	you chu xian zhong	100
 邮储银行	you chu yin hang	100
-邮储银行北京分行	you chu yin hang bei jing fen hang	100
-邮储银行信用卡	you chu yin hang xin yong ka	100
 又传出	you chuan chu	100
 又穿越	you chuan yue	100
 又穿越了	you chuan yue le	100
@@ -301542,7 +301574,6 @@ sort: by_weight
 有点宽	you dian kuan	100
 有点狂妄	you dian kuang wang	100
 有点亏	you dian kui	100
-有点辣	you dian la	100
 有点蓝	you dian lan	100
 有点老火	you dian lao huo	100
 有点老了	you dian lao le	100
@@ -302465,6 +302496,7 @@ sort: by_weight
 有码高清	you ma gao qing	100
 有马贵将	you ma gui jiang	100
 有马纪念	you ma ji nian	100
+有嘛说嘛	you ma shuo ma	100
 有码头的	you ma tou de	100
 有码头的城市	you ma tou de cheng shi	100
 有码头的城镇	you ma tou de cheng zhen	100
@@ -310406,6 +310438,7 @@ sort: by_weight
 咱公司	zan gong si	100
 攒够了钱	zan gou le qian	100
 攒够了失望	zan gou le shi wang	100
+攒够力气	zan gou li qi	100
 攒够钱	zan gou qian	100
 攒够失望	zan gou shi wang	100
 暂缓发行	zan huan fa xing	100
@@ -310422,6 +310455,7 @@ sort: by_weight
 咱就是说	zan jiu shi shuo	100
 赞口不	zan kou bu	100
 暂劳永逸	zan lao yong yi	100
+攒力气	zan li qi	100
 赞丽生活	zan li sheng huo	100
 咱俩过去	zan lia guo qu	100
 咱俩可是	zan lia ke shi	100
@@ -313006,6 +313040,7 @@ sort: by_weight
 战死在沙场	zhan si zai sha chang	100
 战死之后	zhan si zhi hou	100
 占他便宜	zhan ta pian yi	100
+占她便宜	zhan ta pian yi	100
 展台参观	zhan tai can guan	100
 站台宣传	zhan tai xuan chuan	100
 沾体涂足	zhan ti tu zu	100
@@ -315043,9 +315078,6 @@ sort: by_weight
 招商宣传片	zhao shang xuan chuan pian	100
 招商银行大厦	zhao shang yin hang da sha	100
 招商银行卡	zhao shang yin hang ka	100
-招商银行上海分行	zhao shang yin hang shang hai fen hang	100
-招商银行深圳分行	zhao shang yin hang shen zhen fen hang	100
-招商银行信用卡	zhao shang yin hang xin yong ka	100
 招商银行研究院	zhao shang yin hang yan jiu yuan	100
 招商银行总行	zhao shang yin hang zong hang	100
 招商引资力度	zhao shang yin zi li du	100
@@ -321124,7 +321156,6 @@ sort: by_weight
 只凤孤凰	zhi feng gu huang	100
 支付宝还是微信	zhi fu bao hai shi wei xin	100
 支付宝还款	zhi fu bao huan kuan	100
-支付宝还信用卡	zhi fu bao huan xin yong ka	100
 支付宝没钱	zhi fu bao mei qian	100
 支付宝年度账单	zhi fu bao nian du zhang dan	100
 支付宝搜索	zhi fu bao sou suo	100
@@ -326014,15 +326045,11 @@ sort: by_weight
 中国医药学院	zhong guo yi yao xue yuan	100
 中国医院排行榜	zhong guo yi yuan pai hang bang	100
 中国印度	zhong guo yin du	100
-中国银行澳门分行	zhong guo yin hang ao men fen hang	100
 中国银行保险报	zhong guo yin hang bao xian bao	100
 中国银行保险报网	zhong guo yin hang bao xian bao wang	100
 中国银行副行长	zhong guo yin hang fu hang zhang	100
 中国银行行长	zhong guo yin hang hang zhang	100
 中国银行卡	zhong guo yin hang ka	100
-中国银行手机银行	zhong guo yin hang shou ji yin hang	100
-中国银行网上银行	zhong guo yin hang wang shang yin hang	100
-中国银行信用卡	zhong guo yin hang xin yong ka	100
 中国银行研究院	zhong guo yin hang yan jiu yuan	100
 中国银行业协会	zhong guo yin hang ye xie hui	100
 中国银行总行	zhong guo yin hang zong hang	100
@@ -327356,11 +327383,6 @@ sort: by_weight
 中心学校	zhong xin xue xiao	100
 中心学校校长	zhong xin xue xiao xiao zhang	100
 重心移动	zhong xin yi dong	100
-中信银行广州分行	zhong xin yin hang guang zhou fen hang	100
-中信银行济南分行	zhong xin yin hang ji nan fen hang	100
-中信银行昆明分行	zhong xin yin hang kun ming fen hang	100
-中信银行信用卡	zhong xin yin hang xin yong ka	100
-中信银行郑州分行	zhong xin yin hang zheng zhou fen hang	100
 中信银行总行	zhong xin yin hang zong hang	100
 重信用企业	zhong xin yong qi ye	100
 中心语	zhong xin yu	100
@@ -329945,6 +329967,7 @@ sort: by_weight
 注入灵魂	zhu ru ling hun	100
 注入式攻击	zhu ru shi gong ji	100
 珠三角地区	zhu san jiao di qu	100
+猪臊味	zhu sao wei	100
 逐僧毁寺	zhu seng hui si	100
 朱砂符	zhu sha fu	100
 朱砂红	zhu sha hong	100
@@ -330926,13 +330949,16 @@ sort: by_weight
 赚到钱	zhuan dao qian	100
 转到银行卡	zhuan dao yin hang ka	100
 赚得不多	zhuan de bu duo	100
+赚得不少	zhuan de bu shao	100
 赚的都是辛苦钱	zhuan de dou shi xin ku qian	100
 赚得多	zhuan de duo	100
 转得飞快	zhuan de fei kuai	100
 赚得更多	zhuan de geng duo	100
+赚得更少	zhuan de geng shao	100
 赚得盆满钵满	zhuan de pen man bo man	100
 赚得少	zhuan de shao	100
 赚得最多	zhuan de zui duo	100
+赚得最少	zhuan de zui shao	100
 转得快	zhuan dei kuai	100
 转地铁	zhuan di tie	100
 赚点外快	zhuan dian wai kuai	100
@@ -331469,6 +331495,10 @@ sort: by_weight
 专注地听	zhuan zhu de ting	100
 专注度	zhuan zhu du	100
 专注度不够	zhuan zhu du bu gou	100
+专注度差	zhuan zhu du cha	100
+专注度低	zhuan zhu du di	100
+专注度高	zhuan zhu du gao	100
+专注度好	zhuan zhu du hao	100
 专注行业	zhuan zhu hang ye	100
 专注力	zhuan zhu li	100
 专注模式	zhuan zhu mo shi	100
