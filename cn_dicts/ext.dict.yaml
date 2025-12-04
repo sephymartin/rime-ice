@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-11-22"
+version: "2025-12-01"
 sort: by_weight
 ...
 # +_+
@@ -28810,7 +28810,7 @@ sort: by_weight
 昌吉地区	chang ji di qu	100
 长济高速	chang ji gao su	100
 娼妓馆	chang ji guan	100
-长肌肉	chang ji rou	100
+长假第一天	chang jia di yi tian	100
 厂家地址	chang jia di zhi	100
 厂家服务	chang jia fu wu	100
 厂家规模	chang jia gui mo	100
@@ -59366,11 +59366,9 @@ sort: by_weight
 刁天决地	diao tian jue di	100
 吊桶落在井里	diao tong la zai jing li	100
 掉头不顾	diao tou bu gu	100
-掉头发是什么原因	diao tou fa shi shen me yuan yin	100
 掉头鼠窜	diao tou shu cuan	100
 掉头行驶	diao tou xing shi	100
 吊袜带	diao wa dai	100
-吊完尾巴做电击	diao wan wei ba zuo dian ji	100
 雕文刻镂	diao wen ke lou	100
 雕纹书柜	diao wen shu gui	100
 吊我胃口	diao wo wei kou	100
@@ -64815,7 +64813,6 @@ sort: by_weight
 杜皮狗	du pi gou	100
 肚皮里	du pi li	100
 肚皮上面	du pi shang mian	100
-肚皮上面贴盐酸	du pi shang mian tie yan suan	100
 毒品学	du pin xue	100
 毒品预防宣传教育	du pin yu fang xuan chuan jiao yu	100
 读破万卷书	du po wan juan shu	100
@@ -74958,6 +74955,7 @@ sort: by_weight
 房租太贵	fang zu tai gui	100
 放尊重	fang zun zhong	100
 放尊重点儿	fang zun zhong dian er	100
+放尊重些	fang zun zhong xie	100
 防作弊系统	fang zuo bi xi tong	100
 非阿贝尔	fei a bei er	100
 肺癌的发病率	fei ai de fa bing lv	100
@@ -95344,7 +95342,6 @@ sort: by_weight
 果盘先生	guo pan xian sheng	100
 腘旁腱肌	guo pang jian ji	100
 果皮筒	guo pi tong	100
-国片商	guo pian shang	100
 国片展	guo pian zhan	100
 国聘行动	guo pin xing dong	100
 过平安夜	guo ping an ye	100
@@ -95372,7 +95369,6 @@ sort: by_weight
 国侨办	guo qiao ban	100
 过桥拆桥	guo qiao chai qiao	100
 过桥抽板	guo qiao chou ban	100
-国庆长假第一天	guo qing chang jia di yi tian	100
 国庆长假期间	guo qing chang jia qi jian	100
 国庆出行	guo qing chu xing	100
 国庆大典	guo qing da dian	100
@@ -97385,6 +97381,7 @@ sort: by_weight
 还是他	hai shi ta	100
 海蚀台地	hai shi tai di	100
 还是太年轻	hai shi tai nian qing	100
+还是太年轻了	hai shi tai nian qing le	100
 还是听	hai shi ting	100
 还是听不到	hai shi ting bu dao	100
 还是听不见	hai shi ting bu jian	100
@@ -105013,6 +105010,7 @@ sort: by_weight
 宏观经济运行情况	hong guan jing ji yun xing qing kuang	100
 宏观经济增长	hong guan jing ji zeng zhang	100
 宏观经济政策协调	hong guan jing ji zheng ce xie tiao	100
+红倌人	hong guan ren	100
 宏观调控政策	hong guan tiao kong zheng ce	100
 宏观微观	hong guan wei guan	100
 宏观政策协调	hong guan zheng ce xie tiao	100
@@ -137915,7 +137913,6 @@ sort: by_weight
 靠着自己的双手	kao zhe zi ji de shuang shou	100
 考证学	kao zheng xue	100
 考证学家	kao zheng xue jia	100
-考之宝	kao zhi bao	100
 靠制度	kao zhi du	100
 靠直觉	kao zhi jue	100
 烤汁牛肉	kao zhi niu rou	100
@@ -140775,13 +140772,9 @@ sort: by_weight
 口碑排行榜	kou bei pai hang bang	100
 口碑扑街	kou bei pu jie	100
 口碑热度	kou bei re du	100
-口碑网	kou bei wang	100
 口碑相传	kou bei xiang chuan	100
 口碑宣传	kou bei xuan chuan	100
 口碑与热度	kou bei yu re du	100
-扣鼻屎	kou bi shi	100
-口边还有浆	kou bian hai you jiang	100
-口边有浆	kou bian you jiang	100
 口不二价	kou bu er jia	100
 扣不上	kou bu shang	100
 扣不上了	kou bu shang le	100
@@ -140792,7 +140785,6 @@ sort: by_weight
 口陈肝胆	kou chen gan dan	100
 口齿清楚	kou chi qing chu	100
 口齿生香	kou chi sheng xiang	100
-口臭是什么原因	kou chou shi shen me yuan yin	100
 口臭严重	kou chou yan zhong	100
 口出大言	kou chu da yan	100
 口出恶言	kou chu e yan	100
@@ -140957,7 +140949,6 @@ sort: by_weight
 扣押或者销毁	kou ya huo zhe xiao hui	100
 扣押你	kou ya ni	100
 扣押我	kou ya wo	100
-扣眼儿	kou yan er	100
 扣一个帽子	kou yi ge mao zi	100
 口音重	kou yin zhong	100
 口语沟通	kou yu gou tong	100
@@ -161100,7 +161091,6 @@ sort: by_weight
 没白来	mei bai lai	100
 没拜年	mei bai nian	100
 美白系列	mei bai xi lie	100
-没白学	mei bai xue	100
 美白针	mei bai zhen	100
 没办成	mei ban cheng	100
 美版的	mei ban de	100
@@ -163112,8 +163102,10 @@ sort: by_weight
 美貌与智慧并重	mei mao yu zhi hui bing zhong	100
 妹妹背着洋娃娃	mei mei bei zhe yang wa wa	100
 美美哒	mei mei da	100
+美美地出门	mei mei de chu men	100
 妹妹的哥哥	mei mei de ge ge	100
-美美的睡上一觉	mei mei de shui shang yi jiao	100
+美美地睡上一觉	mei mei de shui shang yi jiao	100
+美美地享受	mei mei de xiang shou	100
 妹妹的义务	mei mei de yi wu	100
 妹妹还小	mei mei hai xiao	100
 妹妹和妹夫	mei mei he mei fu	100
@@ -165448,6 +165440,7 @@ sort: by_weight
 没有结局的故事	mei you jie ju de gu shi	100
 没有借口	mei you jie kou	100
 没有界限	mei you jie xian	100
+没有戒心	mei you jie xin	100
 没有解药	mei you jie yao	100
 没有进步	mei you jin bu	100
 没有进化	mei you jin hua	100
@@ -170703,6 +170696,7 @@ sort: by_weight
 镆元素	mo yuan su	100
 磨圆作用	mo yuan zuo yong	100
 抹月批风	mo yue pi feng	100
+膜运输蛋白	mo yun shu dan bai	100
 没藏讹庞	mo zang e pang	100
 没藏氏	mo zang shi	100
 模造品	mo zao pin	100
@@ -236903,12 +236897,9 @@ sort: by_weight
 坦率承认	tan shuai cheng ren	100
 坦率真诚	tan shuai zhen cheng	100
 贪睡虫	tan shui chong	100
-碳水化合	tan shui hua he	100
-炭水化合物	tan shui hua he wu	100
 弹丝品竹	tan si pin zhu	100
 弹塑性	tan su xing	100
 碳酸水	tan suan shui	100
-炭酸盐	tan suan yan	100
 碳酸岩	tan suan yan	100
 探索的乐趣	tan suo de le qu	100
 探索地球	tan suo di qiu	100
@@ -247433,6 +247424,7 @@ sort: by_weight
 玩得很好	wan de hen hao	100
 玩得很好啊	wan de hen hao a	100
 玩得很好呀	wan de hen hao ya	100
+玩得很花	wan de hen hua	100
 玩得很开	wan de hen kai	100
 玩得很开心	wan de hen kai xin	100
 玩得很溜	wan de hen liu	100
@@ -247460,6 +247452,7 @@ sort: by_weight
 玩得太大	wan de tai da	100
 玩得太大了	wan de tai da le	100
 玩得特别开心	wan de te bie kai xin	100
+玩得挺花	wan de ting hua	100
 玩得痛快	wan de tong kuai	100
 玩得团团转	wan de tuan tuan zhuan	100
 弯得下腰	wan de xia yao	100
@@ -253229,6 +253222,7 @@ sort: by_weight
 温温和和	wen wen he he	100
 稳稳降落	wen wen jiang luo	100
 闻闻看	wen wen kan	100
+稳稳落袋	wen wen luo dai	100
 稳稳落地	wen wen luo di	100
 问问你	wen wen ni	100
 稳稳妥妥	wen wen tuo tuo	100
@@ -264217,9 +264211,6 @@ sort: by_weight
 稀松平常	xi song ping chang	100
 吸塑模具	xi su mu ju	100
 习俗移性	xi su yi xing	100
-矽酸钠	xi suan na	100
-硒酸钠	xi suan na	100
-矽酸盐	xi suan yan	100
 悉索敝赋	xi suo bi fu	100
 西台帝国	xi tai di guo	100
 西台古堡	xi tai gu bao	100
@@ -265330,6 +265321,7 @@ sort: by_weight
 西藏自治区林芝市	xi zang zi zhi qu lin zhi shi	100
 西藏自治区体育局	xi zang zi zhi qu ti yu ju	100
 西藏自治区政府	xi zang zi zhi qu zheng fu	100
+西藏棕熊	xi zang zong xiong	100
 洗澡的地方	xi zao de di fang	100
 洗澡了吗	xi zao le ma	100
 洗澡了么	xi zao le me	100
@@ -267213,7 +267205,9 @@ sort: by_weight
 先府君	xian fu jun	100
 仙福永享	xian fu yong xiang	100
 先感到	xian gan dao	100
+腺苷二磷酸	xian gan er lin suan	100
 先干了	xian gan le	100
+腺苷三磷酸	xian gan san lin suan	100
 先干什么	xian gan shen me	100
 先干着了	xian gan zhao le	100
 先干着	xian gan zhe	100
@@ -267228,7 +267222,6 @@ sort: by_weight
 弦歌之声	xian ge zhi sheng	100
 献给大家	xian gei da jia	100
 献给了	xian gei le	100
-先给他	xian gei ta	100
 先给我	xian gei wo	100
 先给我发	xian gei wo fa	100
 先跟着	xian gen zhe	100
@@ -313772,6 +313765,7 @@ sort: by_weight
 掌机模式	zhang ji mo shi	100
 长技能	zhang ji neng	100
 张基琦	zhang ji qi	100
+长肌肉	zhang ji rou	100
 长记性	zhang ji xing	100
 长记性了	zhang ji xing le	100
 张家长李家短	zhang jia chang li jia duan	100
@@ -323610,7 +323604,6 @@ sort: by_weight
 指责我	zhi ze wo	100
 指责我们	zhi ze wo men	100
 只增不减	zhi zeng bu jian	100
-纸扎店	zhi zha dian	100
 只占卜	zhi zhan bu	100
 只站到	zhi zhan dao	100
 止战之殇	zhi zhan zhi shang	100
@@ -337296,6 +337289,7 @@ sort: by_weight
 尊重宪法	zun zhong xian fa	100
 尊重现实	zun zhong xian shi	100
 尊重消费者	zun zhong xiao fei zhe	100
+尊重些	zun zhong xie	100
 尊重需求	zun zhong xu qiu	100
 尊重学生人格	zun zhong xue sheng ren ge	100
 尊重演员	zun zhong yan yuan	100
