@@ -78,6 +78,9 @@ bash rime-install <recipe_name>
 ```bash
 # 为 fcitx5 安装
 rime_frontend=fcitx5-rime bash rime-install <recipe_name>
+
+# 或指定位置
+rime_dir="$HOME/.local/share/fcitx5/rime" bash rime-install <recipe_name>
 ```
 
 </details>
@@ -88,46 +91,72 @@ rime_frontend=fcitx5-rime bash rime-install <recipe_name>
 
 ℞ 安装或更新全部文件
 
-```
+```bash
 bash rime-install iDvel/rime-ice
 ```
 
 ℞ 安装或更新所有词库文件（包含下面三个）
 
-```
+```bash
 bash rime-install iDvel/rime-ice:others/recipes/all_dicts
 ```
 
 ℞ 安装或更新拼音词库文件（`cn_dicts/` 目录内所有文件）
 
-```
+```bash
 bash rime-install iDvel/rime-ice:others/recipes/cn_dicts
 ```
 
 ℞ 安装或更新英文词库文件（`en_dicts/` 目录内所有文件）
 
-```
+```bash
 bash rime-install iDvel/rime-ice:others/recipes/en_dicts
 ```
 
 ℞ 安装或更新 opencc（`opencc/` 目录内所有文件）
 
-```
+```bash
 bash rime-install iDvel/rime-ice:others/recipes/opencc
 ```
 
 下面这个配方会在 `radical_pinyin.custom.yaml` 和 `melt_eng.custom.yaml` 里将 `speller/algebra` 修改为对应的双拼拼写，选择一个自己使用的双拼作为参数。
 
-℞ 双拼补丁
+℞ 双拼补丁（首次安装后执行，后续更新不需要执行）
 
-```
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=flypy
+```bash
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_flypy
 bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=mspy
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=sogou
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=abc
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=ziguang
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=jiajia
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_mspy
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_dsogou
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_abc
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_ziguang
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_jiajia
+```
+
+℞ 添加语法模型（万象语法模型）（首次安装后执行，后续更新不需要执行）
+
+```bash
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=rime_ice
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_flypy
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_mspy
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_dsogou
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_abc
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_ziguang
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=double_pinyin_jiajia
+```
+
+℞ 给反查添加音调（首次安装后执行，后续更新不需要执行）
+
+```bash
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=rime_ice
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_flypy
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_mspy
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_dsogou
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_abc
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_ziguang
+bash rime-install iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_jiajia
 ```
 
 ℞ 下载特定版本的配置
