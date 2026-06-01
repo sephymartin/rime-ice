@@ -10,7 +10,6 @@
 
 [立即下载安装](#安装) | [功能演示和教程](#功能演示和使用教程) | [常见问题](#常见问题) | [词库共建](https://github.com/iDvel/rime-ice/issues/666) | [更新日志](./others/docs/Changelog.md) | [详细介绍](https://dvel.me/posts/rime-ice/) ↗ | [在线体验](https://www.mintimate.cc/zh/demo/fcitx5Online.html)[^1] ↗
 
-
 ## 安装
 
 到 Rime [官网](https://rime.im/) 或 app 商店下载安装 Rime 输入法应用。然后：
@@ -21,9 +20,13 @@
 
 部署完成后就可以打字了。按 <kbd>F4</kbd> 可以切换输入方案或开关各项功能。重做以上三步可以更新/还原雾凇拼音。
 
-也可以使用 [/plum/](https://github.com/rime/plum) ℞ 自动化安装和配置，请确保已安装 git，依次在终端执行以下命令：
+<details>
+<summary>↓ 雾凇拼音也支持命令行自动安装、打补丁和配置语法模型 ↓</summary>
 
 ```bash
+* 需要安装 git 及 bash
+* Windows 环境 bash 命令被系统 WSL 占用，进入 git bash 环境再执行以下命令
+
 # 1. 安装 plum
 cd ~
 git clone https://github.com/rime/plum.git plum
@@ -31,15 +34,14 @@ git clone https://github.com/rime/plum.git plum
 # 2. 安装雾凇拼音到默认客户端（Weasel，Squirrel，iBus-rime），更新词库只要执行这一步，3、4 步不需要。
 # 如使用其他客户端请手动指定 rime_dir 变量。
 # e.g. rime_dir="$HOME/.config/fcitx5/rime" bash rime-install iDvel/rime-ice
-
 cd ~/plum
 bash rime-install iDvel/rime-ice
 
-# 3. 双拼用户额外执行，全拼用户跳过。替换「方案名称」为你使用的方案
-bash rime-install iDvel/rime-ice:others/recipes/config:schema=方案名称
+# 3. 双拼用户额外执行，全拼用户跳过。替换「double_pinyin_flypy」为你使用的方案
+bash rime-install iDvel/rime-ice:others/recipes/config:schema=double_pinyin_flypy
 
-# 4. 如需万象语法模型，额外执行。替换「方案名称」为你使用的方案
-bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=方案名称
+# 4. 如需万象语法模型，额外执行。替换「rime_ice」为你使用的方案
+bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=rime_ice
 
 # 5. 重新部署
 
@@ -54,7 +56,9 @@ bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=方案名称
 # double_pinyin_ziguang（紫光双拼）
 ```
 
-了解更多细节以及其他支持的安装方式，参考 [详细安装指导](./others/docs/Installation.md)。
+</details>
+
+要了解更多细节及其他支持的安装方式，请参考 [详细安装指导](./others/docs/Installation.md)。
 
 ## 介绍
 
@@ -177,7 +181,7 @@ Thanks to all contributors.
 
 ### Rime 语法模型介绍
 
-Rime 语法模型功能基于佛振开发的 [八股文语法插件](https://github.com/lotem/librime-octagram)。主流客户端均预装此插件。但如果需要使用，要额外安装与否模型文件和对方案配置打补丁。
+Rime 语法模型功能基于佛振开发的 [八股文语法插件](https://github.com/lotem/librime-octagram)。主流客户端均预装此插件。需要使用的话，要额外安装模型文件和方案配置补丁。
 
 语法模型期望提升长句输入的准确率，但受训练数据、词典和用户自造词影响，不保证在所有情况下的准确率均能有提升。
 
@@ -236,7 +240,7 @@ bash rime-install iDvel/rime-ice:others/recipes/grammar:schema=方案名称
 
 双拼可以直接用 plum 自动打补丁，也可以手写，下面以小鹤双拼方案 `double_pinyin_flypy.schema.yaml` 为例。
 
-（补丁放到仓库里了 [others/双拼补丁示例](https://github.com/iDvel/rime-ice/tree/main/others/%E5%8F%8C%E6%8B%BC%E8%A1%A5%E4%B8%81%E7%A4%BA%E4%BE%8B)）
+（补丁放到仓库里了 [others/patch_examples](https://github.com/iDvel/rime-ice/tree/main/others/patch_examples)）
 
 1. 创建 `melt_eng.custom.yaml` 修改英文派生规则：
 
